@@ -1,0 +1,2770 @@
+Customer Age,Product Purchased,Ticket Type,Ticket Subject,Ticket Priority,Ticket Channel,incumplio_sla
+48,Dell XPS,Technical issue,Network problem,Low,Social media,0
+27,Microsoft Office,Billing inquiry,Account access,Low,Social media,0
+67,Autodesk AutoCAD,Billing inquiry,Data loss,Low,Email,0
+48,Nintendo Switch,Cancellation request,Data loss,High,Phone,0
+51,Microsoft Xbox Controller,Product inquiry,Software bug,High,Chat,1
+48,Sony PlayStation,Billing inquiry,Product setup,High,Chat,1
+63,Xbox,Product inquiry,Account access,Critical,Chat,1
+39,Canon EOS,Refund request,Software bug,Low,Chat,0
+30,Fitbit Charge,Technical issue,Product recommendation,Critical,Phone,1
+67,Xbox,Cancellation request,Cancellation request,Medium,Phone,0
+60,GoPro Action Camera,Technical issue,Product compatibility,Medium,Social media,0
+50,Autodesk AutoCAD,Refund request,Hardware issue,Critical,Social media,1
+24,GoPro Hero,Cancellation request,Product recommendation,High,Chat,1
+19,Google Pixel,Technical issue,Account access,Critical,Phone,0
+35,Dell XPS,Billing inquiry,Product compatibility,Critical,Chat,1
+34,HP Pavilion,Refund request,Product compatibility,Critical,Email,1
+50,Nintendo Switch Pro Controller,Refund request,Network problem,High,Phone,0
+27,GoPro Hero,Technical issue,Software bug,Medium,Social media,1
+64,LG Smart TV,Refund request,Software bug,Medium,Chat,1
+54,Nest Thermostat,Refund request,Network problem,High,Social media,1
+37,HP Pavilion,Cancellation request,Delivery problem,Low,Chat,0
+27,Autodesk AutoCAD,Technical issue,Product recommendation,Medium,Phone,0
+40,Apple AirPods,Product inquiry,Cancellation request,Medium,Chat,0
+40,Sony 4K HDR TV,Cancellation request,Product setup,Medium,Chat,0
+64,Xbox,Billing inquiry,Payment issue,High,Email,1
+49,GoPro Hero,Billing inquiry,Product compatibility,High,Email,0
+46,Canon DSLR Camera,Refund request,Refund request,High,Chat,0
+34,Dyson Vacuum Cleaner,Billing inquiry,Display issue,Low,Chat,0
+36,Fitbit Charge,Cancellation request,Payment issue,Critical,Social media,0
+37,Roomba Robot Vacuum,Product inquiry,Display issue,Critical,Chat,1
+63,Fitbit Charge,Billing inquiry,Delivery problem,Low,Email,0
+24,PlayStation,Refund request,Software bug,Low,Social media,0
+46,Sony PlayStation,Technical issue,Product recommendation,Critical,Phone,1
+40,Sony Xperia,Product inquiry,Product recommendation,Medium,Email,0
+60,Autodesk AutoCAD,Product inquiry,Battery life,High,Chat,1
+38,Samsung Galaxy,Billing inquiry,Refund request,High,Chat,0
+40,Asus ROG,Refund request,Battery life,Critical,Email,1
+42,Nintendo Switch,Cancellation request,Installation support,Low,Email,0
+33,Dyson Vacuum Cleaner,Technical issue,Product setup,Critical,Chat,0
+60,Amazon Echo,Cancellation request,Peripheral compatibility,High,Email,0
+27,Microsoft Office,Cancellation request,Payment issue,High,Email,1
+28,Sony 4K HDR TV,Cancellation request,Battery life,High,Email,1
+20,iPhone,Cancellation request,Software bug,High,Email,1
+18,Google Nest,Billing inquiry,Product setup,Medium,Phone,0
+41,Fitbit Charge,Billing inquiry,Software bug,Low,Phone,0
+49,Adobe Photoshop,Cancellation request,Hardware issue,Medium,Email,0
+43,Asus ROG,Billing inquiry,Product recommendation,Medium,Email,0
+50,Nintendo Switch,Refund request,Refund request,Critical,Phone,0
+66,PlayStation,Cancellation request,Product setup,Critical,Email,1
+21,Amazon Echo,Technical issue,Network problem,Low,Chat,0
+58,Adobe Photoshop,Product inquiry,Product compatibility,Critical,Chat,1
+47,LG Washing Machine,Cancellation request,Product setup,Critical,Email,1
+31,Sony PlayStation,Technical issue,Software bug,High,Chat,0
+22,Apple AirPods,Billing inquiry,Product compatibility,Low,Social media,0
+40,LG Washing Machine,Refund request,Installation support,High,Chat,0
+64,Philips Hue Lights,Technical issue,Peripheral compatibility,Critical,Email,0
+29,Google Pixel,Refund request,Product recommendation,Critical,Email,1
+29,HP Pavilion,Refund request,Product setup,High,Phone,1
+30,Bose SoundLink Speaker,Refund request,Payment issue,Critical,Phone,1
+34,Microsoft Office,Cancellation request,Product recommendation,Medium,Phone,0
+24,HP Pavilion,Billing inquiry,Product setup,Low,Social media,0
+32,Xbox,Refund request,Battery life,Medium,Email,0
+41,Garmin Forerunner,Technical issue,Delivery problem,Medium,Chat,0
+30,Sony Xperia,Product inquiry,Network problem,Medium,Phone,1
+44,Microsoft Office,Billing inquiry,Product setup,Low,Social media,0
+42,PlayStation,Technical issue,Delivery problem,Medium,Email,1
+33,Samsung Soundbar,Product inquiry,Delivery problem,High,Chat,0
+32,Google Pixel,Billing inquiry,Network problem,Medium,Phone,0
+37,Roomba Robot Vacuum,Refund request,Product compatibility,High,Phone,1
+58,GoPro Hero,Product inquiry,Account access,Medium,Phone,0
+57,Samsung Soundbar,Billing inquiry,Payment issue,Medium,Social media,0
+30,MacBook Pro,Refund request,Delivery problem,High,Chat,1
+60,Amazon Echo,Cancellation request,Product setup,Critical,Chat,1
+66,Canon EOS,Product inquiry,Software bug,Medium,Chat,0
+43,Google Nest,Cancellation request,Software bug,High,Phone,0
+55,Sony Xperia,Refund request,Delivery problem,Medium,Phone,1
+62,Nintendo Switch Pro Controller,Technical issue,Delivery problem,Low,Chat,0
+65,Canon EOS,Technical issue,Refund request,Critical,Social media,0
+70,Sony Xperia,Billing inquiry,Installation support,Medium,Social media,0
+35,PlayStation,Technical issue,Product recommendation,High,Chat,0
+53,Apple AirPods,Billing inquiry,Product recommendation,High,Phone,1
+66,Microsoft Xbox Controller,Technical issue,Hardware issue,Critical,Social media,0
+40,iPhone,Refund request,Refund request,Critical,Phone,1
+31,Sony Xperia,Product inquiry,Peripheral compatibility,High,Social media,0
+66,Philips Hue Lights,Technical issue,Delivery problem,Low,Social media,0
+55,iPhone,Billing inquiry,Product compatibility,Low,Social media,0
+35,Sony PlayStation,Refund request,Product compatibility,High,Chat,1
+19,Roomba Robot Vacuum,Technical issue,Product setup,Critical,Phone,0
+33,PlayStation,Billing inquiry,Battery life,Low,Social media,0
+48,Microsoft Surface,Product inquiry,Hardware issue,Medium,Chat,1
+46,Sony Xperia,Refund request,Cancellation request,Critical,Social media,1
+29,LG OLED,Cancellation request,Product compatibility,Medium,Chat,1
+64,MacBook Pro,Refund request,Hardware issue,High,Social media,0
+63,Xbox,Billing inquiry,Data loss,Critical,Phone,1
+39,Autodesk AutoCAD,Billing inquiry,Refund request,Medium,Chat,0
+21,Apple AirPods,Technical issue,Software bug,Low,Social media,0
+33,Bose SoundLink Speaker,Product inquiry,Refund request,Critical,Chat,0
+35,Philips Hue Lights,Billing inquiry,Product compatibility,High,Email,0
+58,Philips Hue Lights,Product inquiry,Cancellation request,Critical,Phone,1
+26,Microsoft Xbox Controller,Billing inquiry,Installation support,Medium,Social media,1
+24,Apple AirPods,Cancellation request,Cancellation request,Critical,Phone,1
+44,Amazon Kindle,Product inquiry,Peripheral compatibility,Medium,Phone,0
+53,Amazon Kindle,Cancellation request,Software bug,Medium,Chat,0
+32,GoPro Action Camera,Refund request,Peripheral compatibility,Low,Social media,0
+53,Nintendo Switch Pro Controller,Technical issue,Peripheral compatibility,High,Social media,1
+46,Bose QuietComfort,Refund request,Product setup,Critical,Chat,0
+46,Microsoft Xbox Controller,Technical issue,Battery life,Medium,Email,0
+30,GoPro Hero,Cancellation request,Payment issue,High,Email,1
+18,Apple AirPods,Technical issue,Cancellation request,Low,Chat,0
+27,Nest Thermostat,Cancellation request,Software bug,Medium,Email,0
+70,Canon DSLR Camera,Refund request,Battery life,Critical,Social media,1
+52,Microsoft Surface,Refund request,Hardware issue,Low,Phone,0
+45,GoPro Hero,Refund request,Product recommendation,Medium,Chat,0
+21,Fitbit Versa Smartwatch,Technical issue,Delivery problem,Medium,Social media,0
+41,Nintendo Switch Pro Controller,Technical issue,Installation support,Medium,Phone,0
+45,iPhone,Technical issue,Product compatibility,Critical,Social media,1
+33,Roomba Robot Vacuum,Product inquiry,Data loss,Low,Email,0
+21,Sony PlayStation,Cancellation request,Cancellation request,Low,Chat,0
+52,HP Pavilion,Technical issue,Network problem,High,Phone,1
+54,Garmin Forerunner,Technical issue,Payment issue,High,Social media,1
+28,LG OLED,Billing inquiry,Battery life,Critical,Email,1
+70,Garmin Forerunner,Cancellation request,Product compatibility,Critical,Social media,1
+47,Bose SoundLink Speaker,Refund request,Installation support,High,Email,1
+52,Nest Thermostat,Cancellation request,Refund request,Critical,Chat,1
+38,iPhone,Technical issue,Cancellation request,High,Chat,1
+42,Nintendo Switch Pro Controller,Cancellation request,Network problem,Medium,Email,0
+50,Bose QuietComfort,Product inquiry,Product compatibility,Medium,Chat,0
+33,GoPro Action Camera,Cancellation request,Payment issue,High,Chat,0
+22,Bose QuietComfort,Billing inquiry,Peripheral compatibility,Medium,Social media,1
+24,Roomba Robot Vacuum,Refund request,Account access,Medium,Email,0
+39,Amazon Kindle,Cancellation request,Battery life,Medium,Email,0
+32,GoPro Action Camera,Refund request,Battery life,Medium,Social media,0
+24,GoPro Hero,Technical issue,Cancellation request,Critical,Phone,0
+30,Lenovo ThinkPad,Product inquiry,Refund request,Low,Phone,0
+42,Nintendo Switch,Refund request,Data loss,Medium,Email,0
+37,GoPro Hero,Product inquiry,Peripheral compatibility,Low,Email,0
+62,Sony PlayStation,Product inquiry,Refund request,High,Email,1
+37,Sony 4K HDR TV,Refund request,Display issue,High,Social media,0
+49,Google Nest,Technical issue,Software bug,Medium,Chat,1
+52,iPhone,Cancellation request,Hardware issue,Critical,Email,0
+22,Adobe Photoshop,Billing inquiry,Data loss,High,Chat,0
+19,Bose SoundLink Speaker,Technical issue,Display issue,High,Phone,1
+43,Microsoft Surface,Product inquiry,Refund request,Critical,Chat,1
+21,GoPro Action Camera,Technical issue,Delivery problem,Low,Phone,0
+51,Sony 4K HDR TV,Cancellation request,Cancellation request,Medium,Social media,1
+67,Google Nest,Billing inquiry,Installation support,Low,Phone,0
+69,Asus ROG,Cancellation request,Battery life,Critical,Social media,0
+49,Dyson Vacuum Cleaner,Product inquiry,Product compatibility,Critical,Email,1
+19,Amazon Kindle,Refund request,Hardware issue,Low,Phone,0
+47,Garmin Forerunner,Technical issue,Software bug,Low,Chat,0
+35,Philips Hue Lights,Refund request,Hardware issue,High,Phone,1
+64,Sony 4K HDR TV,Refund request,Data loss,Low,Chat,0
+69,Canon EOS,Cancellation request,Product setup,Critical,Social media,1
+57,MacBook Pro,Product inquiry,Delivery problem,Medium,Social media,1
+55,LG OLED,Cancellation request,Network problem,Low,Email,0
+39,Amazon Kindle,Technical issue,Data loss,Medium,Chat,0
+36,Canon DSLR Camera,Refund request,Delivery problem,Medium,Phone,0
+56,Google Nest,Technical issue,Display issue,Medium,Phone,1
+47,Canon DSLR Camera,Refund request,Software bug,Critical,Chat,1
+21,Nikon D,Billing inquiry,Account access,High,Social media,0
+28,Fitbit Versa Smartwatch,Refund request,Cancellation request,Low,Social media,0
+58,Amazon Echo,Refund request,Delivery problem,Low,Email,0
+40,PlayStation,Product inquiry,Payment issue,Low,Email,0
+52,Google Nest,Billing inquiry,Delivery problem,Critical,Email,1
+51,Canon EOS,Product inquiry,Cancellation request,Medium,Social media,0
+19,Microsoft Xbox Controller,Billing inquiry,Delivery problem,Critical,Chat,1
+38,GoPro Action Camera,Cancellation request,Network problem,Low,Email,0
+65,Nintendo Switch,Refund request,Data loss,Critical,Phone,1
+42,Samsung Soundbar,Cancellation request,Refund request,Medium,Phone,1
+60,Canon DSLR Camera,Product inquiry,Account access,Low,Social media,0
+37,Amazon Kindle,Technical issue,Product setup,Low,Phone,0
+70,Canon DSLR Camera,Technical issue,Data loss,Critical,Chat,1
+33,Dyson Vacuum Cleaner,Product inquiry,Product compatibility,Medium,Phone,0
+66,Autodesk AutoCAD,Billing inquiry,Account access,Critical,Chat,1
+33,Fitbit Charge,Technical issue,Account access,Low,Social media,0
+66,Sony PlayStation,Technical issue,Installation support,Medium,Phone,0
+66,Garmin Forerunner,Cancellation request,Product compatibility,High,Chat,0
+59,Canon DSLR Camera,Billing inquiry,Hardware issue,Critical,Phone,0
+43,Sony Xperia,Technical issue,Cancellation request,Medium,Phone,0
+40,Asus ROG,Product inquiry,Product compatibility,High,Chat,0
+43,Canon EOS,Product inquiry,Battery life,Low,Phone,0
+62,Amazon Echo,Technical issue,Delivery problem,Critical,Chat,1
+54,GoPro Hero,Technical issue,Product recommendation,Medium,Phone,1
+55,Dyson Vacuum Cleaner,Billing inquiry,Software bug,Critical,Phone,1
+21,Nest Thermostat,Product inquiry,Account access,Critical,Chat,1
+38,Nikon D,Refund request,Battery life,Low,Email,0
+30,Microsoft Office,Refund request,Product setup,Medium,Chat,0
+52,Bose QuietComfort,Refund request,Display issue,Critical,Social media,1
+48,Sony 4K HDR TV,Technical issue,Account access,Medium,Phone,1
+32,Microsoft Xbox Controller,Technical issue,Peripheral compatibility,Medium,Phone,0
+27,Adobe Photoshop,Cancellation request,Cancellation request,Medium,Chat,0
+18,PlayStation,Refund request,Display issue,Low,Email,0
+44,Google Pixel,Billing inquiry,Installation support,Critical,Email,1
+42,Nikon D,Product inquiry,Peripheral compatibility,Critical,Chat,0
+44,LG OLED,Technical issue,Network problem,Medium,Phone,0
+20,Sony Xperia,Cancellation request,Cancellation request,High,Phone,1
+46,Canon EOS,Billing inquiry,Peripheral compatibility,High,Phone,1
+44,Samsung Galaxy,Product inquiry,Network problem,Low,Social media,0
+25,Adobe Photoshop,Billing inquiry,Network problem,Medium,Chat,1
+32,Sony 4K HDR TV,Billing inquiry,Data loss,Low,Email,0
+66,Apple AirPods,Product inquiry,Account access,Low,Social media,0
+27,Samsung Galaxy,Cancellation request,Software bug,Critical,Social media,0
+24,Microsoft Office,Refund request,Product setup,Critical,Chat,1
+52,LG OLED,Refund request,Product recommendation,Medium,Phone,0
+44,PlayStation,Technical issue,Data loss,High,Phone,0
+68,LG Smart TV,Cancellation request,Data loss,Critical,Phone,1
+37,Garmin Forerunner,Technical issue,Cancellation request,High,Phone,1
+45,GoPro Action Camera,Technical issue,Account access,Critical,Social media,1
+64,Canon DSLR Camera,Billing inquiry,Installation support,Low,Email,0
+48,Lenovo ThinkPad,Refund request,Refund request,Critical,Email,1
+27,Google Pixel,Product inquiry,Installation support,Critical,Social media,1
+19,MacBook Pro,Product inquiry,Network problem,Medium,Phone,1
+59,Amazon Kindle,Technical issue,Refund request,Low,Email,0
+46,Canon EOS,Billing inquiry,Hardware issue,Low,Email,0
+39,Sony 4K HDR TV,Product inquiry,Account access,Medium,Chat,0
+19,Canon EOS,Billing inquiry,Hardware issue,High,Email,0
+53,Canon DSLR Camera,Cancellation request,Data loss,Medium,Chat,0
+67,LG Smart TV,Technical issue,Hardware issue,Low,Email,0
+31,Samsung Galaxy,Billing inquiry,Display issue,High,Phone,0
+53,Microsoft Surface,Cancellation request,Network problem,Critical,Email,1
+67,MacBook Pro,Refund request,Refund request,Medium,Social media,0
+52,PlayStation,Refund request,Cancellation request,Medium,Phone,0
+43,Nest Thermostat,Refund request,Software bug,High,Email,0
+55,Sony PlayStation,Refund request,Product recommendation,Critical,Email,1
+57,Nintendo Switch Pro Controller,Technical issue,Cancellation request,High,Social media,1
+26,Amazon Echo,Billing inquiry,Data loss,High,Social media,0
+39,Sony Xperia,Product inquiry,Product setup,Low,Social media,0
+64,Xbox,Cancellation request,Installation support,Medium,Social media,0
+63,Sony Xperia,Product inquiry,Delivery problem,Medium,Phone,0
+28,Nintendo Switch,Product inquiry,Software bug,Medium,Email,0
+20,Garmin Forerunner,Cancellation request,Refund request,Medium,Social media,0
+53,Nikon D,Technical issue,Display issue,Critical,Phone,1
+68,Sony PlayStation,Product inquiry,Product setup,Critical,Email,1
+39,Canon EOS,Technical issue,Data loss,Critical,Chat,0
+28,Sony 4K HDR TV,Product inquiry,Peripheral compatibility,Medium,Phone,0
+68,Canon DSLR Camera,Billing inquiry,Display issue,Medium,Email,0
+41,Canon EOS,Product inquiry,Software bug,High,Social media,1
+22,Bose QuietComfort,Billing inquiry,Refund request,Critical,Social media,1
+22,Autodesk AutoCAD,Cancellation request,Peripheral compatibility,Medium,Email,0
+63,Sony Xperia,Technical issue,Delivery problem,Critical,Chat,1
+37,Fitbit Charge,Product inquiry,Refund request,High,Chat,0
+69,Dell XPS,Refund request,Hardware issue,High,Chat,0
+58,Nest Thermostat,Cancellation request,Payment issue,Critical,Email,1
+26,Fitbit Versa Smartwatch,Technical issue,Delivery problem,High,Phone,1
+70,LG Washing Machine,Product inquiry,Product recommendation,High,Email,0
+37,MacBook Pro,Refund request,Data loss,Critical,Chat,1
+30,Nintendo Switch Pro Controller,Technical issue,Peripheral compatibility,Low,Phone,0
+68,Adobe Photoshop,Billing inquiry,Installation support,Critical,Phone,0
+50,Dell XPS,Technical issue,Battery life,Medium,Email,1
+29,LG Washing Machine,Cancellation request,Delivery problem,High,Social media,1
+50,GoPro Action Camera,Technical issue,Hardware issue,Low,Chat,0
+49,Nintendo Switch Pro Controller,Cancellation request,Peripheral compatibility,Medium,Chat,0
+62,Bose QuietComfort,Technical issue,Product recommendation,Critical,Chat,1
+36,Google Nest,Cancellation request,Hardware issue,High,Chat,1
+45,Sony Xperia,Technical issue,Peripheral compatibility,Critical,Email,0
+67,Google Nest,Cancellation request,Refund request,Critical,Email,0
+37,Nintendo Switch Pro Controller,Technical issue,Peripheral compatibility,High,Phone,1
+47,Microsoft Xbox Controller,Technical issue,Network problem,Critical,Email,1
+51,Xbox,Cancellation request,Product compatibility,Critical,Phone,1
+37,Roomba Robot Vacuum,Product inquiry,Payment issue,Medium,Phone,0
+26,Philips Hue Lights,Refund request,Installation support,High,Chat,1
+47,Samsung Soundbar,Technical issue,Product setup,Critical,Social media,1
+25,Sony PlayStation,Product inquiry,Cancellation request,Medium,Social media,0
+37,LG Smart TV,Billing inquiry,Product recommendation,Medium,Email,0
+22,iPhone,Refund request,Payment issue,Critical,Chat,1
+29,Dell XPS,Product inquiry,Hardware issue,High,Chat,0
+49,iPhone,Cancellation request,Account access,Medium,Chat,0
+27,Canon DSLR Camera,Cancellation request,Product compatibility,Critical,Chat,1
+19,Sony PlayStation,Refund request,Display issue,Low,Phone,0
+35,Bose SoundLink Speaker,Refund request,Product recommendation,Critical,Phone,0
+30,LG OLED,Product inquiry,Product recommendation,High,Phone,1
+21,Fitbit Versa Smartwatch,Cancellation request,Software bug,Critical,Email,1
+46,Roomba Robot Vacuum,Refund request,Product recommendation,Critical,Chat,0
+57,Google Pixel,Product inquiry,Peripheral compatibility,High,Social media,1
+28,Sony 4K HDR TV,Technical issue,Peripheral compatibility,High,Email,1
+41,Nikon D,Refund request,Product setup,Medium,Social media,0
+27,Nintendo Switch Pro Controller,Product inquiry,Hardware issue,Low,Social media,0
+23,LG Smart TV,Refund request,Product recommendation,High,Phone,1
+29,Lenovo ThinkPad,Cancellation request,Hardware issue,Critical,Social media,0
+19,Garmin Forerunner,Product inquiry,Software bug,Low,Email,0
+21,GoPro Hero,Refund request,Hardware issue,Critical,Chat,1
+27,Canon DSLR Camera,Cancellation request,Network problem,Medium,Phone,1
+70,Nintendo Switch Pro Controller,Product inquiry,Product compatibility,Critical,Phone,0
+49,Autodesk AutoCAD,Billing inquiry,Product compatibility,High,Phone,0
+53,Fitbit Versa Smartwatch,Refund request,Display issue,Low,Email,0
+29,Sony 4K HDR TV,Refund request,Display issue,Medium,Email,0
+69,Nest Thermostat,Billing inquiry,Battery life,High,Social media,0
+67,iPhone,Billing inquiry,Installation support,High,Social media,0
+52,Roomba Robot Vacuum,Product inquiry,Payment issue,Medium,Phone,0
+25,GoPro Hero,Refund request,Display issue,Medium,Social media,0
+23,Nest Thermostat,Refund request,Account access,Low,Email,0
+26,Canon EOS,Technical issue,Product compatibility,Medium,Chat,0
+30,Asus ROG,Cancellation request,Refund request,High,Phone,1
+33,Canon DSLR Camera,Refund request,Hardware issue,Critical,Chat,0
+48,Bose QuietComfort,Cancellation request,Product recommendation,Medium,Phone,0
+45,Adobe Photoshop,Technical issue,Payment issue,High,Phone,1
+19,Apple AirPods,Billing inquiry,Data loss,High,Chat,0
+21,Sony 4K HDR TV,Product inquiry,Product recommendation,Critical,Email,0
+18,Bose SoundLink Speaker,Billing inquiry,Peripheral compatibility,Critical,Phone,1
+37,Sony Xperia,Technical issue,Product setup,Low,Social media,0
+33,LG Washing Machine,Technical issue,Software bug,Medium,Phone,0
+35,Microsoft Surface,Refund request,Product setup,Critical,Phone,0
+69,Sony Xperia,Billing inquiry,Cancellation request,Low,Social media,0
+30,Google Nest,Cancellation request,Data loss,High,Chat,0
+32,Bose QuietComfort,Technical issue,Network problem,Low,Phone,0
+29,Nest Thermostat,Billing inquiry,Account access,Critical,Chat,0
+54,Bose SoundLink Speaker,Cancellation request,Hardware issue,Critical,Phone,1
+25,Garmin Forerunner,Refund request,Network problem,Critical,Social media,0
+29,Nest Thermostat,Product inquiry,Battery life,High,Social media,1
+34,Garmin Forerunner,Cancellation request,Display issue,Medium,Chat,0
+48,Asus ROG,Technical issue,Peripheral compatibility,High,Email,0
+43,Asus ROG,Product inquiry,Delivery problem,High,Social media,0
+47,Autodesk AutoCAD,Billing inquiry,Payment issue,High,Chat,0
+46,Samsung Galaxy,Billing inquiry,Hardware issue,Critical,Phone,1
+60,LG OLED,Technical issue,Hardware issue,Medium,Phone,0
+58,Philips Hue Lights,Product inquiry,Product compatibility,High,Phone,1
+53,Microsoft Surface,Technical issue,Peripheral compatibility,Critical,Social media,1
+41,Google Nest,Cancellation request,Delivery problem,Medium,Chat,0
+63,Philips Hue Lights,Cancellation request,Account access,Low,Email,0
+50,Nest Thermostat,Technical issue,Payment issue,Medium,Email,0
+64,Microsoft Surface,Cancellation request,Network problem,Medium,Chat,0
+24,Adobe Photoshop,Product inquiry,Display issue,Medium,Phone,0
+30,LG OLED,Cancellation request,Product recommendation,Low,Chat,0
+20,Bose SoundLink Speaker,Cancellation request,Hardware issue,Critical,Phone,0
+64,Sony Xperia,Product inquiry,Network problem,Medium,Social media,0
+65,Asus ROG,Product inquiry,Battery life,Medium,Email,1
+33,Asus ROG,Cancellation request,Hardware issue,Low,Email,0
+36,Bose SoundLink Speaker,Billing inquiry,Battery life,High,Chat,0
+66,iPhone,Billing inquiry,Payment issue,Low,Social media,0
+36,Samsung Soundbar,Technical issue,Delivery problem,Medium,Email,0
+21,Microsoft Office,Technical issue,Product compatibility,Critical,Social media,1
+57,iPhone,Billing inquiry,Display issue,Critical,Social media,0
+43,Apple AirPods,Billing inquiry,Payment issue,Medium,Phone,0
+68,GoPro Action Camera,Billing inquiry,Account access,High,Chat,0
+67,Bose QuietComfort,Refund request,Refund request,Medium,Chat,1
+20,Amazon Kindle,Billing inquiry,Network problem,Critical,Email,0
+62,iPhone,Refund request,Refund request,Medium,Social media,0
+51,PlayStation,Billing inquiry,Product compatibility,High,Social media,1
+38,Microsoft Office,Refund request,Installation support,Low,Chat,0
+64,Microsoft Surface,Refund request,Payment issue,High,Email,1
+59,Samsung Galaxy,Product inquiry,Account access,Critical,Phone,1
+48,Fitbit Versa Smartwatch,Cancellation request,Refund request,Medium,Chat,1
+39,Bose QuietComfort,Cancellation request,Hardware issue,Critical,Phone,1
+29,iPhone,Product inquiry,Network problem,Critical,Phone,0
+60,Microsoft Surface,Cancellation request,Display issue,Critical,Phone,1
+67,Sony Xperia,Technical issue,Payment issue,Medium,Phone,0
+44,Sony PlayStation,Refund request,Installation support,Medium,Email,0
+31,Bose SoundLink Speaker,Technical issue,Software bug,Low,Phone,0
+47,Nikon D,Technical issue,Delivery problem,Low,Chat,0
+56,Bose QuietComfort,Billing inquiry,Battery life,High,Chat,0
+69,GoPro Action Camera,Refund request,Delivery problem,Medium,Chat,0
+64,LG Smart TV,Product inquiry,Product recommendation,High,Chat,1
+53,Nikon D,Product inquiry,Delivery problem,High,Email,1
+42,Microsoft Surface,Product inquiry,Product compatibility,High,Chat,0
+57,MacBook Pro,Refund request,Cancellation request,Critical,Social media,1
+52,Microsoft Xbox Controller,Product inquiry,Display issue,High,Phone,0
+64,Nintendo Switch,Product inquiry,Network problem,Medium,Phone,0
+66,Sony PlayStation,Product inquiry,Network problem,Medium,Phone,1
+67,GoPro Hero,Refund request,Display issue,Low,Chat,0
+49,Lenovo ThinkPad,Refund request,Software bug,Low,Email,0
+41,Samsung Soundbar,Cancellation request,Cancellation request,Medium,Social media,0
+52,Microsoft Xbox Controller,Cancellation request,Product recommendation,Low,Chat,0
+34,Microsoft Office,Refund request,Product compatibility,Medium,Chat,1
+20,Amazon Kindle,Cancellation request,Data loss,Medium,Chat,1
+40,LG Washing Machine,Billing inquiry,Display issue,Low,Social media,0
+44,PlayStation,Billing inquiry,Cancellation request,Low,Phone,0
+37,LG OLED,Refund request,Peripheral compatibility,Low,Social media,0
+67,iPhone,Cancellation request,Software bug,Critical,Chat,0
+19,Philips Hue Lights,Product inquiry,Battery life,Critical,Social media,1
+36,Nest Thermostat,Cancellation request,Account access,Low,Email,0
+41,Google Nest,Product inquiry,Hardware issue,Low,Email,0
+25,Dyson Vacuum Cleaner,Product inquiry,Payment issue,Critical,Social media,1
+33,Google Nest,Technical issue,Refund request,Critical,Social media,0
+21,Canon DSLR Camera,Refund request,Software bug,High,Social media,1
+23,Nintendo Switch Pro Controller,Technical issue,Product setup,High,Social media,1
+62,Dell XPS,Refund request,Battery life,Medium,Social media,1
+36,LG Smart TV,Technical issue,Software bug,Medium,Social media,1
+43,Xbox,Technical issue,Delivery problem,Critical,Phone,0
+43,Microsoft Office,Product inquiry,Payment issue,High,Social media,0
+49,Samsung Soundbar,Billing inquiry,Network problem,High,Phone,0
+21,Bose SoundLink Speaker,Refund request,Product setup,High,Social media,1
+21,Garmin Forerunner,Billing inquiry,Network problem,Low,Social media,0
+18,Xbox,Refund request,Hardware issue,Critical,Phone,1
+53,LG Washing Machine,Technical issue,Display issue,Medium,Chat,0
+25,Sony 4K HDR TV,Cancellation request,Product recommendation,Medium,Phone,0
+68,Fitbit Versa Smartwatch,Product inquiry,Data loss,Medium,Email,1
+66,Amazon Echo,Technical issue,Network problem,High,Email,0
+25,GoPro Action Camera,Cancellation request,Product recommendation,High,Phone,0
+39,Nintendo Switch,Cancellation request,Network problem,Low,Chat,0
+42,Sony PlayStation,Billing inquiry,Product setup,Medium,Chat,0
+38,Microsoft Office,Technical issue,Product setup,High,Chat,0
+54,Xbox,Billing inquiry,Display issue,High,Chat,1
+54,Sony PlayStation,Technical issue,Network problem,Medium,Email,1
+21,Canon EOS,Refund request,Product recommendation,Critical,Email,1
+49,Autodesk AutoCAD,Cancellation request,Account access,Medium,Chat,0
+38,GoPro Hero,Technical issue,Installation support,Low,Phone,0
+35,iPhone,Cancellation request,Payment issue,Critical,Social media,1
+54,Dyson Vacuum Cleaner,Refund request,Display issue,Low,Social media,0
+27,Fitbit Charge,Refund request,Delivery problem,Low,Phone,0
+52,LG Smart TV,Billing inquiry,Installation support,Medium,Email,0
+31,Amazon Kindle,Product inquiry,Payment issue,Medium,Phone,0
+65,GoPro Hero,Billing inquiry,Installation support,High,Chat,0
+24,LG Washing Machine,Refund request,Product compatibility,Critical,Email,1
+30,iPhone,Cancellation request,Payment issue,Medium,Chat,0
+58,Apple AirPods,Billing inquiry,Software bug,Low,Email,0
+58,Sony 4K HDR TV,Cancellation request,Hardware issue,Critical,Email,1
+66,Adobe Photoshop,Cancellation request,Data loss,Critical,Social media,1
+19,Bose SoundLink Speaker,Cancellation request,Network problem,Critical,Email,1
+50,HP Pavilion,Billing inquiry,Battery life,Low,Phone,0
+38,Nintendo Switch,Refund request,Data loss,High,Social media,0
+40,LG Washing Machine,Billing inquiry,Product recommendation,High,Phone,1
+38,GoPro Hero,Technical issue,Installation support,High,Social media,1
+56,Google Pixel,Refund request,Account access,Medium,Email,1
+35,Sony 4K HDR TV,Technical issue,Installation support,Low,Email,0
+62,Microsoft Surface,Billing inquiry,Network problem,Critical,Social media,0
+27,Dyson Vacuum Cleaner,Technical issue,Network problem,Low,Chat,0
+62,Canon EOS,Billing inquiry,Cancellation request,High,Phone,0
+47,LG Washing Machine,Cancellation request,Display issue,Critical,Chat,1
+25,Fitbit Versa Smartwatch,Billing inquiry,Data loss,Critical,Social media,1
+29,Autodesk AutoCAD,Product inquiry,Delivery problem,Critical,Email,0
+48,LG OLED,Billing inquiry,Product compatibility,Medium,Email,0
+53,Dell XPS,Refund request,Battery life,Medium,Email,0
+48,Google Nest,Product inquiry,Product compatibility,Critical,Phone,1
+50,Dell XPS,Cancellation request,Hardware issue,Critical,Chat,0
+21,Microsoft Office,Cancellation request,Peripheral compatibility,Medium,Email,0
+66,Amazon Echo,Billing inquiry,Software bug,Low,Social media,0
+63,Lenovo ThinkPad,Billing inquiry,Network problem,High,Phone,1
+63,Samsung Galaxy,Refund request,Product setup,Low,Social media,0
+66,LG OLED,Cancellation request,Peripheral compatibility,High,Phone,0
+63,MacBook Pro,Refund request,Display issue,Critical,Chat,1
+59,Microsoft Office,Billing inquiry,Payment issue,Medium,Email,0
+56,Bose QuietComfort,Product inquiry,Product recommendation,Critical,Social media,1
+65,Samsung Soundbar,Refund request,Software bug,Medium,Social media,0
+28,Roomba Robot Vacuum,Cancellation request,Software bug,Critical,Social media,1
+67,LG Smart TV,Refund request,Network problem,High,Phone,0
+40,Canon DSLR Camera,Refund request,Data loss,Medium,Chat,1
+34,Nintendo Switch,Technical issue,Network problem,Low,Chat,0
+55,Canon DSLR Camera,Technical issue,Battery life,Medium,Chat,1
+38,Microsoft Xbox Controller,Product inquiry,Battery life,Medium,Phone,1
+38,Autodesk AutoCAD,Technical issue,Network problem,Low,Phone,0
+69,Sony PlayStation,Product inquiry,Battery life,Low,Phone,0
+70,Garmin Forerunner,Billing inquiry,Cancellation request,High,Chat,1
+31,iPhone,Billing inquiry,Refund request,Low,Email,0
+33,Garmin Forerunner,Billing inquiry,Payment issue,Critical,Phone,1
+45,Microsoft Office,Refund request,Data loss,Critical,Email,1
+20,GoPro Action Camera,Product inquiry,Network problem,Low,Social media,0
+51,Samsung Galaxy,Billing inquiry,Network problem,Critical,Chat,1
+64,Canon EOS,Refund request,Product compatibility,High,Chat,1
+46,Google Pixel,Technical issue,Product setup,High,Social media,1
+18,LG Smart TV,Refund request,Cancellation request,Critical,Social media,1
+69,Philips Hue Lights,Technical issue,Payment issue,Low,Phone,0
+46,iPhone,Billing inquiry,Product compatibility,High,Chat,0
+58,Microsoft Office,Refund request,Peripheral compatibility,High,Phone,0
+45,Roomba Robot Vacuum,Technical issue,Delivery problem,Low,Chat,0
+36,MacBook Pro,Billing inquiry,Battery life,High,Chat,1
+51,Adobe Photoshop,Cancellation request,Product compatibility,Medium,Phone,0
+46,Autodesk AutoCAD,Technical issue,Data loss,Critical,Social media,1
+30,Philips Hue Lights,Refund request,Product compatibility,Low,Chat,0
+46,Google Nest,Billing inquiry,Cancellation request,Medium,Social media,1
+36,GoPro Hero,Product inquiry,Payment issue,High,Email,1
+49,GoPro Hero,Cancellation request,Display issue,High,Email,1
+65,Samsung Soundbar,Product inquiry,Network problem,Critical,Email,1
+31,Nikon D,Technical issue,Account access,Low,Social media,0
+45,Roomba Robot Vacuum,Technical issue,Payment issue,High,Social media,1
+36,Garmin Forerunner,Billing inquiry,Battery life,Low,Phone,0
+66,Amazon Kindle,Billing inquiry,Product compatibility,Low,Phone,0
+52,Nikon D,Refund request,Battery life,Medium,Phone,0
+61,Philips Hue Lights,Billing inquiry,Installation support,Medium,Email,0
+32,Nest Thermostat,Billing inquiry,Hardware issue,Critical,Phone,0
+67,Microsoft Xbox Controller,Technical issue,Delivery problem,Medium,Email,0
+59,Microsoft Xbox Controller,Cancellation request,Network problem,High,Email,1
+67,Apple AirPods,Technical issue,Hardware issue,Critical,Social media,1
+58,Philips Hue Lights,Technical issue,Network problem,High,Email,1
+30,iPhone,Billing inquiry,Delivery problem,Low,Phone,0
+33,Bose SoundLink Speaker,Refund request,Product recommendation,Low,Email,0
+46,Nest Thermostat,Billing inquiry,Delivery problem,Medium,Email,0
+29,Google Pixel,Technical issue,Product recommendation,Critical,Chat,0
+63,LG Smart TV,Refund request,Delivery problem,Low,Social media,0
+69,Canon DSLR Camera,Cancellation request,Payment issue,High,Email,1
+35,Dyson Vacuum Cleaner,Cancellation request,Product setup,Critical,Social media,1
+34,Dyson Vacuum Cleaner,Billing inquiry,Installation support,High,Social media,0
+29,LG Smart TV,Refund request,Refund request,Low,Phone,0
+34,Google Pixel,Refund request,Payment issue,Medium,Social media,0
+34,PlayStation,Product inquiry,Payment issue,Medium,Phone,1
+56,Bose QuietComfort,Technical issue,Product setup,Critical,Social media,0
+34,Dyson Vacuum Cleaner,Cancellation request,Product setup,Medium,Chat,0
+28,LG Smart TV,Cancellation request,Installation support,Medium,Email,0
+33,Google Nest,Refund request,Product setup,Critical,Email,0
+30,Apple AirPods,Cancellation request,Peripheral compatibility,High,Phone,1
+50,Sony PlayStation,Product inquiry,Product compatibility,Low,Phone,0
+49,Adobe Photoshop,Technical issue,Product setup,Low,Chat,0
+58,Lenovo ThinkPad,Refund request,Account access,High,Phone,1
+49,Philips Hue Lights,Product inquiry,Product recommendation,Critical,Email,0
+34,GoPro Hero,Refund request,Delivery problem,Medium,Phone,0
+55,Dell XPS,Billing inquiry,Product setup,Low,Social media,0
+58,Sony 4K HDR TV,Cancellation request,Battery life,Low,Chat,0
+59,Autodesk AutoCAD,Product inquiry,Product compatibility,High,Email,1
+57,Amazon Kindle,Technical issue,Delivery problem,High,Chat,0
+39,Canon EOS,Cancellation request,Battery life,Low,Email,0
+26,Amazon Echo,Cancellation request,Hardware issue,Critical,Email,1
+21,MacBook Pro,Product inquiry,Network problem,High,Email,0
+23,Amazon Echo,Refund request,Hardware issue,Low,Social media,0
+70,Sony Xperia,Refund request,Software bug,High,Chat,1
+36,Fitbit Versa Smartwatch,Technical issue,Peripheral compatibility,Low,Phone,0
+68,Google Nest,Refund request,Refund request,Low,Email,0
+66,Bose QuietComfort,Product inquiry,Product recommendation,Medium,Email,0
+50,Amazon Kindle,Technical issue,Software bug,Medium,Phone,0
+33,Sony 4K HDR TV,Technical issue,Network problem,Critical,Social media,1
+46,LG Smart TV,Technical issue,Hardware issue,High,Chat,1
+54,Fitbit Versa Smartwatch,Product inquiry,Software bug,Critical,Social media,1
+29,Microsoft Xbox Controller,Billing inquiry,Installation support,High,Email,0
+20,Asus ROG,Technical issue,Payment issue,High,Chat,1
+64,Garmin Forerunner,Product inquiry,Refund request,High,Social media,0
+47,GoPro Hero,Technical issue,Hardware issue,Critical,Social media,1
+25,LG Washing Machine,Billing inquiry,Delivery problem,High,Social media,0
+38,Asus ROG,Technical issue,Delivery problem,Medium,Email,0
+62,Bose QuietComfort,Technical issue,Software bug,Medium,Chat,0
+23,Dyson Vacuum Cleaner,Cancellation request,Product recommendation,Low,Phone,0
+61,Adobe Photoshop,Billing inquiry,Peripheral compatibility,Critical,Email,0
+55,Sony Xperia,Technical issue,Product recommendation,Low,Chat,0
+61,Nikon D,Cancellation request,Product compatibility,Low,Social media,0
+53,Nintendo Switch,Product inquiry,Peripheral compatibility,Low,Social media,0
+56,Fitbit Versa Smartwatch,Refund request,Display issue,High,Email,1
+27,Bose SoundLink Speaker,Product inquiry,Software bug,Medium,Chat,0
+31,LG OLED,Technical issue,Cancellation request,High,Email,0
+39,Canon DSLR Camera,Billing inquiry,Delivery problem,High,Email,1
+48,Apple AirPods,Billing inquiry,Product recommendation,Critical,Social media,1
+34,Samsung Galaxy,Technical issue,Payment issue,Critical,Social media,1
+30,Nintendo Switch,Technical issue,Battery life,Low,Chat,0
+66,Microsoft Xbox Controller,Cancellation request,Payment issue,Medium,Social media,0
+56,Nintendo Switch,Refund request,Account access,Medium,Social media,0
+47,Amazon Kindle,Cancellation request,Refund request,Critical,Phone,0
+60,Fitbit Charge,Technical issue,Battery life,Low,Social media,0
+20,Google Pixel,Refund request,Peripheral compatibility,Critical,Phone,1
+63,Dell XPS,Refund request,Refund request,Critical,Chat,0
+56,Sony PlayStation,Billing inquiry,Peripheral compatibility,Low,Social media,0
+52,Garmin Forerunner,Cancellation request,Product recommendation,High,Phone,0
+52,Lenovo ThinkPad,Refund request,Hardware issue,Critical,Social media,1
+51,Google Pixel,Cancellation request,Network problem,Critical,Social media,1
+36,LG OLED,Refund request,Product compatibility,Critical,Phone,1
+46,Canon DSLR Camera,Billing inquiry,Network problem,High,Chat,1
+27,Samsung Galaxy,Refund request,Product recommendation,Critical,Chat,1
+18,LG Smart TV,Technical issue,Peripheral compatibility,Low,Social media,0
+68,Dyson Vacuum Cleaner,Product inquiry,Product compatibility,Low,Email,0
+57,Google Pixel,Billing inquiry,Delivery problem,Low,Social media,0
+27,Garmin Forerunner,Refund request,Cancellation request,High,Email,0
+55,HP Pavilion,Product inquiry,Hardware issue,Critical,Email,1
+29,Bose QuietComfort,Billing inquiry,Delivery problem,High,Social media,1
+50,Adobe Photoshop,Technical issue,Network problem,Medium,Social media,0
+69,LG Washing Machine,Refund request,Delivery problem,Medium,Social media,0
+69,iPhone,Refund request,Installation support,Medium,Chat,0
+45,Nikon D,Cancellation request,Account access,High,Social media,1
+68,Samsung Galaxy,Billing inquiry,Display issue,High,Phone,1
+68,Fitbit Charge,Cancellation request,Payment issue,Low,Email,0
+63,Microsoft Surface,Refund request,Data loss,Low,Phone,0
+18,Microsoft Surface,Refund request,Battery life,Critical,Social media,0
+70,Amazon Echo,Refund request,Product compatibility,Low,Phone,0
+27,LG Smart TV,Product inquiry,Product setup,Medium,Chat,0
+42,LG OLED,Refund request,Refund request,High,Chat,1
+53,Nintendo Switch Pro Controller,Technical issue,Product setup,Low,Email,0
+24,Sony 4K HDR TV,Billing inquiry,Cancellation request,Medium,Email,0
+54,Fitbit Versa Smartwatch,Refund request,Product setup,Medium,Chat,0
+59,Apple AirPods,Cancellation request,Payment issue,Medium,Chat,0
+21,LG OLED,Billing inquiry,Refund request,Low,Email,0
+62,Autodesk AutoCAD,Product inquiry,Battery life,High,Email,0
+29,Dyson Vacuum Cleaner,Product inquiry,Hardware issue,High,Chat,1
+27,Sony PlayStation,Refund request,Network problem,Critical,Chat,1
+20,Microsoft Office,Refund request,Peripheral compatibility,Low,Phone,0
+51,Microsoft Office,Technical issue,Product setup,Medium,Social media,1
+30,Nintendo Switch Pro Controller,Cancellation request,Display issue,Medium,Chat,0
+41,Dell XPS,Refund request,Cancellation request,Low,Phone,0
+31,Sony Xperia,Technical issue,Battery life,High,Phone,0
+36,Adobe Photoshop,Refund request,Network problem,Critical,Social media,0
+47,Sony Xperia,Cancellation request,Refund request,Critical,Chat,1
+34,Samsung Soundbar,Product inquiry,Refund request,High,Email,1
+39,Xbox,Technical issue,Installation support,Medium,Social media,1
+25,Samsung Soundbar,Technical issue,Battery life,Medium,Chat,0
+41,Google Nest,Cancellation request,Product setup,High,Social media,0
+22,Xbox,Technical issue,Installation support,High,Chat,0
+22,LG Washing Machine,Technical issue,Payment issue,Medium,Chat,0
+36,Microsoft Office,Product inquiry,Network problem,High,Email,1
+69,Microsoft Office,Product inquiry,Data loss,Critical,Chat,1
+29,LG OLED,Billing inquiry,Product setup,High,Social media,0
+35,Canon DSLR Camera,Technical issue,Display issue,Low,Chat,0
+50,Asus ROG,Product inquiry,Installation support,Medium,Social media,1
+40,Microsoft Xbox Controller,Refund request,Peripheral compatibility,Low,Chat,0
+23,Philips Hue Lights,Refund request,Account access,High,Email,0
+57,Nintendo Switch,Refund request,Payment issue,Low,Chat,0
+48,Fitbit Versa Smartwatch,Product inquiry,Peripheral compatibility,Low,Phone,0
+35,Roomba Robot Vacuum,Technical issue,Product setup,High,Chat,0
+45,Google Nest,Refund request,Network problem,High,Social media,1
+66,Samsung Galaxy,Technical issue,Account access,Low,Phone,0
+63,Dell XPS,Technical issue,Battery life,Critical,Email,1
+62,Samsung Galaxy,Refund request,Delivery problem,Medium,Chat,0
+56,Amazon Echo,Refund request,Hardware issue,Low,Email,0
+43,Sony 4K HDR TV,Refund request,Payment issue,Critical,Social media,0
+42,Sony Xperia,Refund request,Delivery problem,Low,Social media,0
+59,MacBook Pro,Refund request,Account access,Medium,Phone,1
+48,Apple AirPods,Billing inquiry,Battery life,Medium,Phone,1
+61,Samsung Soundbar,Billing inquiry,Software bug,Critical,Email,0
+34,iPhone,Technical issue,Battery life,High,Social media,0
+66,GoPro Hero,Technical issue,Network problem,High,Social media,0
+55,Bose SoundLink Speaker,Billing inquiry,Hardware issue,High,Chat,1
+63,Amazon Echo,Product inquiry,Delivery problem,Critical,Social media,1
+51,LG OLED,Technical issue,Account access,Critical,Chat,0
+28,Bose SoundLink Speaker,Billing inquiry,Installation support,Medium,Email,0
+18,HP Pavilion,Refund request,Software bug,Low,Chat,0
+38,Amazon Echo,Product inquiry,Display issue,Low,Phone,0
+27,Microsoft Xbox Controller,Technical issue,Product setup,High,Chat,0
+67,Sony 4K HDR TV,Technical issue,Battery life,Low,Phone,0
+49,Nest Thermostat,Technical issue,Product recommendation,High,Phone,1
+45,Google Nest,Technical issue,Product recommendation,Critical,Social media,1
+38,Dyson Vacuum Cleaner,Product inquiry,Hardware issue,Medium,Chat,1
+33,Sony Xperia,Product inquiry,Account access,Medium,Phone,1
+36,Fitbit Versa Smartwatch,Technical issue,Cancellation request,Critical,Chat,1
+54,Sony 4K HDR TV,Refund request,Software bug,Low,Phone,0
+43,Sony PlayStation,Product inquiry,Hardware issue,Low,Email,0
+48,Nintendo Switch Pro Controller,Product inquiry,Installation support,High,Social media,0
+49,Bose QuietComfort,Refund request,Network problem,High,Email,0
+59,MacBook Pro,Cancellation request,Product compatibility,High,Chat,0
+33,Nikon D,Cancellation request,Delivery problem,High,Chat,1
+52,LG Washing Machine,Cancellation request,Installation support,Medium,Chat,0
+22,Canon DSLR Camera,Product inquiry,Peripheral compatibility,Medium,Social media,1
+58,Canon DSLR Camera,Technical issue,Cancellation request,Medium,Email,0
+35,Google Pixel,Cancellation request,Peripheral compatibility,Low,Phone,0
+19,Samsung Soundbar,Cancellation request,Hardware issue,Medium,Email,0
+34,GoPro Hero,Refund request,Product recommendation,Critical,Chat,0
+29,Lenovo ThinkPad,Cancellation request,Product setup,Medium,Phone,1
+36,PlayStation,Product inquiry,Display issue,High,Email,0
+28,Nest Thermostat,Product inquiry,Battery life,Critical,Social media,1
+22,Sony PlayStation,Billing inquiry,Battery life,High,Chat,0
+56,Fitbit Versa Smartwatch,Refund request,Network problem,Critical,Social media,1
+61,Canon EOS,Product inquiry,Payment issue,High,Chat,1
+41,LG Washing Machine,Technical issue,Account access,Medium,Email,0
+30,iPhone,Product inquiry,Battery life,High,Phone,0
+29,LG Smart TV,Refund request,Battery life,High,Chat,1
+37,Google Nest,Billing inquiry,Product compatibility,Critical,Phone,0
+59,Fitbit Versa Smartwatch,Refund request,Payment issue,High,Social media,0
+43,Dell XPS,Refund request,Account access,High,Social media,1
+43,HP Pavilion,Cancellation request,Software bug,High,Chat,1
+70,LG Washing Machine,Cancellation request,Software bug,High,Email,0
+61,Amazon Kindle,Billing inquiry,Product recommendation,Medium,Phone,0
+24,Canon DSLR Camera,Technical issue,Software bug,Medium,Phone,0
+60,Bose SoundLink Speaker,Refund request,Hardware issue,Medium,Email,0
+31,Samsung Soundbar,Billing inquiry,Product setup,Medium,Chat,0
+30,Bose QuietComfort,Billing inquiry,Account access,Medium,Chat,1
+19,Amazon Echo,Billing inquiry,Refund request,Critical,Chat,1
+59,LG Smart TV,Refund request,Account access,High,Chat,1
+28,Adobe Photoshop,Product inquiry,Network problem,Low,Email,0
+63,Nikon D,Technical issue,Delivery problem,Low,Chat,0
+39,Philips Hue Lights,Technical issue,Product recommendation,High,Email,0
+30,Sony PlayStation,Product inquiry,Display issue,Low,Email,0
+66,PlayStation,Billing inquiry,Delivery problem,Medium,Email,0
+68,Bose SoundLink Speaker,Refund request,Peripheral compatibility,Medium,Chat,0
+28,Philips Hue Lights,Billing inquiry,Product recommendation,Medium,Email,1
+60,Nikon D,Cancellation request,Network problem,Critical,Chat,1
+55,Asus ROG,Refund request,Refund request,Critical,Social media,1
+39,LG Smart TV,Cancellation request,Delivery problem,Critical,Social media,1
+62,LG OLED,Billing inquiry,Peripheral compatibility,High,Social media,1
+29,Sony 4K HDR TV,Product inquiry,Cancellation request,Critical,Email,0
+61,Canon DSLR Camera,Cancellation request,Payment issue,Medium,Email,0
+48,Asus ROG,Billing inquiry,Delivery problem,Critical,Social media,0
+22,MacBook Pro,Cancellation request,Refund request,High,Email,0
+64,MacBook Pro,Refund request,Installation support,Low,Email,0
+53,Microsoft Surface,Technical issue,Cancellation request,High,Phone,0
+63,Amazon Echo,Refund request,Refund request,High,Chat,0
+46,Google Nest,Billing inquiry,Software bug,High,Social media,0
+21,Sony PlayStation,Cancellation request,Installation support,Critical,Phone,1
+58,Nikon D,Technical issue,Display issue,Critical,Social media,1
+34,iPhone,Refund request,Software bug,Critical,Phone,1
+33,Nikon D,Product inquiry,Product recommendation,High,Social media,1
+60,LG Smart TV,Refund request,Account access,Low,Social media,0
+34,Microsoft Office,Cancellation request,Installation support,Medium,Email,1
+48,LG OLED,Cancellation request,Display issue,High,Email,1
+45,Google Nest,Refund request,Refund request,Critical,Phone,1
+31,Xbox,Product inquiry,Installation support,Medium,Phone,1
+66,Amazon Echo,Cancellation request,Refund request,Medium,Phone,0
+18,Nintendo Switch Pro Controller,Billing inquiry,Hardware issue,Critical,Email,1
+22,LG Smart TV,Product inquiry,Software bug,Medium,Email,0
+27,Amazon Echo,Technical issue,Software bug,Medium,Phone,1
+46,Dell XPS,Refund request,Refund request,Medium,Social media,1
+45,Microsoft Surface,Product inquiry,Product compatibility,Low,Phone,0
+67,Fitbit Versa Smartwatch,Refund request,Peripheral compatibility,Low,Social media,0
+38,Nintendo Switch Pro Controller,Technical issue,Product recommendation,High,Social media,0
+36,LG Washing Machine,Refund request,Peripheral compatibility,Low,Social media,0
+19,LG Washing Machine,Cancellation request,Refund request,Medium,Chat,0
+41,Dell XPS,Cancellation request,Product recommendation,Critical,Social media,0
+54,GoPro Action Camera,Product inquiry,Product setup,Critical,Email,1
+28,Bose QuietComfort,Product inquiry,Battery life,Low,Social media,0
+38,GoPro Action Camera,Cancellation request,Software bug,Critical,Phone,1
+65,Dell XPS,Billing inquiry,Software bug,Critical,Chat,1
+50,Canon EOS,Technical issue,Battery life,Critical,Chat,0
+28,Microsoft Office,Product inquiry,Software bug,High,Social media,0
+25,GoPro Action Camera,Refund request,Hardware issue,Medium,Chat,1
+69,Canon EOS,Product inquiry,Payment issue,Medium,Email,0
+22,LG Washing Machine,Billing inquiry,Display issue,High,Chat,0
+54,Microsoft Xbox Controller,Billing inquiry,Account access,Medium,Phone,0
+44,Adobe Photoshop,Billing inquiry,Payment issue,Low,Email,0
+49,LG Washing Machine,Product inquiry,Product recommendation,Low,Social media,0
+54,Fitbit Charge,Refund request,Product compatibility,Low,Social media,0
+30,Google Pixel,Billing inquiry,Refund request,High,Phone,0
+50,Nikon D,Product inquiry,Account access,High,Email,1
+38,Nintendo Switch,Refund request,Refund request,Medium,Chat,0
+32,Google Nest,Refund request,Peripheral compatibility,Low,Phone,0
+49,Microsoft Xbox Controller,Billing inquiry,Product compatibility,Medium,Email,0
+60,Asus ROG,Cancellation request,Cancellation request,Low,Social media,0
+28,Dell XPS,Billing inquiry,Payment issue,Medium,Email,0
+53,Philips Hue Lights,Product inquiry,Product setup,Medium,Chat,0
+21,Microsoft Xbox Controller,Cancellation request,Refund request,Medium,Phone,0
+51,Samsung Soundbar,Technical issue,Battery life,Medium,Chat,1
+63,Amazon Kindle,Refund request,Hardware issue,High,Chat,0
+29,Sony 4K HDR TV,Technical issue,Software bug,High,Chat,0
+44,GoPro Hero,Billing inquiry,Installation support,Critical,Social media,1
+53,Sony 4K HDR TV,Refund request,Display issue,High,Chat,1
+67,Autodesk AutoCAD,Billing inquiry,Product compatibility,High,Email,1
+70,Sony Xperia,Cancellation request,Network problem,Critical,Phone,0
+61,Philips Hue Lights,Product inquiry,Product recommendation,Low,Social media,0
+60,Sony PlayStation,Technical issue,Installation support,High,Phone,0
+54,Samsung Soundbar,Refund request,Cancellation request,Medium,Email,0
+40,Nikon D,Technical issue,Payment issue,Medium,Email,0
+50,Nintendo Switch,Technical issue,Hardware issue,Medium,Email,0
+54,iPhone,Technical issue,Peripheral compatibility,High,Chat,0
+59,Amazon Kindle,Product inquiry,Product compatibility,Medium,Chat,0
+42,LG Smart TV,Product inquiry,Battery life,Low,Chat,0
+61,LG Washing Machine,Technical issue,Data loss,Critical,Social media,1
+18,Xbox,Billing inquiry,Refund request,Critical,Chat,0
+25,MacBook Pro,Product inquiry,Software bug,High,Phone,0
+48,Amazon Echo,Cancellation request,Product setup,High,Email,1
+54,Philips Hue Lights,Billing inquiry,Payment issue,High,Chat,1
+58,Samsung Soundbar,Cancellation request,Delivery problem,Medium,Email,1
+57,LG OLED,Refund request,Display issue,High,Phone,1
+59,Dell XPS,Product inquiry,Peripheral compatibility,Critical,Social media,1
+38,Roomba Robot Vacuum,Technical issue,Refund request,Critical,Email,1
+48,PlayStation,Billing inquiry,Product recommendation,Low,Chat,0
+21,Canon EOS,Product inquiry,Product recommendation,Medium,Phone,0
+52,Bose QuietComfort,Technical issue,Peripheral compatibility,Low,Social media,0
+60,Dell XPS,Refund request,Account access,Low,Social media,0
+65,Microsoft Xbox Controller,Refund request,Product setup,Critical,Email,1
+54,GoPro Hero,Cancellation request,Cancellation request,Critical,Email,1
+62,Nintendo Switch Pro Controller,Cancellation request,Account access,High,Email,0
+19,Xbox,Refund request,Software bug,Critical,Email,1
+35,Nest Thermostat,Refund request,Product compatibility,High,Phone,1
+49,Bose QuietComfort,Cancellation request,Hardware issue,High,Phone,0
+41,Sony Xperia,Technical issue,Payment issue,High,Social media,0
+61,Sony Xperia,Technical issue,Network problem,Medium,Chat,0
+47,Garmin Forerunner,Technical issue,Hardware issue,Medium,Chat,0
+48,Nintendo Switch,Product inquiry,Cancellation request,High,Social media,0
+33,Microsoft Office,Product inquiry,Product recommendation,Low,Chat,0
+22,iPhone,Billing inquiry,Product compatibility,Low,Phone,0
+28,Sony PlayStation,Refund request,Data loss,Low,Email,0
+41,Apple AirPods,Billing inquiry,Battery life,Critical,Phone,1
+29,Amazon Kindle,Technical issue,Payment issue,Critical,Chat,1
+56,Sony PlayStation,Refund request,Product setup,Medium,Email,0
+26,Sony 4K HDR TV,Technical issue,Network problem,Low,Chat,0
+48,Garmin Forerunner,Technical issue,Product recommendation,Medium,Email,0
+68,Google Nest,Cancellation request,Installation support,Critical,Chat,0
+43,HP Pavilion,Product inquiry,Battery life,Critical,Phone,0
+68,Autodesk AutoCAD,Product inquiry,Peripheral compatibility,Low,Chat,0
+20,Bose QuietComfort,Billing inquiry,Product compatibility,Medium,Phone,0
+44,Samsung Galaxy,Cancellation request,Display issue,High,Email,1
+56,Fitbit Charge,Technical issue,Battery life,Low,Social media,0
+51,Asus ROG,Technical issue,Software bug,Medium,Phone,0
+25,Garmin Forerunner,Billing inquiry,Product compatibility,Medium,Social media,1
+58,Sony 4K HDR TV,Billing inquiry,Delivery problem,Critical,Chat,1
+46,GoPro Hero,Refund request,Product compatibility,High,Social media,0
+49,Asus ROG,Refund request,Product recommendation,Critical,Chat,0
+42,LG Smart TV,Cancellation request,Installation support,Low,Phone,0
+60,Asus ROG,Technical issue,Product compatibility,Medium,Social media,1
+45,MacBook Pro,Product inquiry,Cancellation request,Low,Email,0
+50,Sony 4K HDR TV,Technical issue,Software bug,Medium,Phone,0
+67,Nintendo Switch,Billing inquiry,Network problem,Medium,Social media,0
+30,Sony 4K HDR TV,Technical issue,Display issue,Critical,Phone,0
+41,Sony Xperia,Refund request,Battery life,Medium,Phone,0
+23,iPhone,Refund request,Data loss,High,Email,1
+28,Amazon Kindle,Refund request,Cancellation request,High,Email,1
+29,iPhone,Billing inquiry,Product recommendation,Medium,Phone,0
+67,Garmin Forerunner,Product inquiry,Payment issue,Low,Social media,0
+41,Asus ROG,Refund request,Network problem,Low,Email,0
+41,Autodesk AutoCAD,Cancellation request,Peripheral compatibility,Low,Social media,0
+36,Dyson Vacuum Cleaner,Technical issue,Software bug,Critical,Phone,1
+59,Microsoft Surface,Technical issue,Delivery problem,Medium,Phone,0
+41,Nintendo Switch Pro Controller,Technical issue,Software bug,High,Chat,1
+26,Microsoft Xbox Controller,Product inquiry,Delivery problem,Critical,Chat,1
+69,Xbox,Technical issue,Payment issue,Low,Chat,0
+66,Amazon Kindle,Refund request,Cancellation request,Medium,Chat,0
+28,Nintendo Switch,Refund request,Hardware issue,Low,Email,0
+52,Sony Xperia,Cancellation request,Cancellation request,Critical,Email,0
+65,Canon DSLR Camera,Product inquiry,Installation support,Critical,Email,0
+61,Fitbit Charge,Refund request,Refund request,High,Phone,1
+65,GoPro Hero,Refund request,Product setup,High,Chat,1
+56,Dell XPS,Product inquiry,Product compatibility,Low,Email,0
+46,Garmin Forerunner,Cancellation request,Software bug,High,Chat,1
+58,Canon DSLR Camera,Cancellation request,Peripheral compatibility,Low,Social media,0
+47,Samsung Soundbar,Refund request,Product compatibility,Low,Phone,0
+52,Apple AirPods,Cancellation request,Hardware issue,High,Chat,1
+51,iPhone,Refund request,Delivery problem,Low,Social media,0
+37,LG Smart TV,Technical issue,Product compatibility,Low,Email,0
+50,Microsoft Office,Product inquiry,Software bug,Critical,Phone,1
+21,Lenovo ThinkPad,Product inquiry,Product compatibility,Critical,Social media,1
+68,Xbox,Billing inquiry,Installation support,Medium,Social media,0
+66,Google Pixel,Product inquiry,Delivery problem,Critical,Phone,1
+62,GoPro Action Camera,Billing inquiry,Display issue,Critical,Chat,0
+58,LG OLED,Cancellation request,Product setup,Low,Chat,0
+59,MacBook Pro,Technical issue,Data loss,Medium,Email,0
+53,LG Washing Machine,Technical issue,Network problem,High,Social media,0
+53,Samsung Galaxy,Technical issue,Installation support,Medium,Phone,0
+54,Xbox,Refund request,Installation support,High,Email,1
+21,LG Smart TV,Technical issue,Product compatibility,Medium,Social media,0
+54,Dyson Vacuum Cleaner,Technical issue,Payment issue,High,Social media,0
+20,LG Smart TV,Product inquiry,Network problem,Low,Social media,0
+30,Adobe Photoshop,Cancellation request,Battery life,Critical,Email,1
+39,Amazon Kindle,Technical issue,Battery life,Medium,Email,0
+35,Microsoft Office,Billing inquiry,Product compatibility,Critical,Email,1
+24,Apple AirPods,Refund request,Network problem,High,Chat,1
+42,Amazon Kindle,Technical issue,Hardware issue,Low,Phone,0
+36,Nest Thermostat,Cancellation request,Product setup,Medium,Social media,0
+32,Nikon D,Technical issue,Product setup,Low,Email,0
+21,Google Nest,Billing inquiry,Data loss,Critical,Social media,0
+67,Philips Hue Lights,Technical issue,Payment issue,Critical,Chat,0
+50,Google Nest,Billing inquiry,Delivery problem,Low,Social media,0
+38,Nintendo Switch Pro Controller,Cancellation request,Battery life,Critical,Phone,1
+59,Nintendo Switch Pro Controller,Billing inquiry,Product compatibility,Critical,Phone,1
+57,Microsoft Surface,Technical issue,Product compatibility,Low,Phone,0
+63,Canon EOS,Product inquiry,Account access,Critical,Phone,1
+48,Adobe Photoshop,Product inquiry,Display issue,High,Phone,1
+38,Samsung Galaxy,Refund request,Network problem,Low,Email,0
+51,iPhone,Billing inquiry,Installation support,Critical,Phone,1
+47,Microsoft Surface,Product inquiry,Cancellation request,High,Chat,1
+35,Roomba Robot Vacuum,Technical issue,Installation support,High,Phone,1
+63,Nintendo Switch Pro Controller,Product inquiry,Delivery problem,High,Phone,1
+50,LG OLED,Refund request,Product setup,Critical,Email,1
+29,PlayStation,Cancellation request,Network problem,High,Chat,1
+48,Sony PlayStation,Technical issue,Data loss,Medium,Chat,0
+62,LG Washing Machine,Refund request,Product setup,Medium,Social media,0
+46,Canon DSLR Camera,Refund request,Delivery problem,Low,Chat,0
+20,Sony Xperia,Refund request,Software bug,Low,Chat,0
+40,Bose SoundLink Speaker,Product inquiry,Refund request,Medium,Email,0
+36,Sony Xperia,Product inquiry,Product compatibility,Low,Phone,0
+70,Bose QuietComfort,Cancellation request,Network problem,Low,Email,0
+57,Nest Thermostat,Refund request,Installation support,Low,Email,0
+41,Dell XPS,Cancellation request,Display issue,Low,Social media,0
+64,Amazon Echo,Billing inquiry,Data loss,High,Chat,1
+44,Dyson Vacuum Cleaner,Billing inquiry,Software bug,Critical,Email,1
+59,Xbox,Billing inquiry,Account access,Critical,Email,1
+29,Nintendo Switch Pro Controller,Product inquiry,Product setup,Low,Phone,0
+66,Garmin Forerunner,Refund request,Delivery problem,High,Phone,0
+69,Adobe Photoshop,Billing inquiry,Cancellation request,Critical,Chat,0
+45,Asus ROG,Product inquiry,Display issue,High,Chat,1
+64,MacBook Pro,Billing inquiry,Delivery problem,Medium,Social media,0
+55,Samsung Galaxy,Refund request,Display issue,Low,Social media,0
+51,Amazon Echo,Refund request,Installation support,Critical,Email,1
+46,Bose SoundLink Speaker,Billing inquiry,Installation support,High,Chat,1
+31,Garmin Forerunner,Product inquiry,Account access,Medium,Social media,0
+62,Samsung Soundbar,Product inquiry,Peripheral compatibility,Low,Social media,0
+31,Amazon Echo,Billing inquiry,Hardware issue,Low,Social media,0
+31,Google Pixel,Product inquiry,Product recommendation,High,Social media,1
+32,Fitbit Versa Smartwatch,Refund request,Product setup,Critical,Phone,1
+36,Nintendo Switch,Refund request,Battery life,Critical,Email,1
+18,Amazon Echo,Refund request,Cancellation request,Medium,Email,0
+28,Xbox,Technical issue,Installation support,High,Phone,0
+51,Microsoft Surface,Cancellation request,Installation support,Low,Phone,0
+57,Nintendo Switch,Cancellation request,Refund request,Medium,Phone,1
+62,Garmin Forerunner,Refund request,Product compatibility,Medium,Phone,0
+69,iPhone,Technical issue,Product compatibility,Critical,Email,1
+63,Nest Thermostat,Product inquiry,Display issue,Low,Email,0
+30,Roomba Robot Vacuum,Product inquiry,Product setup,Medium,Chat,0
+34,Fitbit Versa Smartwatch,Billing inquiry,Hardware issue,Critical,Social media,1
+67,Bose SoundLink Speaker,Billing inquiry,Delivery problem,High,Email,1
+18,Microsoft Office,Cancellation request,Payment issue,Medium,Email,0
+28,Microsoft Surface,Product inquiry,Battery life,Low,Phone,0
+63,Amazon Kindle,Technical issue,Delivery problem,Critical,Social media,1
+44,PlayStation,Product inquiry,Payment issue,Critical,Chat,1
+39,Fitbit Versa Smartwatch,Product inquiry,Peripheral compatibility,Critical,Phone,1
+29,iPhone,Cancellation request,Display issue,Low,Phone,0
+53,Google Nest,Billing inquiry,Product setup,Medium,Chat,1
+27,PlayStation,Technical issue,Product recommendation,Low,Email,0
+19,Philips Hue Lights,Cancellation request,Battery life,Critical,Social media,0
+20,Microsoft Surface,Product inquiry,Payment issue,Medium,Phone,0
+19,Xbox,Product inquiry,Refund request,High,Chat,0
+28,Bose QuietComfort,Billing inquiry,Data loss,Low,Email,0
+30,Philips Hue Lights,Billing inquiry,Cancellation request,High,Chat,1
+65,Sony PlayStation,Product inquiry,Delivery problem,Low,Email,0
+70,Dyson Vacuum Cleaner,Cancellation request,Delivery problem,Low,Chat,0
+28,Bose QuietComfort,Billing inquiry,Network problem,Medium,Email,0
+62,Amazon Kindle,Refund request,Software bug,Critical,Phone,1
+33,Garmin Forerunner,Product inquiry,Product compatibility,Low,Chat,0
+44,Philips Hue Lights,Product inquiry,Account access,Medium,Email,0
+39,Canon EOS,Cancellation request,Hardware issue,Low,Email,0
+23,Google Nest,Refund request,Data loss,Critical,Social media,0
+53,LG OLED,Billing inquiry,Battery life,High,Phone,1
+22,Apple AirPods,Product inquiry,Account access,Medium,Email,0
+65,Lenovo ThinkPad,Technical issue,Refund request,High,Email,0
+31,LG OLED,Product inquiry,Software bug,High,Phone,0
+22,iPhone,Billing inquiry,Installation support,Critical,Social media,1
+69,Google Pixel,Technical issue,Product recommendation,Critical,Phone,1
+58,Bose SoundLink Speaker,Product inquiry,Software bug,Low,Social media,0
+41,MacBook Pro,Cancellation request,Software bug,Medium,Chat,0
+41,LG OLED,Refund request,Cancellation request,High,Chat,1
+48,Adobe Photoshop,Product inquiry,Product recommendation,High,Social media,1
+67,Dell XPS,Product inquiry,Software bug,Critical,Email,1
+33,Nikon D,Technical issue,Hardware issue,High,Social media,1
+34,Asus ROG,Billing inquiry,Data loss,Low,Chat,0
+66,Adobe Photoshop,Cancellation request,Peripheral compatibility,Critical,Email,1
+53,Canon EOS,Cancellation request,Delivery problem,Medium,Chat,0
+56,MacBook Pro,Technical issue,Hardware issue,Critical,Email,1
+49,Philips Hue Lights,Technical issue,Cancellation request,Critical,Email,0
+54,Nest Thermostat,Product inquiry,Hardware issue,Low,Social media,0
+34,Canon EOS,Cancellation request,Product recommendation,Critical,Social media,1
+19,Autodesk AutoCAD,Technical issue,Product setup,Critical,Social media,1
+64,Amazon Kindle,Billing inquiry,Cancellation request,High,Chat,0
+70,Nest Thermostat,Product inquiry,Delivery problem,Low,Email,0
+39,Dyson Vacuum Cleaner,Technical issue,Peripheral compatibility,Medium,Social media,0
+56,Sony Xperia,Technical issue,Hardware issue,Critical,Phone,0
+52,GoPro Hero,Product inquiry,Product setup,Critical,Phone,0
+39,Amazon Echo,Technical issue,Battery life,Medium,Chat,0
+56,Canon EOS,Technical issue,Software bug,Low,Phone,0
+52,Canon DSLR Camera,Billing inquiry,Payment issue,Medium,Phone,0
+32,Fitbit Charge,Cancellation request,Payment issue,High,Phone,1
+65,Google Nest,Cancellation request,Network problem,High,Chat,0
+39,Nintendo Switch Pro Controller,Billing inquiry,Peripheral compatibility,Low,Phone,0
+37,Canon EOS,Technical issue,Delivery problem,High,Chat,0
+45,Amazon Echo,Technical issue,Account access,High,Chat,0
+70,Google Pixel,Refund request,Cancellation request,Critical,Chat,0
+44,HP Pavilion,Refund request,Product compatibility,Critical,Chat,1
+54,Xbox,Billing inquiry,Payment issue,High,Phone,0
+27,LG Washing Machine,Technical issue,Data loss,High,Phone,1
+57,Nikon D,Technical issue,Product recommendation,High,Phone,1
+22,Dyson Vacuum Cleaner,Cancellation request,Battery life,Medium,Phone,0
+42,iPhone,Product inquiry,Payment issue,High,Phone,1
+34,iPhone,Technical issue,Refund request,Medium,Chat,0
+42,Fitbit Versa Smartwatch,Product inquiry,Display issue,Medium,Phone,0
+50,LG Smart TV,Billing inquiry,Hardware issue,Low,Chat,0
+56,Roomba Robot Vacuum,Cancellation request,Cancellation request,Low,Chat,0
+60,Nintendo Switch Pro Controller,Refund request,Hardware issue,Critical,Phone,1
+54,Sony 4K HDR TV,Product inquiry,Network problem,High,Phone,0
+56,Microsoft Office,Product inquiry,Account access,Low,Chat,0
+64,Dyson Vacuum Cleaner,Billing inquiry,Peripheral compatibility,Low,Chat,0
+52,Google Nest,Refund request,Battery life,Low,Social media,0
+51,Canon EOS,Product inquiry,Product recommendation,High,Email,1
+36,Asus ROG,Technical issue,Network problem,Low,Email,0
+70,Bose QuietComfort,Cancellation request,Data loss,High,Phone,1
+40,Fitbit Charge,Refund request,Battery life,Low,Social media,0
+51,Philips Hue Lights,Cancellation request,Product setup,High,Chat,0
+70,PlayStation,Billing inquiry,Installation support,High,Phone,1
+42,Nikon D,Billing inquiry,Installation support,Low,Chat,0
+69,iPhone,Refund request,Hardware issue,Low,Phone,0
+64,iPhone,Refund request,Battery life,Low,Email,0
+66,Nintendo Switch Pro Controller,Cancellation request,Peripheral compatibility,High,Email,0
+44,Samsung Soundbar,Refund request,Account access,High,Email,0
+50,GoPro Hero,Cancellation request,Data loss,High,Chat,1
+20,Canon EOS,Technical issue,Network problem,Critical,Email,1
+34,Google Nest,Billing inquiry,Installation support,Critical,Social media,0
+39,Microsoft Xbox Controller,Technical issue,Network problem,Medium,Phone,0
+60,Philips Hue Lights,Technical issue,Account access,Low,Email,0
+43,Apple AirPods,Product inquiry,Installation support,High,Chat,1
+60,Microsoft Office,Cancellation request,Refund request,Critical,Chat,1
+18,Canon DSLR Camera,Technical issue,Account access,Critical,Social media,0
+45,Sony 4K HDR TV,Product inquiry,Account access,High,Chat,0
+33,GoPro Action Camera,Product inquiry,Product compatibility,Low,Phone,0
+52,Microsoft Office,Product inquiry,Battery life,High,Social media,0
+66,Canon DSLR Camera,Refund request,Installation support,Low,Phone,0
+49,Amazon Echo,Billing inquiry,Cancellation request,Critical,Social media,1
+34,Roomba Robot Vacuum,Billing inquiry,Software bug,Critical,Phone,1
+50,Canon EOS,Product inquiry,Cancellation request,Critical,Chat,1
+57,Amazon Kindle,Refund request,Installation support,Medium,Social media,0
+63,Apple AirPods,Technical issue,Product compatibility,High,Chat,1
+44,Nikon D,Refund request,Hardware issue,Medium,Social media,0
+34,Lenovo ThinkPad,Technical issue,Battery life,Low,Social media,0
+26,LG Washing Machine,Product inquiry,Data loss,Medium,Email,0
+28,LG Washing Machine,Cancellation request,Refund request,Critical,Phone,1
+44,Xbox,Product inquiry,Cancellation request,Medium,Phone,1
+41,PlayStation,Refund request,Hardware issue,Low,Social media,0
+27,Canon DSLR Camera,Refund request,Payment issue,Medium,Social media,0
+43,Roomba Robot Vacuum,Product inquiry,Payment issue,High,Email,1
+24,Nintendo Switch,Technical issue,Software bug,Critical,Phone,1
+69,Microsoft Surface,Refund request,Data loss,High,Phone,0
+42,Bose SoundLink Speaker,Cancellation request,Software bug,High,Chat,0
+64,MacBook Pro,Cancellation request,Installation support,High,Phone,1
+67,Asus ROG,Cancellation request,Payment issue,Critical,Phone,1
+67,Google Nest,Product inquiry,Network problem,Critical,Chat,1
+29,Amazon Echo,Refund request,Product recommendation,High,Email,1
+38,Amazon Echo,Technical issue,Hardware issue,Critical,Social media,1
+21,Amazon Echo,Refund request,Peripheral compatibility,High,Social media,1
+65,Roomba Robot Vacuum,Refund request,Network problem,Critical,Email,1
+34,LG Washing Machine,Cancellation request,Product recommendation,Low,Chat,0
+42,Nikon D,Refund request,Product recommendation,High,Email,0
+57,iPhone,Billing inquiry,Product compatibility,Critical,Social media,0
+42,Lenovo ThinkPad,Product inquiry,Account access,Low,Email,0
+34,iPhone,Product inquiry,Peripheral compatibility,Medium,Social media,0
+61,Fitbit Versa Smartwatch,Refund request,Product setup,Critical,Chat,1
+62,Fitbit Charge,Technical issue,Installation support,Medium,Phone,0
+34,LG OLED,Cancellation request,Product setup,Medium,Phone,0
+31,Fitbit Versa Smartwatch,Billing inquiry,Payment issue,High,Chat,0
+52,Sony 4K HDR TV,Product inquiry,Product setup,Critical,Email,1
+59,Fitbit Charge,Refund request,Software bug,Low,Chat,0
+34,Canon EOS,Cancellation request,Installation support,Medium,Social media,0
+41,Samsung Soundbar,Technical issue,Cancellation request,Critical,Chat,1
+62,Microsoft Surface,Refund request,Installation support,Low,Email,0
+34,Microsoft Office,Product inquiry,Product compatibility,Critical,Chat,0
+41,Sony PlayStation,Billing inquiry,Data loss,Critical,Social media,0
+42,iPhone,Cancellation request,Product compatibility,Medium,Social media,0
+42,LG Smart TV,Product inquiry,Product compatibility,Critical,Phone,1
+28,Canon DSLR Camera,Technical issue,Product compatibility,Low,Social media,0
+25,Canon DSLR Camera,Refund request,Hardware issue,High,Phone,1
+68,Canon DSLR Camera,Cancellation request,Delivery problem,High,Chat,1
+52,HP Pavilion,Technical issue,Refund request,Critical,Chat,1
+35,Samsung Galaxy,Technical issue,Payment issue,Medium,Social media,0
+19,Google Pixel,Refund request,Account access,Medium,Social media,0
+36,Fitbit Versa Smartwatch,Refund request,Installation support,Medium,Phone,0
+39,Samsung Soundbar,Product inquiry,Product compatibility,Low,Email,0
+38,Samsung Soundbar,Refund request,Account access,Critical,Phone,1
+20,Nest Thermostat,Product inquiry,Product recommendation,Low,Chat,0
+21,Microsoft Surface,Cancellation request,Product compatibility,Medium,Email,0
+32,Microsoft Surface,Technical issue,Battery life,Low,Chat,0
+31,LG OLED,Billing inquiry,Installation support,High,Email,0
+61,Canon EOS,Technical issue,Refund request,High,Phone,1
+70,Google Pixel,Product inquiry,Cancellation request,Critical,Phone,1
+54,Fitbit Charge,Billing inquiry,Software bug,High,Email,1
+27,HP Pavilion,Refund request,Battery life,Medium,Email,0
+18,Philips Hue Lights,Billing inquiry,Payment issue,Critical,Social media,1
+42,HP Pavilion,Product inquiry,Installation support,Medium,Phone,1
+32,GoPro Action Camera,Product inquiry,Battery life,Medium,Phone,1
+36,Philips Hue Lights,Technical issue,Display issue,Critical,Email,1
+36,Microsoft Office,Billing inquiry,Software bug,High,Social media,1
+45,Sony Xperia,Refund request,Payment issue,High,Phone,0
+19,Adobe Photoshop,Refund request,Software bug,High,Social media,0
+52,Microsoft Xbox Controller,Billing inquiry,Installation support,Critical,Phone,1
+50,Amazon Echo,Product inquiry,Product compatibility,High,Email,0
+36,Google Nest,Refund request,Product recommendation,High,Chat,1
+60,Nest Thermostat,Technical issue,Cancellation request,Low,Social media,0
+52,iPhone,Technical issue,Hardware issue,Medium,Phone,0
+21,Amazon Kindle,Technical issue,Account access,Low,Social media,0
+50,Samsung Soundbar,Billing inquiry,Display issue,Critical,Social media,0
+25,Nikon D,Technical issue,Peripheral compatibility,Low,Social media,0
+55,iPhone,Technical issue,Refund request,High,Phone,0
+55,Bose SoundLink Speaker,Cancellation request,Hardware issue,High,Social media,1
+49,PlayStation,Technical issue,Account access,Critical,Chat,1
+35,Fitbit Versa Smartwatch,Billing inquiry,Refund request,Medium,Phone,1
+44,Sony Xperia,Refund request,Installation support,Low,Social media,0
+30,Samsung Soundbar,Billing inquiry,Battery life,Critical,Phone,1
+62,Nintendo Switch Pro Controller,Technical issue,Account access,Critical,Phone,1
+40,Samsung Galaxy,Billing inquiry,Cancellation request,High,Email,0
+58,Autodesk AutoCAD,Cancellation request,Hardware issue,Medium,Phone,1
+40,Nintendo Switch Pro Controller,Product inquiry,Hardware issue,Critical,Chat,1
+23,Dyson Vacuum Cleaner,Cancellation request,Refund request,Critical,Chat,1
+41,Apple AirPods,Refund request,Refund request,High,Social media,1
+51,Google Pixel,Billing inquiry,Account access,Low,Chat,0
+57,Amazon Echo,Refund request,Payment issue,Low,Email,0
+19,Amazon Kindle,Product inquiry,Hardware issue,Critical,Social media,1
+59,Microsoft Surface,Product inquiry,Product compatibility,Low,Social media,0
+51,Amazon Kindle,Refund request,Data loss,Medium,Phone,0
+37,Dell XPS,Billing inquiry,Network problem,Critical,Social media,1
+58,Nikon D,Billing inquiry,Refund request,Low,Email,0
+44,MacBook Pro,Billing inquiry,Account access,High,Phone,1
+18,Nintendo Switch Pro Controller,Product inquiry,Delivery problem,Critical,Chat,0
+42,Philips Hue Lights,Billing inquiry,Payment issue,Medium,Phone,0
+29,Xbox,Refund request,Account access,Medium,Chat,0
+58,Dyson Vacuum Cleaner,Product inquiry,Battery life,Low,Chat,0
+46,Nest Thermostat,Cancellation request,Product compatibility,Critical,Chat,1
+58,Bose SoundLink Speaker,Cancellation request,Display issue,Critical,Chat,1
+29,LG Smart TV,Product inquiry,Installation support,High,Phone,0
+55,Microsoft Surface,Refund request,Peripheral compatibility,Medium,Email,0
+53,Canon EOS,Billing inquiry,Product setup,Low,Phone,0
+27,HP Pavilion,Refund request,Cancellation request,Low,Phone,0
+58,Sony PlayStation,Refund request,Product compatibility,Critical,Chat,1
+64,Nintendo Switch,Refund request,Product recommendation,Critical,Social media,1
+50,Garmin Forerunner,Cancellation request,Product compatibility,High,Phone,1
+58,Philips Hue Lights,Cancellation request,Delivery problem,High,Chat,0
+39,Roomba Robot Vacuum,Technical issue,Payment issue,High,Chat,1
+63,GoPro Hero,Technical issue,Account access,High,Email,0
+43,Samsung Galaxy,Cancellation request,Payment issue,Low,Email,0
+34,Canon EOS,Product inquiry,Display issue,Medium,Social media,1
+63,Sony 4K HDR TV,Refund request,Product recommendation,Medium,Phone,1
+55,Amazon Echo,Billing inquiry,Payment issue,Critical,Social media,0
+66,Nintendo Switch,Technical issue,Display issue,Low,Phone,0
+60,Sony Xperia,Product inquiry,Product recommendation,Low,Phone,0
+36,Apple AirPods,Cancellation request,Data loss,Low,Phone,0
+24,Canon EOS,Product inquiry,Display issue,High,Social media,1
+36,GoPro Action Camera,Refund request,Product setup,Medium,Social media,1
+68,Microsoft Xbox Controller,Technical issue,Refund request,Medium,Email,0
+19,Sony 4K HDR TV,Refund request,Product recommendation,Critical,Phone,1
+70,Microsoft Office,Product inquiry,Data loss,Critical,Social media,1
+19,Xbox,Technical issue,Cancellation request,Low,Email,0
+42,Bose SoundLink Speaker,Product inquiry,Cancellation request,Low,Chat,0
+52,Canon DSLR Camera,Refund request,Product setup,Medium,Email,1
+23,Adobe Photoshop,Technical issue,Product setup,Low,Email,0
+31,Apple AirPods,Product inquiry,Product compatibility,Medium,Social media,1
+40,Apple AirPods,Billing inquiry,Account access,High,Social media,0
+65,Autodesk AutoCAD,Refund request,Installation support,Critical,Social media,1
+65,Sony Xperia,Product inquiry,Product recommendation,Medium,Social media,0
+18,Fitbit Charge,Refund request,Battery life,Critical,Email,1
+65,Asus ROG,Product inquiry,Peripheral compatibility,High,Chat,0
+52,Philips Hue Lights,Refund request,Battery life,Low,Social media,0
+35,Amazon Kindle,Technical issue,Refund request,Medium,Email,0
+62,Nintendo Switch Pro Controller,Refund request,Product recommendation,High,Chat,0
+26,Microsoft Office,Refund request,Hardware issue,High,Phone,1
+55,Fitbit Versa Smartwatch,Cancellation request,Product recommendation,Critical,Phone,0
+57,Nintendo Switch,Billing inquiry,Product setup,Low,Chat,0
+34,Microsoft Xbox Controller,Cancellation request,Data loss,Low,Social media,0
+47,Amazon Kindle,Technical issue,Account access,Critical,Social media,1
+48,LG OLED,Technical issue,Data loss,Low,Social media,0
+27,Samsung Soundbar,Product inquiry,Product compatibility,High,Phone,0
+35,Samsung Galaxy,Refund request,Delivery problem,Medium,Phone,0
+65,Nest Thermostat,Cancellation request,Cancellation request,Critical,Email,1
+57,Adobe Photoshop,Cancellation request,Refund request,Medium,Chat,1
+23,Dyson Vacuum Cleaner,Billing inquiry,Software bug,Medium,Chat,0
+62,GoPro Action Camera,Refund request,Hardware issue,Critical,Chat,1
+53,Amazon Kindle,Technical issue,Cancellation request,Critical,Email,0
+57,Apple AirPods,Billing inquiry,Peripheral compatibility,Medium,Phone,1
+56,Canon DSLR Camera,Refund request,Product setup,Medium,Chat,1
+65,Fitbit Charge,Cancellation request,Delivery problem,High,Social media,0
+49,LG Washing Machine,Cancellation request,Delivery problem,Critical,Phone,1
+60,Google Pixel,Product inquiry,Product recommendation,Low,Social media,0
+53,Nintendo Switch,Refund request,Data loss,Critical,Email,0
+24,Sony PlayStation,Refund request,Display issue,High,Phone,1
+60,Autodesk AutoCAD,Refund request,Product setup,Medium,Email,0
+65,Philips Hue Lights,Billing inquiry,Peripheral compatibility,Medium,Chat,0
+33,LG Washing Machine,Refund request,Network problem,High,Email,1
+33,Asus ROG,Technical issue,Product setup,Medium,Email,1
+54,GoPro Hero,Cancellation request,Installation support,High,Social media,1
+49,LG Smart TV,Refund request,Peripheral compatibility,High,Chat,0
+42,GoPro Hero,Cancellation request,Refund request,Medium,Phone,0
+21,Bose SoundLink Speaker,Cancellation request,Data loss,Critical,Social media,1
+33,HP Pavilion,Product inquiry,Product setup,Critical,Phone,0
+42,Sony 4K HDR TV,Product inquiry,Battery life,Medium,Phone,0
+69,Sony PlayStation,Product inquiry,Peripheral compatibility,High,Email,0
+20,Apple AirPods,Product inquiry,Battery life,High,Chat,1
+39,HP Pavilion,Technical issue,Product setup,Medium,Social media,0
+18,GoPro Hero,Refund request,Display issue,Low,Social media,0
+32,Canon EOS,Billing inquiry,Installation support,Critical,Chat,1
+54,Samsung Galaxy,Product inquiry,Product compatibility,Critical,Chat,1
+32,Apple AirPods,Billing inquiry,Data loss,Low,Email,0
+34,Nintendo Switch Pro Controller,Refund request,Payment issue,Critical,Phone,1
+33,Philips Hue Lights,Refund request,Software bug,Critical,Social media,1
+21,Canon EOS,Cancellation request,Battery life,Medium,Social media,0
+37,Garmin Forerunner,Technical issue,Display issue,High,Social media,0
+33,Bose SoundLink Speaker,Technical issue,Product compatibility,Medium,Social media,0
+69,Bose QuietComfort,Billing inquiry,Payment issue,Critical,Chat,1
+29,Microsoft Surface,Cancellation request,Display issue,Low,Social media,0
+61,Fitbit Charge,Technical issue,Delivery problem,High,Social media,1
+61,Apple AirPods,Technical issue,Peripheral compatibility,Low,Phone,0
+58,Bose SoundLink Speaker,Technical issue,Payment issue,Critical,Phone,0
+50,Autodesk AutoCAD,Billing inquiry,Product compatibility,Critical,Chat,0
+63,Google Nest,Technical issue,Data loss,Low,Email,0
+23,Google Pixel,Product inquiry,Network problem,Critical,Email,1
+21,Fitbit Charge,Cancellation request,Installation support,High,Social media,0
+36,MacBook Pro,Technical issue,Data loss,High,Social media,0
+68,Canon DSLR Camera,Product inquiry,Battery life,Critical,Email,1
+21,Bose SoundLink Speaker,Billing inquiry,Product recommendation,Low,Phone,0
+39,Dell XPS,Billing inquiry,Product compatibility,High,Phone,0
+44,Nikon D,Billing inquiry,Product recommendation,Low,Chat,0
+54,Sony 4K HDR TV,Product inquiry,Account access,Low,Email,0
+65,Google Pixel,Cancellation request,Product compatibility,Critical,Email,1
+34,Bose SoundLink Speaker,Cancellation request,Cancellation request,Low,Social media,0
+27,Adobe Photoshop,Product inquiry,Software bug,Medium,Social media,0
+40,PlayStation,Refund request,Peripheral compatibility,Low,Phone,0
+43,Apple AirPods,Technical issue,Cancellation request,Critical,Chat,1
+26,LG OLED,Cancellation request,Battery life,Low,Chat,0
+60,Sony 4K HDR TV,Product inquiry,Refund request,Critical,Social media,0
+20,Nest Thermostat,Cancellation request,Product setup,High,Social media,0
+22,Bose SoundLink Speaker,Technical issue,Product compatibility,High,Chat,0
+59,Roomba Robot Vacuum,Product inquiry,Network problem,Medium,Social media,0
+54,GoPro Hero,Billing inquiry,Delivery problem,Low,Email,0
+38,Sony PlayStation,Refund request,Product recommendation,Low,Email,0
+33,Microsoft Office,Refund request,Software bug,Medium,Email,0
+30,Microsoft Office,Cancellation request,Payment issue,Critical,Phone,1
+55,Canon DSLR Camera,Refund request,Cancellation request,Critical,Chat,0
+67,HP Pavilion,Technical issue,Peripheral compatibility,Low,Chat,0
+18,Microsoft Xbox Controller,Technical issue,Refund request,High,Email,0
+61,Roomba Robot Vacuum,Billing inquiry,Refund request,Critical,Phone,1
+41,Xbox,Cancellation request,Software bug,Medium,Chat,1
+37,Amazon Echo,Refund request,Account access,Low,Email,0
+62,LG Smart TV,Refund request,Payment issue,Low,Phone,0
+59,Google Nest,Billing inquiry,Product compatibility,Low,Phone,0
+55,Asus ROG,Cancellation request,Product setup,High,Phone,1
+60,Adobe Photoshop,Technical issue,Product setup,Critical,Chat,1
+36,Microsoft Office,Technical issue,Cancellation request,Critical,Social media,0
+48,PlayStation,Billing inquiry,Product compatibility,High,Social media,1
+48,Dell XPS,Cancellation request,Battery life,Low,Email,0
+46,Sony PlayStation,Technical issue,Product setup,High,Phone,1
+44,iPhone,Cancellation request,Network problem,Medium,Chat,0
+44,LG OLED,Refund request,Account access,High,Chat,0
+26,Fitbit Versa Smartwatch,Product inquiry,Delivery problem,Critical,Email,1
+44,HP Pavilion,Billing inquiry,Refund request,Low,Email,0
+22,GoPro Action Camera,Product inquiry,Payment issue,Low,Social media,0
+65,PlayStation,Cancellation request,Peripheral compatibility,High,Chat,0
+38,Sony Xperia,Cancellation request,Installation support,Medium,Chat,0
+22,Microsoft Office,Refund request,Display issue,Low,Email,0
+18,Philips Hue Lights,Product inquiry,Data loss,Medium,Phone,0
+26,Fitbit Versa Smartwatch,Billing inquiry,Delivery problem,Medium,Chat,0
+69,Garmin Forerunner,Technical issue,Data loss,High,Chat,0
+53,Bose QuietComfort,Product inquiry,Product compatibility,Low,Phone,0
+38,Fitbit Charge,Product inquiry,Network problem,Critical,Social media,0
+63,Xbox,Refund request,Delivery problem,Low,Social media,0
+18,Google Pixel,Billing inquiry,Account access,Critical,Phone,1
+49,Lenovo ThinkPad,Refund request,Battery life,Critical,Email,1
+34,Amazon Echo,Refund request,Battery life,High,Social media,0
+30,Amazon Kindle,Cancellation request,Delivery problem,Medium,Social media,1
+20,Bose QuietComfort,Technical issue,Product setup,Critical,Email,0
+36,MacBook Pro,Billing inquiry,Display issue,Critical,Phone,1
+43,Dell XPS,Product inquiry,Data loss,Low,Email,0
+21,Nintendo Switch,Product inquiry,Battery life,Critical,Chat,1
+70,Apple AirPods,Technical issue,Payment issue,Medium,Social media,0
+47,Nintendo Switch Pro Controller,Product inquiry,Account access,High,Email,1
+59,Bose SoundLink Speaker,Technical issue,Product recommendation,Critical,Phone,1
+19,Google Pixel,Cancellation request,Account access,Low,Chat,0
+48,Amazon Echo,Cancellation request,Cancellation request,Medium,Email,0
+56,GoPro Action Camera,Cancellation request,Network problem,Critical,Phone,0
+53,MacBook Pro,Product inquiry,Software bug,Medium,Email,0
+58,Microsoft Surface,Technical issue,Payment issue,Medium,Email,0
+49,Fitbit Versa Smartwatch,Billing inquiry,Account access,Medium,Chat,1
+69,Philips Hue Lights,Billing inquiry,Account access,Critical,Social media,1
+67,LG Smart TV,Product inquiry,Battery life,Low,Email,0
+35,Garmin Forerunner,Refund request,Hardware issue,Low,Chat,0
+70,Fitbit Charge,Cancellation request,Product compatibility,Low,Phone,0
+67,MacBook Pro,Product inquiry,Product compatibility,High,Phone,1
+67,Amazon Echo,Cancellation request,Product recommendation,Critical,Email,1
+24,Nest Thermostat,Billing inquiry,Network problem,Critical,Social media,1
+29,Amazon Kindle,Billing inquiry,Product compatibility,Critical,Email,0
+53,iPhone,Technical issue,Data loss,High,Phone,0
+69,iPhone,Billing inquiry,Cancellation request,Medium,Social media,0
+67,Samsung Galaxy,Refund request,Hardware issue,High,Chat,0
+40,PlayStation,Technical issue,Product setup,High,Email,0
+46,Sony 4K HDR TV,Billing inquiry,Delivery problem,High,Chat,1
+67,Lenovo ThinkPad,Product inquiry,Product setup,Medium,Social media,1
+18,Google Nest,Billing inquiry,Product compatibility,Medium,Email,1
+58,Garmin Forerunner,Product inquiry,Battery life,Medium,Social media,0
+64,Amazon Echo,Cancellation request,Cancellation request,Medium,Chat,0
+54,Nikon D,Product inquiry,Battery life,Low,Chat,0
+69,Microsoft Xbox Controller,Cancellation request,Delivery problem,Critical,Email,1
+55,Sony Xperia,Refund request,Network problem,High,Social media,1
+24,Fitbit Charge,Product inquiry,Product recommendation,Low,Phone,0
+59,Apple AirPods,Billing inquiry,Product setup,Medium,Chat,0
+34,Nintendo Switch Pro Controller,Cancellation request,Product recommendation,Low,Chat,0
+18,Google Nest,Product inquiry,Display issue,High,Email,1
+19,Apple AirPods,Billing inquiry,Installation support,Low,Social media,0
+66,Nest Thermostat,Product inquiry,Cancellation request,Critical,Social media,1
+58,Asus ROG,Product inquiry,Delivery problem,High,Chat,1
+52,GoPro Hero,Billing inquiry,Delivery problem,High,Phone,1
+18,LG OLED,Cancellation request,Installation support,Low,Chat,0
+31,Amazon Kindle,Technical issue,Battery life,Low,Phone,0
+32,Apple AirPods,Billing inquiry,Product compatibility,Critical,Chat,1
+62,LG Washing Machine,Refund request,Display issue,High,Phone,1
+35,Bose QuietComfort,Billing inquiry,Product compatibility,High,Email,1
+63,Nikon D,Billing inquiry,Display issue,Low,Chat,0
+59,GoPro Action Camera,Cancellation request,Account access,Medium,Chat,0
+43,LG OLED,Product inquiry,Display issue,Critical,Phone,1
+27,Nest Thermostat,Refund request,Product compatibility,Low,Phone,0
+23,Asus ROG,Refund request,Refund request,Medium,Email,0
+55,Canon EOS,Product inquiry,Peripheral compatibility,Critical,Phone,1
+32,Nintendo Switch Pro Controller,Cancellation request,Peripheral compatibility,Medium,Email,0
+31,Google Pixel,Technical issue,Hardware issue,Critical,Email,1
+40,Canon EOS,Refund request,Network problem,High,Email,0
+41,Fitbit Versa Smartwatch,Product inquiry,Refund request,Low,Chat,0
+67,Adobe Photoshop,Cancellation request,Installation support,Medium,Email,0
+46,HP Pavilion,Refund request,Refund request,High,Email,0
+65,Sony PlayStation,Product inquiry,Cancellation request,Critical,Social media,1
+34,Nest Thermostat,Refund request,Peripheral compatibility,Critical,Phone,1
+18,GoPro Action Camera,Technical issue,Hardware issue,Low,Social media,0
+33,LG OLED,Cancellation request,Peripheral compatibility,Low,Social media,0
+44,Samsung Soundbar,Billing inquiry,Product setup,Medium,Phone,0
+51,Samsung Soundbar,Billing inquiry,Payment issue,Critical,Chat,1
+36,Apple AirPods,Billing inquiry,Product recommendation,Medium,Email,1
+70,Roomba Robot Vacuum,Billing inquiry,Data loss,Low,Email,0
+53,Canon EOS,Product inquiry,Data loss,Critical,Email,1
+49,Fitbit Charge,Refund request,Delivery problem,High,Chat,1
+62,Lenovo ThinkPad,Refund request,Hardware issue,Low,Email,0
+69,Fitbit Charge,Product inquiry,Hardware issue,Critical,Phone,1
+25,Microsoft Office,Billing inquiry,Delivery problem,Medium,Email,0
+43,Microsoft Xbox Controller,Refund request,Software bug,Medium,Email,0
+68,Samsung Soundbar,Refund request,Product recommendation,Critical,Email,1
+49,Nintendo Switch,Product inquiry,Cancellation request,High,Email,1
+63,Asus ROG,Technical issue,Product compatibility,Medium,Social media,1
+70,Canon DSLR Camera,Technical issue,Delivery problem,Critical,Email,1
+39,Canon EOS,Product inquiry,Cancellation request,Critical,Email,1
+68,LG OLED,Technical issue,Product compatibility,Critical,Social media,1
+61,Google Pixel,Technical issue,Data loss,High,Social media,0
+59,Nikon D,Refund request,Installation support,High,Social media,1
+18,Sony 4K HDR TV,Billing inquiry,Refund request,Critical,Chat,1
+60,Amazon Kindle,Product inquiry,Product compatibility,High,Email,0
+36,GoPro Hero,Technical issue,Network problem,High,Social media,0
+65,Roomba Robot Vacuum,Technical issue,Refund request,Critical,Email,1
+18,Garmin Forerunner,Refund request,Installation support,Medium,Chat,0
+48,Nikon D,Billing inquiry,Cancellation request,Medium,Phone,0
+20,Nest Thermostat,Technical issue,Peripheral compatibility,Critical,Social media,0
+60,Apple AirPods,Technical issue,Display issue,High,Phone,0
+41,LG OLED,Product inquiry,Refund request,Medium,Chat,0
+50,Sony Xperia,Refund request,Product recommendation,Critical,Chat,0
+59,Samsung Soundbar,Technical issue,Hardware issue,High,Email,0
+65,Sony Xperia,Refund request,Network problem,High,Social media,1
+41,Google Pixel,Cancellation request,Battery life,Critical,Social media,0
+44,Amazon Echo,Product inquiry,Display issue,High,Phone,1
+54,Sony PlayStation,Billing inquiry,Product compatibility,High,Social media,0
+20,Dyson Vacuum Cleaner,Refund request,Software bug,High,Email,1
+52,Dell XPS,Technical issue,Hardware issue,Medium,Phone,0
+58,Sony Xperia,Refund request,Payment issue,High,Social media,0
+44,Google Pixel,Refund request,Peripheral compatibility,High,Email,1
+61,Microsoft Surface,Cancellation request,Display issue,Critical,Social media,1
+46,Autodesk AutoCAD,Refund request,Payment issue,High,Phone,0
+55,MacBook Pro,Refund request,Product compatibility,Critical,Phone,1
+56,Nikon D,Product inquiry,Product setup,Medium,Chat,1
+56,HP Pavilion,Technical issue,Network problem,Medium,Email,1
+44,Microsoft Xbox Controller,Cancellation request,Data loss,Critical,Chat,0
+45,Amazon Echo,Billing inquiry,Product compatibility,Medium,Social media,1
+45,Fitbit Versa Smartwatch,Refund request,Product recommendation,Medium,Phone,0
+27,Microsoft Office,Refund request,Product setup,High,Social media,1
+44,Sony Xperia,Cancellation request,Hardware issue,High,Chat,1
+57,Garmin Forerunner,Product inquiry,Refund request,Critical,Email,1
+25,GoPro Hero,Refund request,Cancellation request,Critical,Social media,1
+45,Microsoft Surface,Billing inquiry,Product recommendation,Low,Social media,0
+42,LG OLED,Technical issue,Network problem,Critical,Phone,1
+33,GoPro Hero,Billing inquiry,Display issue,Critical,Chat,1
+43,LG OLED,Product inquiry,Delivery problem,Critical,Chat,1
+45,Canon EOS,Cancellation request,Delivery problem,High,Chat,0
+56,Amazon Kindle,Refund request,Data loss,Medium,Chat,0
+39,GoPro Action Camera,Refund request,Product recommendation,Medium,Phone,0
+29,Samsung Soundbar,Technical issue,Product recommendation,Critical,Email,1
+55,Autodesk AutoCAD,Product inquiry,Delivery problem,Low,Phone,0
+18,iPhone,Billing inquiry,Payment issue,High,Phone,0
+58,Asus ROG,Cancellation request,Account access,Critical,Chat,1
+21,Autodesk AutoCAD,Technical issue,Delivery problem,Medium,Email,0
+36,iPhone,Billing inquiry,Cancellation request,Low,Chat,0
+67,PlayStation,Product inquiry,Product recommendation,High,Social media,0
+44,Sony Xperia,Cancellation request,Software bug,Critical,Chat,1
+64,Asus ROG,Cancellation request,Data loss,Low,Phone,0
+30,Microsoft Office,Product inquiry,Refund request,High,Social media,1
+61,Lenovo ThinkPad,Technical issue,Payment issue,Medium,Email,0
+63,LG Washing Machine,Technical issue,Network problem,High,Phone,0
+64,Nintendo Switch,Technical issue,Network problem,Medium,Social media,0
+51,Dell XPS,Technical issue,Account access,Critical,Phone,0
+47,Autodesk AutoCAD,Billing inquiry,Hardware issue,High,Phone,0
+61,Autodesk AutoCAD,Technical issue,Peripheral compatibility,Critical,Chat,1
+19,Canon EOS,Technical issue,Installation support,Critical,Chat,0
+35,Nikon D,Technical issue,Software bug,Medium,Social media,1
+27,Nikon D,Billing inquiry,Account access,Medium,Email,0
+59,Garmin Forerunner,Billing inquiry,Product setup,Low,Phone,0
+56,Fitbit Versa Smartwatch,Billing inquiry,Peripheral compatibility,Low,Chat,0
+38,Bose SoundLink Speaker,Product inquiry,Product recommendation,High,Chat,0
+61,LG OLED,Cancellation request,Display issue,High,Chat,1
+20,Dell XPS,Product inquiry,Product compatibility,High,Phone,0
+47,Microsoft Xbox Controller,Cancellation request,Account access,Low,Social media,0
+34,Philips Hue Lights,Product inquiry,Product setup,Critical,Email,1
+70,Philips Hue Lights,Product inquiry,Battery life,High,Email,0
+53,Amazon Kindle,Billing inquiry,Product compatibility,Critical,Email,1
+22,Sony 4K HDR TV,Cancellation request,Network problem,High,Social media,0
+47,Samsung Soundbar,Billing inquiry,Payment issue,High,Chat,1
+53,Autodesk AutoCAD,Cancellation request,Product recommendation,Critical,Phone,0
+54,Garmin Forerunner,Cancellation request,Data loss,High,Phone,0
+24,GoPro Hero,Refund request,Data loss,Critical,Social media,1
+60,Sony 4K HDR TV,Product inquiry,Network problem,Critical,Email,1
+56,Canon DSLR Camera,Product inquiry,Data loss,Low,Social media,0
+41,Sony PlayStation,Product inquiry,Display issue,High,Phone,0
+26,PlayStation,Cancellation request,Peripheral compatibility,High,Social media,1
+51,Lenovo ThinkPad,Refund request,Refund request,High,Email,0
+46,Sony Xperia,Cancellation request,Peripheral compatibility,Critical,Chat,1
+56,Samsung Soundbar,Billing inquiry,Installation support,Medium,Social media,0
+38,Lenovo ThinkPad,Cancellation request,Hardware issue,Low,Phone,0
+70,PlayStation,Cancellation request,Data loss,Critical,Chat,1
+41,Sony PlayStation,Cancellation request,Cancellation request,Medium,Email,0
+24,Dyson Vacuum Cleaner,Cancellation request,Product compatibility,High,Chat,0
+59,Xbox,Technical issue,Product compatibility,High,Phone,0
+57,Microsoft Office,Billing inquiry,Network problem,High,Chat,0
+48,Nest Thermostat,Technical issue,Battery life,Critical,Phone,1
+40,Adobe Photoshop,Product inquiry,Software bug,Medium,Phone,1
+61,Microsoft Xbox Controller,Billing inquiry,Refund request,Critical,Social media,1
+69,Xbox,Refund request,Payment issue,Critical,Email,0
+32,Bose QuietComfort,Technical issue,Peripheral compatibility,Low,Phone,0
+39,Bose SoundLink Speaker,Cancellation request,Product setup,High,Email,1
+36,Canon DSLR Camera,Product inquiry,Delivery problem,Critical,Email,1
+62,Nintendo Switch,Billing inquiry,Product recommendation,Critical,Email,1
+25,Canon EOS,Refund request,Cancellation request,Medium,Chat,1
+27,GoPro Action Camera,Product inquiry,Product setup,Low,Chat,0
+42,Nintendo Switch,Technical issue,Product setup,Critical,Chat,1
+33,GoPro Hero,Cancellation request,Software bug,Medium,Chat,0
+38,Nest Thermostat,Technical issue,Cancellation request,Critical,Phone,0
+28,LG Washing Machine,Product inquiry,Software bug,Low,Phone,0
+27,LG Washing Machine,Refund request,Software bug,Low,Email,0
+49,Bose QuietComfort,Technical issue,Display issue,Low,Social media,0
+46,Canon DSLR Camera,Product inquiry,Network problem,Critical,Email,0
+37,Asus ROG,Cancellation request,Product setup,Critical,Social media,1
+45,Canon EOS,Refund request,Hardware issue,High,Social media,1
+31,Samsung Soundbar,Cancellation request,Product compatibility,High,Chat,0
+42,Nintendo Switch,Refund request,Cancellation request,Critical,Phone,1
+35,Dyson Vacuum Cleaner,Cancellation request,Product compatibility,Low,Phone,0
+48,Asus ROG,Cancellation request,Software bug,Critical,Phone,1
+61,Microsoft Office,Billing inquiry,Software bug,Medium,Chat,0
+67,Sony Xperia,Cancellation request,Peripheral compatibility,Critical,Email,1
+58,Dyson Vacuum Cleaner,Refund request,Account access,High,Email,1
+25,Sony PlayStation,Refund request,Cancellation request,High,Social media,0
+56,Apple AirPods,Billing inquiry,Data loss,High,Email,1
+54,Bose QuietComfort,Product inquiry,Data loss,Critical,Phone,1
+55,LG Washing Machine,Product inquiry,Product setup,Medium,Phone,1
+67,PlayStation,Cancellation request,Installation support,Critical,Email,0
+47,Adobe Photoshop,Cancellation request,Product recommendation,Critical,Email,1
+58,Nintendo Switch Pro Controller,Technical issue,Software bug,Critical,Email,1
+56,Nikon D,Cancellation request,Display issue,Low,Email,0
+33,Microsoft Surface,Billing inquiry,Product compatibility,Medium,Chat,0
+40,Amazon Kindle,Technical issue,Delivery problem,Medium,Chat,1
+45,Dyson Vacuum Cleaner,Technical issue,Product recommendation,Low,Phone,0
+42,LG Smart TV,Technical issue,Data loss,Critical,Chat,1
+20,HP Pavilion,Billing inquiry,Account access,Low,Email,0
+60,Autodesk AutoCAD,Product inquiry,Software bug,Medium,Social media,0
+41,Fitbit Versa Smartwatch,Billing inquiry,Product recommendation,Medium,Chat,0
+47,Nikon D,Cancellation request,Display issue,Critical,Phone,1
+18,MacBook Pro,Product inquiry,Installation support,Critical,Email,1
+45,Bose QuietComfort,Technical issue,Refund request,Low,Social media,0
+46,Canon EOS,Billing inquiry,Display issue,Medium,Social media,0
+46,Sony Xperia,Cancellation request,Display issue,Critical,Email,1
+61,Philips Hue Lights,Product inquiry,Network problem,Critical,Chat,0
+57,LG OLED,Technical issue,Product recommendation,High,Chat,0
+48,LG Smart TV,Refund request,Cancellation request,Low,Chat,0
+58,Google Pixel,Cancellation request,Product recommendation,High,Phone,0
+55,Microsoft Office,Billing inquiry,Installation support,High,Chat,0
+31,Nintendo Switch,Cancellation request,Data loss,Medium,Email,1
+68,Adobe Photoshop,Cancellation request,Battery life,Medium,Phone,1
+53,Amazon Echo,Product inquiry,Delivery problem,High,Social media,0
+40,Bose SoundLink Speaker,Billing inquiry,Network problem,Critical,Social media,1
+63,Autodesk AutoCAD,Product inquiry,Delivery problem,Critical,Phone,0
+46,Lenovo ThinkPad,Billing inquiry,Product compatibility,Critical,Chat,1
+24,Sony 4K HDR TV,Billing inquiry,Refund request,Critical,Email,1
+28,Nintendo Switch Pro Controller,Billing inquiry,Product setup,Critical,Email,0
+49,Sony 4K HDR TV,Billing inquiry,Network problem,Critical,Phone,0
+67,Dyson Vacuum Cleaner,Billing inquiry,Refund request,Medium,Email,0
+27,Sony Xperia,Cancellation request,Installation support,Critical,Social media,0
+65,MacBook Pro,Billing inquiry,Delivery problem,Low,Chat,0
+27,LG Washing Machine,Refund request,Product recommendation,Critical,Social media,1
+53,Canon DSLR Camera,Refund request,Account access,Medium,Phone,0
+69,Nintendo Switch,Product inquiry,Product recommendation,High,Chat,0
+19,LG Smart TV,Product inquiry,Software bug,High,Chat,0
+48,Adobe Photoshop,Cancellation request,Peripheral compatibility,Low,Chat,0
+63,GoPro Action Camera,Technical issue,Product setup,High,Email,0
+61,Philips Hue Lights,Refund request,Refund request,Medium,Email,1
+43,Dell XPS,Refund request,Peripheral compatibility,Medium,Phone,0
+56,Sony Xperia,Refund request,Delivery problem,Low,Email,0
+65,Sony Xperia,Technical issue,Software bug,Medium,Chat,1
+31,Microsoft Xbox Controller,Cancellation request,Installation support,Critical,Social media,1
+42,MacBook Pro,Product inquiry,Account access,Medium,Social media,1
+45,HP Pavilion,Billing inquiry,Installation support,Critical,Chat,0
+56,Microsoft Surface,Technical issue,Refund request,Low,Chat,0
+58,Nintendo Switch,Technical issue,Payment issue,Critical,Social media,0
+37,LG Washing Machine,Technical issue,Installation support,High,Chat,1
+19,Samsung Galaxy,Product inquiry,Software bug,Critical,Phone,1
+48,Bose QuietComfort,Product inquiry,Network problem,Critical,Chat,1
+24,Fitbit Charge,Billing inquiry,Product setup,Medium,Email,1
+45,Canon DSLR Camera,Billing inquiry,Battery life,Critical,Phone,1
+48,Dell XPS,Cancellation request,Refund request,High,Email,1
+66,Samsung Soundbar,Product inquiry,Payment issue,Low,Email,0
+56,GoPro Hero,Technical issue,Product compatibility,Medium,Social media,1
+66,LG OLED,Product inquiry,Product compatibility,Low,Email,0
+69,LG Smart TV,Billing inquiry,Hardware issue,Low,Email,0
+21,Google Nest,Technical issue,Hardware issue,High,Email,0
+60,Canon DSLR Camera,Product inquiry,Data loss,High,Social media,1
+21,Adobe Photoshop,Product inquiry,Refund request,Low,Chat,0
+20,Microsoft Surface,Technical issue,Hardware issue,High,Chat,1
+27,Microsoft Office,Refund request,Product compatibility,Critical,Email,1
+18,Autodesk AutoCAD,Technical issue,Cancellation request,High,Social media,1
+32,GoPro Action Camera,Technical issue,Network problem,Critical,Phone,1
+49,Canon EOS,Product inquiry,Data loss,Critical,Phone,0
+26,Nikon D,Refund request,Refund request,Low,Social media,0
+56,Roomba Robot Vacuum,Technical issue,Delivery problem,High,Email,0
+67,Samsung Soundbar,Product inquiry,Software bug,High,Email,0
+61,Microsoft Office,Billing inquiry,Installation support,Low,Email,0
+51,Dell XPS,Billing inquiry,Refund request,Low,Chat,0
+52,Nest Thermostat,Product inquiry,Peripheral compatibility,Low,Phone,0
+58,Nintendo Switch,Refund request,Payment issue,High,Social media,0
+69,Autodesk AutoCAD,Product inquiry,Hardware issue,Critical,Chat,0
+31,Bose QuietComfort,Technical issue,Peripheral compatibility,Low,Phone,0
+51,GoPro Hero,Cancellation request,Refund request,Low,Email,0
+29,Sony PlayStation,Refund request,Software bug,Critical,Phone,1
+43,GoPro Action Camera,Product inquiry,Product recommendation,Critical,Email,1
+67,Philips Hue Lights,Billing inquiry,Account access,Low,Chat,0
+41,Microsoft Surface,Cancellation request,Network problem,High,Social media,0
+63,Adobe Photoshop,Cancellation request,Cancellation request,Medium,Chat,0
+18,HP Pavilion,Refund request,Product compatibility,Critical,Email,1
+63,Fitbit Versa Smartwatch,Billing inquiry,Installation support,Low,Email,0
+26,MacBook Pro,Technical issue,Network problem,Critical,Social media,1
+63,Fitbit Charge,Refund request,Peripheral compatibility,Critical,Email,0
+61,Sony 4K HDR TV,Product inquiry,Network problem,High,Social media,1
+66,Nintendo Switch Pro Controller,Refund request,Battery life,Low,Social media,0
+19,Canon EOS,Technical issue,Delivery problem,Low,Email,0
+48,Canon DSLR Camera,Cancellation request,Installation support,Low,Phone,0
+28,GoPro Action Camera,Billing inquiry,Hardware issue,Low,Chat,0
+47,Garmin Forerunner,Product inquiry,Installation support,High,Social media,1
+57,Google Nest,Refund request,Delivery problem,Low,Email,0
+61,Canon DSLR Camera,Product inquiry,Data loss,Medium,Social media,1
+52,Xbox,Cancellation request,Hardware issue,Low,Email,0
+41,Sony PlayStation,Cancellation request,Peripheral compatibility,Low,Social media,0
+62,Samsung Soundbar,Technical issue,Software bug,High,Phone,0
+51,Fitbit Versa Smartwatch,Billing inquiry,Software bug,Critical,Phone,0
+47,Fitbit Charge,Product inquiry,Product compatibility,Medium,Social media,0
+60,Autodesk AutoCAD,Product inquiry,Product setup,Medium,Phone,1
+29,Amazon Kindle,Billing inquiry,Product compatibility,Medium,Chat,0
+59,Nikon D,Cancellation request,Peripheral compatibility,Low,Email,0
+23,iPhone,Refund request,Software bug,Critical,Phone,1
+62,Microsoft Office,Refund request,Battery life,Critical,Social media,0
+34,Fitbit Charge,Technical issue,Battery life,Low,Phone,0
+49,Fitbit Charge,Cancellation request,Delivery problem,High,Phone,0
+49,Nest Thermostat,Technical issue,Battery life,Low,Social media,0
+56,Samsung Galaxy,Refund request,Network problem,Critical,Email,0
+42,Canon DSLR Camera,Billing inquiry,Hardware issue,High,Email,0
+19,Apple AirPods,Billing inquiry,Peripheral compatibility,Low,Chat,0
+26,Microsoft Xbox Controller,Cancellation request,Delivery problem,Medium,Social media,0
+65,Microsoft Xbox Controller,Refund request,Display issue,High,Chat,1
+51,Garmin Forerunner,Refund request,Software bug,Low,Social media,0
+18,Roomba Robot Vacuum,Product inquiry,Peripheral compatibility,Medium,Social media,0
+39,Apple AirPods,Product inquiry,Product recommendation,Low,Chat,0
+66,Fitbit Charge,Product inquiry,Product setup,Medium,Chat,0
+49,HP Pavilion,Refund request,Account access,Low,Chat,0
+34,Samsung Soundbar,Technical issue,Software bug,High,Phone,1
+29,Samsung Soundbar,Refund request,Software bug,High,Chat,1
+19,Bose SoundLink Speaker,Product inquiry,Product setup,Medium,Social media,0
+40,Fitbit Versa Smartwatch,Product inquiry,Peripheral compatibility,Medium,Phone,0
+68,Dell XPS,Refund request,Cancellation request,Low,Email,0
+24,Philips Hue Lights,Product inquiry,Product recommendation,Low,Chat,0
+22,Fitbit Charge,Cancellation request,Refund request,Low,Social media,0
+57,HP Pavilion,Billing inquiry,Delivery problem,High,Email,0
+48,iPhone,Product inquiry,Product compatibility,Medium,Chat,0
+37,GoPro Action Camera,Billing inquiry,Network problem,Critical,Social media,1
+66,Sony Xperia,Refund request,Data loss,Low,Chat,0
+27,Sony 4K HDR TV,Billing inquiry,Software bug,High,Chat,1
+48,Garmin Forerunner,Billing inquiry,Cancellation request,Critical,Phone,0
+59,Amazon Kindle,Product inquiry,Product recommendation,Medium,Chat,0
+70,PlayStation,Cancellation request,Software bug,Critical,Phone,1
+66,Nintendo Switch,Cancellation request,Installation support,Medium,Email,1
+52,Nest Thermostat,Product inquiry,Refund request,High,Phone,1
+28,Dyson Vacuum Cleaner,Billing inquiry,Network problem,High,Phone,0
+49,Canon EOS,Technical issue,Delivery problem,Critical,Phone,1
+35,GoPro Hero,Cancellation request,Refund request,Critical,Chat,0
+56,Google Pixel,Cancellation request,Product recommendation,Low,Social media,0
+37,Asus ROG,Cancellation request,Peripheral compatibility,Medium,Phone,1
+54,Microsoft Xbox Controller,Billing inquiry,Hardware issue,Critical,Social media,1
+29,GoPro Hero,Cancellation request,Data loss,High,Chat,1
+49,LG OLED,Technical issue,Refund request,High,Chat,0
+54,Xbox,Refund request,Product compatibility,Low,Chat,0
+32,Nikon D,Cancellation request,Installation support,High,Chat,0
+24,Bose QuietComfort,Billing inquiry,Product compatibility,Medium,Chat,1
+18,iPhone,Product inquiry,Installation support,Low,Email,0
+36,Adobe Photoshop,Technical issue,Data loss,Critical,Email,1
+67,Google Pixel,Billing inquiry,Network problem,High,Email,0
+21,HP Pavilion,Refund request,Network problem,Critical,Social media,1
+34,Philips Hue Lights,Technical issue,Network problem,High,Email,1
+26,Garmin Forerunner,Technical issue,Peripheral compatibility,Critical,Email,1
+33,Sony 4K HDR TV,Refund request,Delivery problem,Low,Phone,0
+56,iPhone,Refund request,Product recommendation,High,Email,0
+41,Bose SoundLink Speaker,Technical issue,Peripheral compatibility,Critical,Email,0
+67,Amazon Echo,Billing inquiry,Battery life,Medium,Email,0
+66,Sony 4K HDR TV,Product inquiry,Data loss,High,Phone,0
+30,Sony Xperia,Technical issue,Refund request,Low,Email,0
+37,Fitbit Versa Smartwatch,Refund request,Hardware issue,High,Phone,1
+24,GoPro Action Camera,Product inquiry,Network problem,Critical,Phone,1
+19,LG Smart TV,Product inquiry,Product recommendation,Low,Phone,0
+61,Fitbit Charge,Refund request,Refund request,Medium,Chat,1
+51,Dell XPS,Technical issue,Installation support,Low,Phone,0
+51,Adobe Photoshop,Billing inquiry,Display issue,High,Email,1
+51,Dyson Vacuum Cleaner,Product inquiry,Display issue,Low,Social media,0
+49,Adobe Photoshop,Refund request,Payment issue,High,Phone,1
+49,Adobe Photoshop,Technical issue,Installation support,Critical,Phone,1
+24,Microsoft Office,Cancellation request,Software bug,Medium,Email,1
+61,Nest Thermostat,Technical issue,Installation support,High,Phone,0
+48,HP Pavilion,Technical issue,Product recommendation,Critical,Chat,0
+28,Nest Thermostat,Refund request,Cancellation request,High,Chat,1
+38,MacBook Pro,Refund request,Network problem,Low,Chat,0
+44,HP Pavilion,Cancellation request,Installation support,Medium,Email,0
+24,Adobe Photoshop,Refund request,Account access,High,Phone,0
+24,Fitbit Charge,Cancellation request,Payment issue,High,Email,1
+25,HP Pavilion,Refund request,Hardware issue,High,Social media,0
+70,Microsoft Xbox Controller,Cancellation request,Cancellation request,Low,Social media,0
+52,GoPro Action Camera,Technical issue,Software bug,Medium,Phone,1
+20,Samsung Soundbar,Cancellation request,Battery life,Low,Phone,0
+40,Fitbit Charge,Product inquiry,Payment issue,High,Email,1
+67,Bose QuietComfort,Cancellation request,Payment issue,Low,Email,0
+59,Bose SoundLink Speaker,Cancellation request,Hardware issue,Critical,Phone,1
+61,GoPro Hero,Product inquiry,Product compatibility,Low,Phone,0
+56,LG OLED,Product inquiry,Payment issue,Low,Chat,0
+18,Bose SoundLink Speaker,Cancellation request,Delivery problem,Critical,Chat,1
+20,PlayStation,Technical issue,Payment issue,High,Email,0
+51,Garmin Forerunner,Billing inquiry,Refund request,Medium,Social media,0
+28,Xbox,Product inquiry,Hardware issue,Critical,Phone,1
+35,Fitbit Charge,Billing inquiry,Product recommendation,Medium,Phone,0
+23,Samsung Soundbar,Billing inquiry,Data loss,High,Email,0
+64,Canon EOS,Billing inquiry,Product compatibility,Medium,Email,1
+48,Adobe Photoshop,Refund request,Product setup,High,Chat,1
+27,Samsung Galaxy,Refund request,Software bug,Medium,Email,0
+52,Roomba Robot Vacuum,Technical issue,Product compatibility,High,Social media,0
+30,Sony Xperia,Cancellation request,Product recommendation,Medium,Social media,0
+55,Xbox,Technical issue,Peripheral compatibility,Medium,Email,1
+27,Nikon D,Refund request,Hardware issue,Low,Chat,0
+62,Lenovo ThinkPad,Refund request,Product recommendation,High,Email,1
+66,Microsoft Xbox Controller,Product inquiry,Display issue,Low,Social media,0
+65,Samsung Galaxy,Cancellation request,Hardware issue,Medium,Social media,0
+47,HP Pavilion,Refund request,Data loss,Critical,Email,1
+63,Philips Hue Lights,Refund request,Account access,Medium,Phone,0
+42,Nikon D,Refund request,Account access,High,Phone,1
+26,GoPro Hero,Product inquiry,Display issue,Critical,Email,0
+66,Fitbit Versa Smartwatch,Billing inquiry,Software bug,Critical,Chat,1
+23,Google Pixel,Product inquiry,Network problem,Low,Social media,0
+50,Samsung Galaxy,Billing inquiry,Product setup,Critical,Chat,0
+29,Microsoft Office,Refund request,Product compatibility,Medium,Chat,0
+38,iPhone,Product inquiry,Product recommendation,Low,Social media,0
+41,Canon EOS,Technical issue,Product compatibility,Critical,Chat,0
+53,HP Pavilion,Technical issue,Account access,Critical,Social media,1
+56,PlayStation,Billing inquiry,Hardware issue,Medium,Social media,0
+36,Sony Xperia,Refund request,Hardware issue,Medium,Chat,0
+24,Sony Xperia,Billing inquiry,Network problem,Critical,Email,1
+25,Canon DSLR Camera,Product inquiry,Account access,Low,Social media,0
+53,Bose QuietComfort,Cancellation request,Battery life,Low,Email,0
+67,Nikon D,Billing inquiry,Hardware issue,Medium,Email,1
+59,Samsung Galaxy,Refund request,Product setup,Critical,Email,1
+67,Canon DSLR Camera,Technical issue,Software bug,Medium,Email,0
+57,Autodesk AutoCAD,Technical issue,Installation support,Critical,Chat,0
+44,Microsoft Surface,Product inquiry,Account access,Critical,Phone,1
+47,Fitbit Charge,Product inquiry,Display issue,Critical,Social media,1
+48,Amazon Kindle,Cancellation request,Display issue,Medium,Social media,1
+21,Amazon Kindle,Billing inquiry,Account access,High,Phone,0
+42,Nikon D,Technical issue,Account access,Low,Phone,0
+34,Google Pixel,Product inquiry,Software bug,Critical,Chat,1
+38,HP Pavilion,Technical issue,Delivery problem,High,Social media,0
+42,Amazon Echo,Billing inquiry,Account access,Critical,Email,1
+28,iPhone,Technical issue,Data loss,Critical,Email,0
+31,Google Nest,Cancellation request,Hardware issue,Medium,Chat,0
+43,Bose QuietComfort,Billing inquiry,Refund request,Low,Social media,0
+39,Bose QuietComfort,Billing inquiry,Software bug,Low,Phone,0
+62,Garmin Forerunner,Billing inquiry,Hardware issue,Medium,Chat,0
+41,Sony PlayStation,Product inquiry,Payment issue,Medium,Chat,1
+22,Nikon D,Billing inquiry,Delivery problem,Medium,Email,1
+52,LG Smart TV,Cancellation request,Display issue,Medium,Email,0
+43,Apple AirPods,Cancellation request,Refund request,High,Chat,0
+18,Google Pixel,Product inquiry,Software bug,Critical,Phone,1
+68,Google Nest,Refund request,Account access,High,Email,0
+44,LG Washing Machine,Cancellation request,Product compatibility,Critical,Email,1
+66,LG OLED,Cancellation request,Product compatibility,Medium,Email,0
+50,Fitbit Charge,Billing inquiry,Software bug,Medium,Social media,0
+68,Apple AirPods,Cancellation request,Peripheral compatibility,High,Social media,1
+32,iPhone,Cancellation request,Product recommendation,High,Email,0
+49,Adobe Photoshop,Refund request,Payment issue,Critical,Phone,1
+63,Canon EOS,Billing inquiry,Data loss,Critical,Social media,1
+32,HP Pavilion,Cancellation request,Peripheral compatibility,Medium,Phone,0
+42,Amazon Kindle,Billing inquiry,Delivery problem,Low,Email,0
+20,Google Nest,Refund request,Payment issue,Low,Email,0
+55,Nintendo Switch,Product inquiry,Product setup,Medium,Chat,0
+57,Canon DSLR Camera,Refund request,Product setup,Low,Chat,0
+44,Asus ROG,Billing inquiry,Network problem,Low,Chat,0
+19,Bose QuietComfort,Billing inquiry,Battery life,Medium,Phone,0
+60,Sony 4K HDR TV,Product inquiry,Software bug,Medium,Phone,0
+25,PlayStation,Product inquiry,Peripheral compatibility,Critical,Email,1
+46,Amazon Echo,Refund request,Display issue,High,Chat,0
+25,Apple AirPods,Billing inquiry,Software bug,High,Social media,1
+44,GoPro Action Camera,Technical issue,Product setup,High,Chat,1
+18,Asus ROG,Billing inquiry,Display issue,Critical,Email,1
+55,HP Pavilion,Product inquiry,Payment issue,Medium,Phone,0
+36,Samsung Soundbar,Product inquiry,Product compatibility,Critical,Email,1
+45,GoPro Action Camera,Billing inquiry,Product recommendation,High,Social media,1
+59,Bose SoundLink Speaker,Refund request,Product compatibility,Medium,Social media,0
+53,LG OLED,Technical issue,Product compatibility,Medium,Email,0
+37,Amazon Kindle,Technical issue,Product compatibility,High,Phone,0
+44,Amazon Echo,Cancellation request,Installation support,High,Email,1
+22,Amazon Echo,Product inquiry,Display issue,Medium,Social media,1
+23,iPhone,Cancellation request,Cancellation request,High,Email,0
+28,Samsung Galaxy,Billing inquiry,Product compatibility,Low,Chat,0
+39,LG OLED,Cancellation request,Product recommendation,Critical,Phone,1
+46,Sony PlayStation,Cancellation request,Peripheral compatibility,High,Chat,1
+24,Garmin Forerunner,Billing inquiry,Payment issue,High,Chat,1
+51,LG OLED,Cancellation request,Product compatibility,Low,Phone,0
+38,Nintendo Switch,Billing inquiry,Hardware issue,Medium,Email,1
+53,Sony 4K HDR TV,Cancellation request,Peripheral compatibility,Medium,Email,1
+21,Sony PlayStation,Cancellation request,Account access,Low,Chat,0
+25,Samsung Soundbar,Billing inquiry,Product compatibility,Critical,Email,1
+65,Samsung Soundbar,Product inquiry,Display issue,Critical,Email,1
+36,Amazon Echo,Product inquiry,Software bug,Critical,Email,0
+21,Microsoft Xbox Controller,Technical issue,Network problem,Low,Social media,0
+39,Dell XPS,Billing inquiry,Software bug,Low,Phone,0
+48,Autodesk AutoCAD,Cancellation request,Peripheral compatibility,Low,Phone,0
+19,GoPro Action Camera,Technical issue,Delivery problem,Critical,Email,0
+66,Fitbit Versa Smartwatch,Refund request,Delivery problem,Critical,Phone,0
+58,GoPro Hero,Product inquiry,Product setup,Low,Phone,0
+53,Google Nest,Product inquiry,Peripheral compatibility,Medium,Phone,0
+20,Samsung Galaxy,Cancellation request,Display issue,Critical,Social media,0
+33,Garmin Forerunner,Technical issue,Peripheral compatibility,Critical,Chat,1
+50,Sony PlayStation,Cancellation request,Peripheral compatibility,Medium,Phone,0
+51,Amazon Kindle,Cancellation request,Refund request,Medium,Phone,1
+20,Amazon Echo,Billing inquiry,Installation support,Low,Social media,0
+43,Amazon Kindle,Billing inquiry,Product compatibility,Low,Chat,0
+69,Canon DSLR Camera,Refund request,Display issue,Medium,Chat,0
+41,Roomba Robot Vacuum,Billing inquiry,Hardware issue,High,Social media,0
+37,GoPro Hero,Refund request,Delivery problem,Low,Email,0
+18,Autodesk AutoCAD,Technical issue,Installation support,Critical,Phone,0
+18,Asus ROG,Cancellation request,Product setup,Low,Phone,0
+63,Sony PlayStation,Cancellation request,Data loss,Medium,Phone,0
+68,Google Nest,Refund request,Refund request,High,Email,0
+20,Autodesk AutoCAD,Billing inquiry,Account access,Medium,Chat,1
+63,Samsung Soundbar,Refund request,Cancellation request,Low,Social media,0
+51,Bose SoundLink Speaker,Technical issue,Product recommendation,Medium,Phone,1
+65,Sony Xperia,Refund request,Battery life,Medium,Email,0
+36,Adobe Photoshop,Refund request,Account access,Medium,Social media,0
+41,Philips Hue Lights,Product inquiry,Battery life,Medium,Email,0
+60,Nest Thermostat,Product inquiry,Battery life,Low,Chat,0
+44,Sony 4K HDR TV,Billing inquiry,Battery life,Low,Email,0
+26,Garmin Forerunner,Cancellation request,Peripheral compatibility,Low,Email,0
+44,iPhone,Refund request,Refund request,High,Chat,1
+32,Adobe Photoshop,Product inquiry,Product setup,High,Phone,1
+62,Amazon Echo,Technical issue,Installation support,Low,Social media,0
+65,Bose QuietComfort,Billing inquiry,Hardware issue,Medium,Social media,0
+69,LG OLED,Billing inquiry,Battery life,Medium,Email,0
+45,Sony Xperia,Technical issue,Battery life,Low,Phone,0
+33,LG Washing Machine,Cancellation request,Refund request,Medium,Social media,1
+52,Garmin Forerunner,Refund request,Refund request,Medium,Social media,0
+65,Autodesk AutoCAD,Technical issue,Hardware issue,Critical,Phone,1
+36,Samsung Galaxy,Technical issue,Display issue,Medium,Phone,0
+67,HP Pavilion,Cancellation request,Cancellation request,Low,Chat,0
+45,LG Washing Machine,Technical issue,Account access,High,Email,0
+45,Canon EOS,Cancellation request,Display issue,High,Social media,0
+32,GoPro Hero,Cancellation request,Network problem,High,Chat,1
+62,iPhone,Billing inquiry,Cancellation request,Medium,Phone,1
+53,Samsung Soundbar,Refund request,Display issue,Critical,Email,0
+66,Nintendo Switch Pro Controller,Refund request,Delivery problem,Medium,Social media,0
+63,LG Washing Machine,Billing inquiry,Delivery problem,High,Phone,1
+27,Bose SoundLink Speaker,Technical issue,Product setup,High,Phone,1
+30,Fitbit Versa Smartwatch,Refund request,Account access,Low,Social media,0
+47,Nikon D,Refund request,Battery life,Low,Chat,0
+19,Google Nest,Product inquiry,Account access,High,Email,1
+20,LG Washing Machine,Product inquiry,Product compatibility,Critical,Phone,1
+52,PlayStation,Product inquiry,Product compatibility,High,Social media,1
+31,GoPro Hero,Billing inquiry,Delivery problem,Critical,Chat,1
+66,Microsoft Office,Cancellation request,Network problem,Critical,Phone,1
+37,GoPro Action Camera,Cancellation request,Network problem,High,Chat,1
+55,MacBook Pro,Billing inquiry,Software bug,Critical,Social media,1
+36,LG OLED,Technical issue,Hardware issue,Medium,Chat,0
+33,PlayStation,Product inquiry,Software bug,Critical,Phone,1
+33,Samsung Galaxy,Product inquiry,Battery life,Medium,Email,1
+69,Canon EOS,Technical issue,Refund request,Medium,Email,1
+50,Asus ROG,Product inquiry,Installation support,Critical,Email,1
+18,Sony Xperia,Refund request,Account access,Medium,Phone,1
+51,Google Pixel,Cancellation request,Battery life,Medium,Chat,0
+54,LG OLED,Refund request,Product compatibility,High,Social media,1
+61,Xbox,Billing inquiry,Cancellation request,Medium,Chat,0
+48,Sony 4K HDR TV,Billing inquiry,Peripheral compatibility,Medium,Chat,0
+62,Philips Hue Lights,Product inquiry,Installation support,Medium,Social media,0
+44,Roomba Robot Vacuum,Cancellation request,Product compatibility,Critical,Social media,0
+59,Roomba Robot Vacuum,Billing inquiry,Peripheral compatibility,Low,Social media,0
+33,Philips Hue Lights,Refund request,Delivery problem,High,Chat,0
+48,Dell XPS,Refund request,Refund request,Medium,Phone,0
+34,Sony 4K HDR TV,Technical issue,Software bug,Critical,Social media,1
+69,Asus ROG,Refund request,Refund request,Low,Social media,0
+61,Roomba Robot Vacuum,Cancellation request,Network problem,Critical,Chat,1
+49,Fitbit Versa Smartwatch,Billing inquiry,Network problem,Medium,Social media,1
+48,Bose QuietComfort,Product inquiry,Payment issue,Critical,Social media,1
+50,Sony Xperia,Product inquiry,Data loss,Critical,Chat,1
+53,PlayStation,Cancellation request,Cancellation request,Low,Social media,0
+63,Autodesk AutoCAD,Cancellation request,Delivery problem,Critical,Social media,1
+49,Fitbit Versa Smartwatch,Billing inquiry,Hardware issue,Low,Phone,0
+68,Nintendo Switch,Technical issue,Product setup,Medium,Social media,1
+57,GoPro Hero,Refund request,Product compatibility,High,Email,1
+44,Canon DSLR Camera,Billing inquiry,Refund request,Critical,Social media,1
+36,Apple AirPods,Technical issue,Payment issue,Critical,Chat,1
+52,Fitbit Charge,Billing inquiry,Network problem,Medium,Phone,1
+50,GoPro Hero,Cancellation request,Delivery problem,Critical,Social media,1
+33,Sony Xperia,Technical issue,Battery life,Low,Phone,0
+50,Google Pixel,Cancellation request,Delivery problem,Medium,Phone,0
+50,Microsoft Xbox Controller,Technical issue,Installation support,Low,Phone,0
+31,GoPro Action Camera,Technical issue,Payment issue,Critical,Email,0
+51,GoPro Action Camera,Technical issue,Cancellation request,Low,Chat,0
+58,LG Washing Machine,Technical issue,Product compatibility,Critical,Social media,1
+18,Microsoft Office,Cancellation request,Battery life,High,Chat,1
+35,Bose SoundLink Speaker,Cancellation request,Hardware issue,Critical,Chat,1
+21,Bose SoundLink Speaker,Refund request,Battery life,Low,Phone,0
+36,Sony PlayStation,Technical issue,Account access,Medium,Social media,0
+44,GoPro Hero,Billing inquiry,Account access,Medium,Phone,0
+21,PlayStation,Product inquiry,Hardware issue,High,Phone,1
+52,LG OLED,Refund request,Installation support,High,Phone,1
+42,Fitbit Versa Smartwatch,Refund request,Delivery problem,Critical,Social media,0
+70,Apple AirPods,Product inquiry,Network problem,High,Phone,1
+39,Sony 4K HDR TV,Billing inquiry,Network problem,Low,Social media,0
+23,Philips Hue Lights,Product inquiry,Product setup,Medium,Phone,1
+53,Apple AirPods,Cancellation request,Account access,Medium,Social media,0
+64,Lenovo ThinkPad,Product inquiry,Refund request,Medium,Email,0
+28,Samsung Soundbar,Product inquiry,Installation support,Medium,Social media,1
+53,Asus ROG,Refund request,Peripheral compatibility,High,Email,0
+32,Sony Xperia,Refund request,Peripheral compatibility,Medium,Social media,0
+60,PlayStation,Technical issue,Cancellation request,High,Social media,0
+38,Dyson Vacuum Cleaner,Technical issue,Battery life,Medium,Social media,1
+36,Autodesk AutoCAD,Technical issue,Peripheral compatibility,Low,Email,0
+42,Apple AirPods,Product inquiry,Software bug,Medium,Social media,0
+35,Apple AirPods,Billing inquiry,Hardware issue,High,Social media,1
+40,Google Nest,Product inquiry,Software bug,Medium,Phone,1
+52,Nest Thermostat,Billing inquiry,Account access,Medium,Phone,1
+59,Canon EOS,Cancellation request,Product compatibility,Critical,Phone,0
+20,LG Washing Machine,Technical issue,Software bug,Low,Chat,0
+34,Bose QuietComfort,Refund request,Installation support,Critical,Phone,1
+52,GoPro Hero,Technical issue,Network problem,Medium,Email,0
+38,Canon DSLR Camera,Cancellation request,Hardware issue,Low,Email,0
+47,Canon EOS,Billing inquiry,Payment issue,Critical,Phone,1
+45,Microsoft Xbox Controller,Product inquiry,Payment issue,Critical,Email,1
+31,Bose QuietComfort,Refund request,Display issue,Medium,Email,0
+64,Microsoft Surface,Cancellation request,Hardware issue,Medium,Chat,0
+31,Microsoft Surface,Refund request,Installation support,High,Social media,0
+48,Canon EOS,Cancellation request,Product recommendation,Critical,Social media,0
+45,Samsung Galaxy,Technical issue,Software bug,Low,Phone,0
+27,Nest Thermostat,Technical issue,Product setup,High,Phone,0
+45,Sony 4K HDR TV,Refund request,Network problem,Low,Phone,0
+43,Dyson Vacuum Cleaner,Product inquiry,Payment issue,Medium,Phone,0
+53,Canon DSLR Camera,Refund request,Software bug,High,Email,0
+55,Google Pixel,Billing inquiry,Product setup,High,Social media,0
+20,Sony 4K HDR TV,Refund request,Display issue,High,Phone,0
+42,LG OLED,Cancellation request,Product recommendation,Low,Email,0
+39,GoPro Action Camera,Technical issue,Battery life,Low,Phone,0
+19,Samsung Galaxy,Refund request,Data loss,Low,Social media,0
+64,Lenovo ThinkPad,Product inquiry,Refund request,High,Phone,0
+67,HP Pavilion,Refund request,Software bug,Medium,Email,0
+30,GoPro Action Camera,Product inquiry,Network problem,Critical,Email,1
+70,Adobe Photoshop,Cancellation request,Data loss,Medium,Chat,0
+49,Apple AirPods,Product inquiry,Software bug,Low,Chat,0
+32,Autodesk AutoCAD,Refund request,Delivery problem,Low,Chat,0
+64,Amazon Kindle,Technical issue,Product setup,High,Social media,1
+44,Fitbit Charge,Product inquiry,Cancellation request,High,Chat,0
+67,Microsoft Office,Technical issue,Installation support,Low,Phone,0
+26,Xbox,Technical issue,Data loss,High,Phone,0
+58,Asus ROG,Billing inquiry,Software bug,Critical,Phone,0
+32,HP Pavilion,Cancellation request,Product setup,Critical,Chat,1
+21,Microsoft Xbox Controller,Product inquiry,Peripheral compatibility,High,Social media,1
+63,Autodesk AutoCAD,Refund request,Product recommendation,Medium,Phone,1
+44,Microsoft Office,Refund request,Software bug,Low,Email,0
+24,Bose SoundLink Speaker,Billing inquiry,Delivery problem,High,Social media,0
+63,Canon DSLR Camera,Cancellation request,Product setup,Critical,Chat,1
+25,Bose QuietComfort,Refund request,Payment issue,High,Phone,0
+24,Google Pixel,Product inquiry,Network problem,Medium,Social media,0
+70,Canon DSLR Camera,Product inquiry,Software bug,Low,Email,0
+28,LG Washing Machine,Product inquiry,Network problem,Low,Phone,0
+40,Microsoft Surface,Refund request,Account access,Medium,Email,0
+58,LG Washing Machine,Refund request,Battery life,Low,Email,0
+39,GoPro Hero,Product inquiry,Account access,High,Chat,0
+37,Canon EOS,Product inquiry,Account access,Medium,Chat,0
+69,Nintendo Switch,Refund request,Refund request,Critical,Social media,1
+49,Canon EOS,Refund request,Delivery problem,Medium,Email,0
+52,Nikon D,Cancellation request,Payment issue,Critical,Phone,1
+57,Samsung Galaxy,Refund request,Payment issue,Medium,Email,0
+46,Roomba Robot Vacuum,Technical issue,Product compatibility,High,Chat,1
+25,Canon EOS,Product inquiry,Network problem,Critical,Phone,0
+19,Philips Hue Lights,Billing inquiry,Product compatibility,High,Social media,1
+50,GoPro Hero,Technical issue,Battery life,Low,Phone,0
+42,Dyson Vacuum Cleaner,Product inquiry,Delivery problem,High,Email,1
+55,Nintendo Switch,Billing inquiry,Product compatibility,Low,Chat,0
+45,Nest Thermostat,Billing inquiry,Account access,Critical,Phone,1
+21,Microsoft Xbox Controller,Billing inquiry,Network problem,Low,Email,0
+51,Nikon D,Technical issue,Product recommendation,Low,Social media,0
+44,Xbox,Product inquiry,Product setup,Critical,Email,1
+64,Fitbit Charge,Product inquiry,Product recommendation,Medium,Chat,0
+22,Google Pixel,Refund request,Software bug,High,Chat,1
+54,Fitbit Charge,Technical issue,Product recommendation,High,Chat,0
+43,Lenovo ThinkPad,Technical issue,Data loss,Critical,Chat,0
+24,PlayStation,Billing inquiry,Hardware issue,High,Chat,1
+34,iPhone,Billing inquiry,Software bug,Low,Phone,0
+36,HP Pavilion,Refund request,Network problem,Low,Email,0
+67,Microsoft Office,Cancellation request,Software bug,Low,Social media,0
+29,Fitbit Versa Smartwatch,Billing inquiry,Product setup,Critical,Chat,0
+35,Amazon Echo,Refund request,Refund request,Medium,Phone,0
+57,Microsoft Xbox Controller,Refund request,Display issue,Critical,Chat,1
+58,LG Smart TV,Technical issue,Data loss,High,Phone,1
+21,Autodesk AutoCAD,Refund request,Payment issue,Medium,Social media,0
+60,iPhone,Cancellation request,Hardware issue,Low,Social media,0
+58,PlayStation,Product inquiry,Delivery problem,Low,Chat,0
+59,Google Nest,Billing inquiry,Network problem,Low,Phone,0
+31,Amazon Kindle,Billing inquiry,Hardware issue,Low,Email,0
+61,Nikon D,Billing inquiry,Network problem,Critical,Chat,0
+19,Apple AirPods,Technical issue,Display issue,High,Chat,0
+70,GoPro Hero,Cancellation request,Peripheral compatibility,Low,Email,0
+20,Nikon D,Billing inquiry,Refund request,High,Email,1
+69,Fitbit Versa Smartwatch,Product inquiry,Product recommendation,Medium,Social media,0
+51,Asus ROG,Cancellation request,Product recommendation,Low,Email,0
+32,PlayStation,Technical issue,Software bug,Critical,Chat,0
+42,LG Washing Machine,Technical issue,Cancellation request,Critical,Email,0
+52,GoPro Hero,Product inquiry,Product recommendation,High,Social media,1
+38,Nintendo Switch,Technical issue,Network problem,Medium,Social media,1
+47,HP Pavilion,Cancellation request,Data loss,Low,Phone,0
+28,Samsung Galaxy,Billing inquiry,Payment issue,Critical,Phone,1
+69,Sony Xperia,Product inquiry,Hardware issue,High,Phone,1
+53,Microsoft Xbox Controller,Cancellation request,Cancellation request,Critical,Social media,1
+26,Nikon D,Product inquiry,Peripheral compatibility,Medium,Chat,0
+51,Asus ROG,Technical issue,Product setup,Medium,Chat,0
+32,LG Washing Machine,Billing inquiry,Product recommendation,High,Social media,0
+39,iPhone,Cancellation request,Hardware issue,Low,Social media,0
+61,Apple AirPods,Billing inquiry,Hardware issue,High,Social media,0
+61,LG Smart TV,Billing inquiry,Installation support,Critical,Phone,0
+19,Samsung Galaxy,Refund request,Peripheral compatibility,Critical,Phone,1
+56,Sony PlayStation,Refund request,Account access,Low,Email,0
+27,Garmin Forerunner,Product inquiry,Software bug,Critical,Social media,0
+26,Nikon D,Technical issue,Product recommendation,Critical,Chat,1
+21,Samsung Soundbar,Product inquiry,Installation support,High,Email,0
+23,Fitbit Versa Smartwatch,Cancellation request,Account access,Low,Phone,0
+27,Nikon D,Billing inquiry,Account access,Low,Email,0
+33,Bose SoundLink Speaker,Cancellation request,Product setup,Critical,Email,0
+32,Roomba Robot Vacuum,Cancellation request,Account access,Medium,Social media,0
+26,Dyson Vacuum Cleaner,Billing inquiry,Account access,Low,Social media,0
+54,Amazon Echo,Billing inquiry,Software bug,Medium,Phone,0
+20,Bose QuietComfort,Product inquiry,Hardware issue,Medium,Phone,0
+63,Nintendo Switch Pro Controller,Billing inquiry,Cancellation request,Medium,Phone,0
+68,Dyson Vacuum Cleaner,Refund request,Peripheral compatibility,Critical,Email,1
+23,Canon DSLR Camera,Technical issue,Delivery problem,Low,Email,0
+20,Sony Xperia,Billing inquiry,Data loss,Medium,Social media,1
+33,Xbox,Billing inquiry,Installation support,Low,Phone,0
+45,Google Pixel,Product inquiry,Cancellation request,Low,Phone,0
+20,Google Nest,Billing inquiry,Display issue,Low,Chat,0
+66,LG Washing Machine,Product inquiry,Delivery problem,Medium,Chat,0
+46,Fitbit Charge,Technical issue,Delivery problem,Low,Social media,0
+21,GoPro Action Camera,Cancellation request,Hardware issue,Medium,Email,0
+28,Microsoft Office,Refund request,Network problem,Medium,Chat,1
+26,Canon DSLR Camera,Refund request,Product recommendation,Medium,Chat,0
+37,Dell XPS,Product inquiry,Peripheral compatibility,Medium,Phone,0
+56,Bose SoundLink Speaker,Refund request,Data loss,Critical,Social media,1
+21,Microsoft Office,Technical issue,Data loss,High,Chat,0
+70,Nintendo Switch Pro Controller,Technical issue,Installation support,High,Phone,0
+34,Philips Hue Lights,Cancellation request,Payment issue,High,Phone,1
+37,Sony Xperia,Refund request,Software bug,High,Social media,1
+19,Garmin Forerunner,Refund request,Software bug,Critical,Phone,0
+57,Canon EOS,Refund request,Installation support,Critical,Email,0
+41,LG Smart TV,Billing inquiry,Installation support,Low,Chat,0
+56,Canon EOS,Product inquiry,Delivery problem,High,Social media,0
+48,Lenovo ThinkPad,Technical issue,Network problem,Medium,Social media,1
+19,Autodesk AutoCAD,Product inquiry,Cancellation request,Medium,Phone,0
+49,Amazon Kindle,Refund request,Delivery problem,Low,Chat,0
+48,Fitbit Charge,Refund request,Data loss,High,Email,0
+32,PlayStation,Product inquiry,Network problem,Low,Social media,0
+65,Dell XPS,Product inquiry,Payment issue,High,Chat,1
+62,Garmin Forerunner,Cancellation request,Cancellation request,Critical,Email,1
+51,Microsoft Surface,Billing inquiry,Product setup,Medium,Social media,0
+56,Lenovo ThinkPad,Product inquiry,Product recommendation,Critical,Chat,0
+63,LG OLED,Billing inquiry,Product setup,Low,Email,0
+21,Samsung Soundbar,Technical issue,Installation support,High,Email,0
+18,GoPro Hero,Billing inquiry,Payment issue,Critical,Email,1
+41,Nintendo Switch,Technical issue,Peripheral compatibility,Critical,Social media,1
+27,Samsung Galaxy,Refund request,Display issue,Low,Phone,0
+47,Garmin Forerunner,Billing inquiry,Product compatibility,Low,Chat,0
+56,Garmin Forerunner,Product inquiry,Installation support,Medium,Social media,1
+57,Microsoft Office,Cancellation request,Display issue,Medium,Phone,1
+44,MacBook Pro,Refund request,Cancellation request,Critical,Social media,1
+43,Microsoft Xbox Controller,Billing inquiry,Delivery problem,Critical,Chat,0
+56,Amazon Echo,Cancellation request,Product recommendation,Medium,Email,0
+62,Garmin Forerunner,Billing inquiry,Battery life,Critical,Phone,1
+46,Garmin Forerunner,Refund request,Network problem,High,Chat,0
+34,Lenovo ThinkPad,Technical issue,Network problem,High,Social media,0
+69,Asus ROG,Cancellation request,Hardware issue,Low,Phone,0
+65,HP Pavilion,Cancellation request,Battery life,Critical,Phone,1
+30,LG Smart TV,Billing inquiry,Installation support,Medium,Email,1
+61,Sony 4K HDR TV,Cancellation request,Hardware issue,High,Chat,0
+59,Dyson Vacuum Cleaner,Technical issue,Refund request,Medium,Social media,0
+47,Asus ROG,Cancellation request,Account access,Low,Email,0
+37,LG Washing Machine,Technical issue,Delivery problem,High,Social media,0
+57,Roomba Robot Vacuum,Billing inquiry,Installation support,Critical,Phone,1
+30,Amazon Echo,Product inquiry,Account access,Low,Social media,0
+65,Lenovo ThinkPad,Billing inquiry,Hardware issue,Low,Chat,0
+28,Asus ROG,Technical issue,Peripheral compatibility,Low,Email,0
+25,Nintendo Switch Pro Controller,Refund request,Peripheral compatibility,Low,Phone,0
+47,Adobe Photoshop,Technical issue,Payment issue,Medium,Phone,1
+31,Philips Hue Lights,Billing inquiry,Network problem,High,Phone,1
+70,Nikon D,Product inquiry,Battery life,High,Phone,0
+45,Nest Thermostat,Refund request,Product recommendation,Medium,Phone,0
+49,PlayStation,Refund request,Battery life,Medium,Phone,0
+37,Fitbit Charge,Billing inquiry,Battery life,Critical,Phone,1
+54,Microsoft Office,Cancellation request,Display issue,Critical,Chat,1
+52,Fitbit Versa Smartwatch,Billing inquiry,Refund request,Medium,Email,1
+57,Microsoft Office,Billing inquiry,Product setup,Medium,Phone,0
+18,Roomba Robot Vacuum,Billing inquiry,Product recommendation,Low,Phone,0
+27,Lenovo ThinkPad,Cancellation request,Network problem,Medium,Email,0
+34,Amazon Kindle,Product inquiry,Cancellation request,Medium,Phone,1
+68,GoPro Hero,Cancellation request,Network problem,Medium,Phone,0
+59,Amazon Kindle,Billing inquiry,Refund request,Medium,Phone,1
+32,Bose QuietComfort,Product inquiry,Product setup,Critical,Email,1
+55,Samsung Galaxy,Technical issue,Peripheral compatibility,Critical,Chat,1
+53,Canon EOS,Refund request,Account access,High,Social media,0
+63,Sony 4K HDR TV,Billing inquiry,Data loss,Low,Phone,0
+50,Adobe Photoshop,Technical issue,Refund request,Critical,Chat,1
+46,LG OLED,Cancellation request,Hardware issue,Medium,Email,0
+49,LG OLED,Product inquiry,Payment issue,Critical,Social media,0
+63,Samsung Soundbar,Product inquiry,Payment issue,Low,Email,0
+26,Bose SoundLink Speaker,Billing inquiry,Display issue,Critical,Social media,1
+51,Amazon Echo,Billing inquiry,Hardware issue,Medium,Chat,0
+23,GoPro Hero,Refund request,Refund request,Low,Social media,0
+47,Amazon Echo,Technical issue,Product recommendation,Low,Email,0
+65,HP Pavilion,Product inquiry,Network problem,Low,Social media,0
+43,Sony Xperia,Cancellation request,Peripheral compatibility,Critical,Email,1
+65,Philips Hue Lights,Billing inquiry,Data loss,Critical,Email,0
+41,Xbox,Product inquiry,Cancellation request,High,Email,0
+26,Xbox,Technical issue,Account access,High,Social media,0
+44,Garmin Forerunner,Technical issue,Cancellation request,Low,Social media,0
+70,Sony PlayStation,Cancellation request,Delivery problem,Medium,Social media,1
+27,Bose QuietComfort,Cancellation request,Account access,Medium,Social media,0
+34,Nikon D,Product inquiry,Account access,Medium,Social media,1
+25,Bose SoundLink Speaker,Refund request,Software bug,Medium,Social media,1
+62,GoPro Action Camera,Refund request,Product setup,Medium,Social media,0
+42,GoPro Action Camera,Technical issue,Delivery problem,Critical,Chat,1
+47,Sony Xperia,Billing inquiry,Display issue,High,Social media,0
+63,Amazon Kindle,Product inquiry,Payment issue,Critical,Social media,0
+64,Google Nest,Refund request,Data loss,Critical,Phone,1
+23,Nikon D,Billing inquiry,Cancellation request,High,Social media,0
+64,Adobe Photoshop,Product inquiry,Refund request,Critical,Social media,1
+44,Nest Thermostat,Technical issue,Installation support,Medium,Social media,0
+41,Xbox,Refund request,Software bug,High,Phone,1
+55,Canon EOS,Billing inquiry,Payment issue,Medium,Social media,0
+60,Samsung Galaxy,Technical issue,Data loss,High,Chat,0
+23,Bose SoundLink Speaker,Product inquiry,Payment issue,Critical,Email,1
+36,LG OLED,Refund request,Display issue,Low,Social media,0
+51,Adobe Photoshop,Technical issue,Installation support,High,Social media,1
+45,Roomba Robot Vacuum,Cancellation request,Account access,Critical,Email,0
+62,Bose QuietComfort,Billing inquiry,Product setup,Low,Social media,0
+49,Fitbit Charge,Product inquiry,Product recommendation,High,Social media,1
+30,Fitbit Versa Smartwatch,Technical issue,Network problem,High,Email,0
+35,GoPro Hero,Cancellation request,Hardware issue,Low,Phone,0
+66,Sony PlayStation,Technical issue,Display issue,Low,Social media,0
+18,LG Washing Machine,Technical issue,Product setup,Low,Social media,0
+18,Samsung Galaxy,Refund request,Data loss,Medium,Email,1
+65,Sony 4K HDR TV,Cancellation request,Hardware issue,Critical,Email,1
+57,Philips Hue Lights,Technical issue,Network problem,High,Phone,1
+44,Microsoft Office,Billing inquiry,Product compatibility,Low,Chat,0
+20,Adobe Photoshop,Refund request,Cancellation request,Medium,Chat,0
+59,Nest Thermostat,Product inquiry,Product recommendation,High,Email,0
+34,Amazon Kindle,Technical issue,Refund request,Critical,Chat,1
+62,Samsung Galaxy,Technical issue,Cancellation request,High,Chat,1
+42,Roomba Robot Vacuum,Refund request,Installation support,High,Email,1
+33,Adobe Photoshop,Product inquiry,Product compatibility,High,Phone,1
+25,Sony PlayStation,Refund request,Product compatibility,Medium,Email,0
+53,Xbox,Technical issue,Product recommendation,Critical,Social media,0
+26,Amazon Kindle,Billing inquiry,Peripheral compatibility,Medium,Chat,0
+55,Samsung Soundbar,Cancellation request,Software bug,Low,Chat,0
+21,Sony 4K HDR TV,Cancellation request,Display issue,High,Phone,0
+22,Samsung Galaxy,Cancellation request,Data loss,High,Email,0
+26,Microsoft Surface,Technical issue,Refund request,High,Email,1
+56,LG Washing Machine,Billing inquiry,Product setup,Medium,Email,1
+69,Sony Xperia,Technical issue,Network problem,Low,Social media,0
+28,iPhone,Refund request,Product recommendation,High,Social media,1
+47,Dell XPS,Cancellation request,Account access,Critical,Phone,1
+22,Nikon D,Refund request,Product setup,High,Phone,1
+39,Dyson Vacuum Cleaner,Refund request,Peripheral compatibility,High,Email,0
+23,Dell XPS,Technical issue,Network problem,High,Phone,0
+43,Roomba Robot Vacuum,Refund request,Payment issue,Critical,Social media,1
+51,Fitbit Versa Smartwatch,Billing inquiry,Cancellation request,Critical,Email,1
+67,Microsoft Xbox Controller,Technical issue,Product setup,High,Email,0
+36,Sony Xperia,Technical issue,Refund request,Low,Email,0
+31,iPhone,Cancellation request,Refund request,Critical,Email,1
+60,Canon EOS,Cancellation request,Account access,Medium,Phone,1
+56,Dyson Vacuum Cleaner,Product inquiry,Hardware issue,Critical,Social media,0
+52,PlayStation,Refund request,Battery life,High,Social media,0
+31,Canon DSLR Camera,Cancellation request,Refund request,Critical,Chat,1
+34,Google Nest,Technical issue,Software bug,Critical,Social media,1
+53,LG Smart TV,Refund request,Network problem,Medium,Social media,0
+69,Asus ROG,Technical issue,Cancellation request,High,Social media,1
+68,iPhone,Cancellation request,Display issue,Low,Chat,0
+64,Fitbit Charge,Refund request,Installation support,Critical,Email,1
+57,MacBook Pro,Billing inquiry,Product recommendation,Critical,Social media,0
+28,Canon EOS,Cancellation request,Software bug,Low,Email,0
+44,Google Pixel,Technical issue,Software bug,High,Phone,0
+61,LG OLED,Cancellation request,Network problem,Low,Email,0
+19,HP Pavilion,Product inquiry,Network problem,Medium,Phone,0
+70,Canon EOS,Technical issue,Battery life,High,Social media,0
+19,LG Smart TV,Billing inquiry,Delivery problem,Critical,Phone,0
+35,Adobe Photoshop,Refund request,Product compatibility,High,Email,0
+70,Microsoft Xbox Controller,Refund request,Product recommendation,High,Social media,1
+48,GoPro Hero,Refund request,Payment issue,Low,Social media,0
+62,LG OLED,Billing inquiry,Software bug,High,Social media,1
+63,PlayStation,Product inquiry,Refund request,Critical,Social media,1
+22,Canon DSLR Camera,Billing inquiry,Delivery problem,Critical,Social media,1
+21,LG Smart TV,Refund request,Peripheral compatibility,Critical,Social media,1
+29,Autodesk AutoCAD,Product inquiry,Data loss,High,Email,1
+40,MacBook Pro,Billing inquiry,Refund request,Critical,Chat,1
+23,Nest Thermostat,Product inquiry,Peripheral compatibility,Low,Social media,0
+53,Lenovo ThinkPad,Product inquiry,Software bug,Low,Chat,0
+48,Garmin Forerunner,Refund request,Installation support,High,Chat,1
+66,Xbox,Product inquiry,Peripheral compatibility,Medium,Social media,0
+61,LG OLED,Product inquiry,Installation support,Critical,Email,1
+34,Dyson Vacuum Cleaner,Cancellation request,Payment issue,High,Chat,1
+47,Microsoft Office,Product inquiry,Delivery problem,Critical,Chat,1
+57,Microsoft Office,Billing inquiry,Network problem,Medium,Social media,0
+35,Bose SoundLink Speaker,Cancellation request,Data loss,Medium,Email,0
+28,LG Smart TV,Refund request,Product recommendation,Critical,Chat,1
+32,Canon EOS,Billing inquiry,Display issue,Low,Social media,0
+59,Philips Hue Lights,Billing inquiry,Product recommendation,Critical,Chat,1
+31,Nest Thermostat,Cancellation request,Peripheral compatibility,Critical,Social media,1
+32,Sony 4K HDR TV,Billing inquiry,Battery life,Low,Social media,0
+19,Bose QuietComfort,Refund request,Product compatibility,Low,Chat,0
+34,LG Smart TV,Refund request,Hardware issue,Critical,Email,1
+41,GoPro Action Camera,Technical issue,Cancellation request,Low,Email,0
+50,LG Smart TV,Product inquiry,Data loss,Medium,Social media,0
+52,Dell XPS,Billing inquiry,Product setup,High,Chat,1
+38,Microsoft Surface,Cancellation request,Product setup,Critical,Social media,1
+38,Microsoft Surface,Refund request,Installation support,Critical,Email,0
+30,Google Nest,Refund request,Peripheral compatibility,Medium,Email,0
+53,Lenovo ThinkPad,Refund request,Software bug,Medium,Email,0
+27,Philips Hue Lights,Technical issue,Delivery problem,Medium,Phone,0
+62,Sony 4K HDR TV,Billing inquiry,Network problem,Low,Email,0
+29,Microsoft Office,Technical issue,Peripheral compatibility,High,Chat,0
+53,LG Washing Machine,Refund request,Battery life,Critical,Chat,1
+28,Nest Thermostat,Billing inquiry,Account access,Medium,Phone,1
+22,PlayStation,Technical issue,Payment issue,Medium,Chat,0
+18,HP Pavilion,Billing inquiry,Product setup,Medium,Email,0
+22,Apple AirPods,Billing inquiry,Payment issue,Critical,Chat,0
+55,Bose QuietComfort,Product inquiry,Product recommendation,High,Chat,1
+64,Apple AirPods,Product inquiry,Data loss,Medium,Email,0
+21,Philips Hue Lights,Billing inquiry,Battery life,High,Chat,0
+58,Sony 4K HDR TV,Product inquiry,Product compatibility,Critical,Email,0
+21,LG Washing Machine,Refund request,Refund request,Critical,Social media,0
+52,GoPro Hero,Product inquiry,Software bug,Low,Social media,0
+19,Nikon D,Product inquiry,Product setup,Critical,Phone,1
+63,Canon DSLR Camera,Refund request,Hardware issue,High,Social media,0
+65,Adobe Photoshop,Billing inquiry,Account access,High,Chat,1
+65,Nest Thermostat,Product inquiry,Account access,High,Chat,1
+42,Nikon D,Product inquiry,Data loss,Medium,Chat,0
+59,iPhone,Product inquiry,Account access,Medium,Social media,0
+44,Garmin Forerunner,Billing inquiry,Peripheral compatibility,Low,Phone,0
+52,Garmin Forerunner,Product inquiry,Delivery problem,High,Social media,0
+67,Garmin Forerunner,Technical issue,Cancellation request,Low,Chat,0
+45,HP Pavilion,Product inquiry,Product compatibility,High,Email,0
+66,Google Pixel,Product inquiry,Display issue,Critical,Phone,1
+30,iPhone,Cancellation request,Hardware issue,Critical,Email,1
+37,Dyson Vacuum Cleaner,Technical issue,Data loss,Medium,Phone,0
+45,Canon EOS,Refund request,Network problem,High,Email,0
+69,Fitbit Versa Smartwatch,Product inquiry,Battery life,High,Email,0
+42,MacBook Pro,Technical issue,Product recommendation,Low,Chat,0
+37,MacBook Pro,Technical issue,Peripheral compatibility,Medium,Email,0
+37,Microsoft Surface,Technical issue,Product setup,High,Phone,0
+21,Canon EOS,Refund request,Software bug,Medium,Phone,0
+41,Roomba Robot Vacuum,Product inquiry,Cancellation request,Medium,Social media,0
+42,Asus ROG,Refund request,Delivery problem,High,Email,1
+36,Xbox,Billing inquiry,Refund request,High,Phone,1
+70,Canon EOS,Cancellation request,Refund request,High,Phone,1
+34,Canon DSLR Camera,Product inquiry,Delivery problem,Critical,Phone,0
+18,Samsung Soundbar,Cancellation request,Cancellation request,Low,Chat,0
+21,Fitbit Versa Smartwatch,Cancellation request,Network problem,Critical,Social media,1
+62,GoPro Hero,Technical issue,Delivery problem,Critical,Email,0
+52,Google Pixel,Technical issue,Refund request,Critical,Email,1
+50,Microsoft Office,Technical issue,Refund request,High,Email,1
+25,Sony Xperia,Cancellation request,Product setup,Critical,Social media,1
+45,Roomba Robot Vacuum,Billing inquiry,Data loss,High,Email,1
+32,iPhone,Billing inquiry,Display issue,High,Email,1
+31,Sony PlayStation,Technical issue,Software bug,High,Social media,1
+43,Bose QuietComfort,Billing inquiry,Product compatibility,Low,Email,0
+70,Nikon D,Billing inquiry,Battery life,High,Social media,1
+50,Fitbit Versa Smartwatch,Cancellation request,Battery life,Medium,Phone,0
+47,Fitbit Versa Smartwatch,Refund request,Hardware issue,Medium,Email,0
+37,Roomba Robot Vacuum,Refund request,Cancellation request,Low,Phone,0
+20,Amazon Echo,Technical issue,Software bug,Medium,Social media,1
+35,LG Smart TV,Billing inquiry,Battery life,High,Email,1
+27,Garmin Forerunner,Technical issue,Installation support,Medium,Phone,0
+23,Microsoft Surface,Refund request,Display issue,High,Email,0
+66,GoPro Hero,Cancellation request,Product setup,High,Phone,1
+25,Microsoft Xbox Controller,Product inquiry,Installation support,Medium,Phone,0
+41,Fitbit Charge,Product inquiry,Battery life,Low,Social media,0
+59,Microsoft Office,Technical issue,Product recommendation,Low,Social media,0
+20,MacBook Pro,Billing inquiry,Delivery problem,High,Phone,0
+27,LG OLED,Technical issue,Display issue,Medium,Phone,1
+43,Canon EOS,Billing inquiry,Refund request,Critical,Social media,0
+36,iPhone,Cancellation request,Delivery problem,High,Email,0
+69,Bose QuietComfort,Technical issue,Product recommendation,Low,Phone,0
+45,Xbox,Technical issue,Product compatibility,High,Chat,1
+30,Nest Thermostat,Technical issue,Hardware issue,Low,Chat,0
+43,LG OLED,Cancellation request,Software bug,Critical,Phone,1
+37,Apple AirPods,Cancellation request,Product compatibility,High,Email,1
+32,LG OLED,Technical issue,Refund request,Critical,Email,1
+51,Philips Hue Lights,Technical issue,Product setup,Critical,Social media,0
+37,iPhone,Refund request,Product compatibility,High,Email,0
+59,Apple AirPods,Cancellation request,Data loss,Critical,Chat,1
+27,Nest Thermostat,Billing inquiry,Product compatibility,Low,Chat,0
+33,Fitbit Charge,Product inquiry,Product recommendation,High,Social media,0
+57,Nest Thermostat,Product inquiry,Software bug,Critical,Email,1
+68,Autodesk AutoCAD,Refund request,Product compatibility,Critical,Email,1
+41,Amazon Echo,Technical issue,Network problem,Medium,Phone,1
+31,HP Pavilion,Technical issue,Refund request,Critical,Social media,1
+57,Bose QuietComfort,Refund request,Refund request,Medium,Email,1
+39,Canon DSLR Camera,Cancellation request,Hardware issue,Medium,Email,0
+39,Sony Xperia,Product inquiry,Display issue,High,Email,0
+67,Canon DSLR Camera,Cancellation request,Account access,High,Social media,1
+55,Apple AirPods,Refund request,Battery life,Critical,Phone,1
+66,Google Pixel,Cancellation request,Product recommendation,Low,Chat,0
+59,Google Nest,Billing inquiry,Software bug,Medium,Email,1
+53,Microsoft Office,Product inquiry,Product recommendation,Low,Chat,0
+38,Samsung Soundbar,Technical issue,Network problem,Medium,Phone,0
+37,Asus ROG,Refund request,Product recommendation,High,Social media,0
+65,Fitbit Charge,Refund request,Network problem,Medium,Phone,0
+33,Samsung Soundbar,Refund request,Refund request,High,Email,0
+27,Bose SoundLink Speaker,Technical issue,Software bug,Low,Social media,0
+48,GoPro Action Camera,Refund request,Battery life,Critical,Social media,1
+54,Xbox,Technical issue,Cancellation request,High,Chat,0
+19,PlayStation,Cancellation request,Account access,High,Email,0
+31,Roomba Robot Vacuum,Billing inquiry,Account access,Low,Phone,0
+46,Nest Thermostat,Cancellation request,Network problem,Low,Social media,0
+38,Nest Thermostat,Product inquiry,Battery life,Critical,Social media,1
+24,Roomba Robot Vacuum,Technical issue,Software bug,High,Phone,1
+46,Samsung Soundbar,Cancellation request,Product recommendation,Critical,Phone,0
+24,Bose QuietComfort,Billing inquiry,Network problem,Critical,Phone,1
+60,GoPro Hero,Refund request,Peripheral compatibility,Low,Chat,0
+28,Nest Thermostat,Billing inquiry,Product recommendation,Low,Phone,0
+26,LG OLED,Refund request,Display issue,Low,Email,0
+65,Google Pixel,Cancellation request,Software bug,Medium,Chat,1
+61,Microsoft Office,Billing inquiry,Product compatibility,High,Email,1
+48,Microsoft Xbox Controller,Product inquiry,Data loss,Low,Email,0
+68,MacBook Pro,Technical issue,Network problem,Critical,Chat,1
+68,Apple AirPods,Product inquiry,Network problem,High,Chat,0
+43,Nikon D,Billing inquiry,Account access,High,Social media,1
+19,Roomba Robot Vacuum,Product inquiry,Hardware issue,Critical,Email,1
+54,GoPro Action Camera,Cancellation request,Payment issue,Medium,Chat,0
+59,Microsoft Office,Cancellation request,Product recommendation,Low,Chat,0
+29,Garmin Forerunner,Product inquiry,Product setup,Low,Chat,0
+38,Nintendo Switch Pro Controller,Product inquiry,Hardware issue,High,Phone,0
+43,GoPro Hero,Technical issue,Battery life,High,Chat,0
+45,Google Pixel,Cancellation request,Hardware issue,Critical,Email,1
+67,Nintendo Switch,Cancellation request,Network problem,Low,Social media,0
+64,HP Pavilion,Cancellation request,Account access,Low,Chat,0
+49,LG OLED,Refund request,Hardware issue,High,Email,1
+54,HP Pavilion,Billing inquiry,Payment issue,Medium,Email,1
+60,Samsung Soundbar,Technical issue,Network problem,Medium,Email,1
+34,LG Smart TV,Cancellation request,Peripheral compatibility,Medium,Email,0
+26,Autodesk AutoCAD,Product inquiry,Data loss,Critical,Phone,1
+59,Apple AirPods,Billing inquiry,Software bug,High,Email,1
+65,Sony 4K HDR TV,Billing inquiry,Hardware issue,Medium,Phone,1
+33,Nest Thermostat,Cancellation request,Account access,Medium,Chat,0
+38,Adobe Photoshop,Cancellation request,Data loss,Critical,Social media,1
+44,Garmin Forerunner,Billing inquiry,Refund request,Low,Chat,0
+20,Lenovo ThinkPad,Billing inquiry,Software bug,Low,Email,0
+33,Apple AirPods,Refund request,Battery life,High,Social media,0
+69,Lenovo ThinkPad,Technical issue,Software bug,Medium,Email,0
+19,Google Pixel,Technical issue,Peripheral compatibility,Low,Social media,0
+65,Autodesk AutoCAD,Cancellation request,Delivery problem,High,Phone,0
+32,iPhone,Technical issue,Network problem,Medium,Chat,1
+64,LG Washing Machine,Technical issue,Display issue,Medium,Email,1
+42,Google Pixel,Refund request,Account access,Critical,Email,0
+44,Nintendo Switch,Cancellation request,Display issue,High,Chat,0
+36,PlayStation,Technical issue,Refund request,Critical,Phone,1
+27,Asus ROG,Technical issue,Battery life,High,Email,1
+60,Lenovo ThinkPad,Product inquiry,Account access,High,Phone,0
+33,LG Washing Machine,Billing inquiry,Cancellation request,Medium,Social media,1
+56,LG Washing Machine,Billing inquiry,Battery life,Medium,Chat,0
+23,Fitbit Charge,Refund request,Hardware issue,Low,Email,0
+43,Nikon D,Product inquiry,Network problem,Medium,Social media,0
+45,HP Pavilion,Billing inquiry,Software bug,Low,Email,0
+46,Sony 4K HDR TV,Billing inquiry,Software bug,High,Phone,1
+60,HP Pavilion,Product inquiry,Product compatibility,Medium,Phone,1
+52,Microsoft Office,Cancellation request,Account access,High,Phone,1
+42,Autodesk AutoCAD,Refund request,Cancellation request,Critical,Email,0
+34,Nest Thermostat,Technical issue,Peripheral compatibility,Critical,Social media,1
+65,Samsung Galaxy,Billing inquiry,Software bug,High,Phone,0
+35,Fitbit Charge,Technical issue,Product compatibility,High,Social media,0
+70,PlayStation,Billing inquiry,Delivery problem,Low,Social media,0
+32,Adobe Photoshop,Refund request,Battery life,Medium,Email,1
+70,Autodesk AutoCAD,Technical issue,Peripheral compatibility,Medium,Chat,0
+31,Fitbit Versa Smartwatch,Refund request,Product setup,High,Social media,0
+42,Roomba Robot Vacuum,Cancellation request,Data loss,High,Social media,1
+36,MacBook Pro,Product inquiry,Refund request,Low,Social media,0
+35,Philips Hue Lights,Technical issue,Display issue,High,Phone,0
+48,Sony Xperia,Technical issue,Hardware issue,Critical,Phone,1
+35,PlayStation,Refund request,Hardware issue,Low,Social media,0
+52,Canon DSLR Camera,Technical issue,Product compatibility,High,Phone,1
+23,Sony 4K HDR TV,Cancellation request,Network problem,High,Phone,0
+43,Microsoft Office,Refund request,Hardware issue,High,Email,0
+25,Fitbit Charge,Product inquiry,Display issue,Critical,Social media,1
+65,Nest Thermostat,Billing inquiry,Hardware issue,Medium,Phone,1
+55,LG Washing Machine,Product inquiry,Product setup,High,Email,1
+31,Sony PlayStation,Technical issue,Account access,Medium,Chat,0
+20,Amazon Echo,Cancellation request,Data loss,Critical,Email,0
+51,Sony PlayStation,Technical issue,Product setup,Low,Social media,0
+30,Roomba Robot Vacuum,Refund request,Network problem,Medium,Phone,0
+53,Lenovo ThinkPad,Refund request,Network problem,High,Email,0
+34,Bose QuietComfort,Product inquiry,Battery life,Low,Social media,0
+26,PlayStation,Billing inquiry,Refund request,Medium,Social media,0
+67,Nest Thermostat,Refund request,Product setup,Low,Phone,0
+60,Autodesk AutoCAD,Refund request,Hardware issue,Low,Phone,0
+19,GoPro Action Camera,Product inquiry,Network problem,Medium,Phone,1
+54,HP Pavilion,Cancellation request,Product setup,Low,Social media,0
+52,Fitbit Versa Smartwatch,Billing inquiry,Cancellation request,Critical,Email,1
+63,Lenovo ThinkPad,Billing inquiry,Peripheral compatibility,Critical,Phone,1
+20,Bose SoundLink Speaker,Refund request,Refund request,Medium,Email,0
+56,GoPro Hero,Product inquiry,Hardware issue,Critical,Chat,0
+46,Dyson Vacuum Cleaner,Billing inquiry,Installation support,Medium,Phone,0
+62,Google Pixel,Billing inquiry,Display issue,Critical,Email,1
+41,Microsoft Office,Billing inquiry,Hardware issue,Low,Email,0
+66,Asus ROG,Billing inquiry,Software bug,Medium,Phone,0
+51,Nintendo Switch Pro Controller,Billing inquiry,Cancellation request,Medium,Email,0
+60,Bose QuietComfort,Product inquiry,Product compatibility,Critical,Social media,1
+51,Canon EOS,Product inquiry,Installation support,High,Phone,1
+21,Asus ROG,Refund request,Battery life,Medium,Email,0
+61,Google Pixel,Product inquiry,Product setup,Low,Chat,0
+53,LG Smart TV,Refund request,Cancellation request,High,Email,1
+65,Google Pixel,Billing inquiry,Software bug,High,Phone,1
+60,Nest Thermostat,Product inquiry,Peripheral compatibility,Medium,Social media,0
+45,Amazon Echo,Refund request,Display issue,Medium,Phone,0
+44,Microsoft Xbox Controller,Refund request,Product setup,Critical,Social media,0
+34,MacBook Pro,Cancellation request,Installation support,High,Social media,1
+34,Garmin Forerunner,Refund request,Software bug,Low,Email,0
+34,Google Pixel,Product inquiry,Installation support,Medium,Social media,1
+67,Apple AirPods,Technical issue,Refund request,Low,Social media,0
+43,Bose SoundLink Speaker,Cancellation request,Product setup,Critical,Social media,1
+18,Garmin Forerunner,Billing inquiry,Account access,High,Phone,0
+44,Sony PlayStation,Billing inquiry,Hardware issue,High,Chat,1
+70,Samsung Galaxy,Technical issue,Software bug,Low,Email,0
+44,Nest Thermostat,Cancellation request,Display issue,Critical,Phone,1
+44,Nintendo Switch Pro Controller,Billing inquiry,Payment issue,Critical,Phone,0
+65,Roomba Robot Vacuum,Billing inquiry,Software bug,Critical,Chat,0
+31,Microsoft Xbox Controller,Refund request,Hardware issue,Low,Phone,0
+69,HP Pavilion,Refund request,Hardware issue,Low,Email,0
+31,Dyson Vacuum Cleaner,Cancellation request,Battery life,Medium,Phone,1
+65,Apple AirPods,Technical issue,Delivery problem,High,Social media,1
+41,Fitbit Charge,Product inquiry,Product setup,Low,Email,0
+20,LG OLED,Billing inquiry,Data loss,Medium,Social media,1
+29,Philips Hue Lights,Cancellation request,Network problem,Medium,Social media,1
+29,Microsoft Office,Cancellation request,Account access,High,Chat,0
+33,Apple AirPods,Cancellation request,Account access,Medium,Social media,0
+20,Dell XPS,Technical issue,Network problem,Critical,Email,1
+54,Sony Xperia,Technical issue,Account access,High,Phone,1
+33,PlayStation,Billing inquiry,Refund request,Critical,Phone,1
+64,Canon EOS,Refund request,Delivery problem,High,Email,0
+30,Nest Thermostat,Product inquiry,Product recommendation,Critical,Social media,1
+52,Bose QuietComfort,Refund request,Refund request,Low,Email,0
+70,Dell XPS,Technical issue,Hardware issue,High,Phone,1
+27,Amazon Echo,Product inquiry,Product compatibility,Low,Email,0
+68,Adobe Photoshop,Refund request,Display issue,Low,Chat,0
+31,Asus ROG,Cancellation request,Network problem,Medium,Email,0
+60,Roomba Robot Vacuum,Cancellation request,Delivery problem,High,Email,0
+35,Apple AirPods,Billing inquiry,Software bug,Low,Social media,0
+51,Roomba Robot Vacuum,Refund request,Refund request,Medium,Social media,0
+54,Garmin Forerunner,Refund request,Product compatibility,High,Social media,0
+56,Fitbit Versa Smartwatch,Technical issue,Display issue,Critical,Phone,1
+26,Dyson Vacuum Cleaner,Billing inquiry,Network problem,Medium,Chat,1
+56,Asus ROG,Technical issue,Product compatibility,Critical,Chat,1
+64,Roomba Robot Vacuum,Product inquiry,Battery life,Low,Social media,0
+45,Google Nest,Product inquiry,Software bug,Medium,Phone,0
+57,Lenovo ThinkPad,Refund request,Battery life,Medium,Social media,0
+58,Adobe Photoshop,Billing inquiry,Product setup,Medium,Email,0
+20,Microsoft Xbox Controller,Technical issue,Product compatibility,High,Social media,1
+51,LG Smart TV,Billing inquiry,Battery life,High,Social media,0
+50,Sony PlayStation,Refund request,Installation support,Medium,Email,0
+43,iPhone,Billing inquiry,Refund request,High,Chat,0
+44,Samsung Galaxy,Billing inquiry,Display issue,Medium,Chat,0
+38,Roomba Robot Vacuum,Billing inquiry,Product setup,Medium,Phone,0
+22,LG Smart TV,Technical issue,Delivery problem,High,Phone,1
+24,Roomba Robot Vacuum,Product inquiry,Battery life,Low,Chat,0
+56,GoPro Action Camera,Technical issue,Delivery problem,Low,Chat,0
+45,GoPro Hero,Technical issue,Product compatibility,High,Phone,1
+46,Google Nest,Cancellation request,Battery life,High,Social media,1
+55,Microsoft Office,Refund request,Display issue,Low,Email,0
+30,HP Pavilion,Product inquiry,Peripheral compatibility,Critical,Chat,1
+20,Xbox,Technical issue,Product recommendation,Critical,Social media,0
+30,Amazon Echo,Refund request,Product recommendation,Medium,Social media,0
+28,Dyson Vacuum Cleaner,Technical issue,Account access,Low,Phone,0
+49,Dyson Vacuum Cleaner,Cancellation request,Account access,High,Phone,0
+20,Apple AirPods,Refund request,Delivery problem,Low,Chat,0
+29,PlayStation,Technical issue,Refund request,Low,Social media,0
+28,Apple AirPods,Technical issue,Product recommendation,Low,Social media,0
+26,Canon DSLR Camera,Billing inquiry,Data loss,Low,Social media,0
+53,Canon DSLR Camera,Product inquiry,Product setup,Critical,Social media,1
+55,Bose QuietComfort,Technical issue,Display issue,Medium,Chat,1
+59,Samsung Galaxy,Cancellation request,Data loss,Critical,Email,1
+30,Amazon Kindle,Technical issue,Delivery problem,Medium,Chat,1
+68,Nintendo Switch,Billing inquiry,Refund request,Low,Email,0
+56,Bose SoundLink Speaker,Product inquiry,Refund request,Medium,Chat,0
+42,GoPro Action Camera,Product inquiry,Network problem,High,Phone,1
+45,LG Smart TV,Product inquiry,Battery life,High,Chat,1
+60,iPhone,Product inquiry,Account access,Medium,Phone,0
+56,Canon EOS,Refund request,Product recommendation,Low,Phone,0
+48,Samsung Galaxy,Technical issue,Data loss,Medium,Email,0
+24,GoPro Hero,Technical issue,Display issue,Medium,Phone,0
+27,Fitbit Versa Smartwatch,Technical issue,Data loss,High,Social media,0
+22,Nikon D,Cancellation request,Installation support,Medium,Email,0
+29,Garmin Forerunner,Cancellation request,Data loss,Medium,Email,0
+54,Nikon D,Technical issue,Payment issue,High,Chat,1
+55,Canon DSLR Camera,Technical issue,Battery life,Critical,Social media,1
+70,iPhone,Refund request,Installation support,Medium,Chat,0
+31,Xbox,Billing inquiry,Peripheral compatibility,Critical,Chat,1
+52,Dyson Vacuum Cleaner,Technical issue,Battery life,Critical,Phone,1
+30,GoPro Action Camera,Cancellation request,Hardware issue,Medium,Email,0
+61,Apple AirPods,Cancellation request,Account access,Critical,Social media,0
+56,GoPro Hero,Billing inquiry,Product compatibility,Critical,Chat,1
+22,Roomba Robot Vacuum,Refund request,Network problem,Medium,Email,0
+32,Amazon Kindle,Refund request,Data loss,Low,Email,0
+67,Autodesk AutoCAD,Product inquiry,Battery life,Low,Chat,0
+51,Dyson Vacuum Cleaner,Technical issue,Display issue,Low,Social media,0
+20,Amazon Echo,Product inquiry,Hardware issue,Low,Social media,0
+62,Roomba Robot Vacuum,Refund request,Hardware issue,Low,Phone,0
+21,Apple AirPods,Billing inquiry,Software bug,Critical,Chat,0
+61,GoPro Hero,Product inquiry,Network problem,Critical,Phone,1
+30,Bose QuietComfort,Billing inquiry,Product compatibility,Medium,Social media,0
+24,Google Pixel,Cancellation request,Payment issue,Critical,Social media,1
+57,LG OLED,Product inquiry,Delivery problem,Critical,Social media,1
+33,iPhone,Refund request,Refund request,Medium,Phone,0
+56,Lenovo ThinkPad,Product inquiry,Cancellation request,Critical,Phone,1
+52,Bose QuietComfort,Technical issue,Delivery problem,Critical,Phone,1
+41,Bose QuietComfort,Refund request,Payment issue,High,Chat,1
+68,Sony PlayStation,Cancellation request,Refund request,High,Chat,1
+39,Google Pixel,Refund request,Battery life,Medium,Chat,0
+22,Dyson Vacuum Cleaner,Refund request,Hardware issue,Medium,Chat,0
+27,Garmin Forerunner,Refund request,Product setup,Low,Email,0
+70,GoPro Hero,Technical issue,Hardware issue,Critical,Email,1
+55,HP Pavilion,Billing inquiry,Cancellation request,Medium,Phone,1
+55,Dyson Vacuum Cleaner,Cancellation request,Software bug,Low,Social media,0
+19,Samsung Galaxy,Refund request,Product compatibility,Medium,Chat,0
+38,Microsoft Surface,Product inquiry,Hardware issue,High,Phone,0
+39,GoPro Hero,Product inquiry,Product recommendation,Critical,Phone,1
+69,Adobe Photoshop,Refund request,Battery life,High,Social media,1
+34,Roomba Robot Vacuum,Technical issue,Account access,Low,Chat,0
+38,LG Smart TV,Product inquiry,Product setup,Critical,Social media,1
+70,Dyson Vacuum Cleaner,Cancellation request,Network problem,Critical,Email,1
+42,PlayStation,Billing inquiry,Product recommendation,Critical,Email,0
+57,Microsoft Office,Technical issue,Account access,Low,Email,0
+68,Samsung Soundbar,Billing inquiry,Payment issue,Critical,Phone,1
+47,GoPro Hero,Billing inquiry,Network problem,Low,Social media,0
+37,Microsoft Surface,Refund request,Account access,Critical,Email,1
+61,Dyson Vacuum Cleaner,Technical issue,Product recommendation,Low,Chat,0
+18,LG Smart TV,Product inquiry,Battery life,High,Phone,0
+27,LG Smart TV,Cancellation request,Product recommendation,Critical,Email,1
+44,Amazon Kindle,Technical issue,Cancellation request,Low,Chat,0
+19,Canon DSLR Camera,Billing inquiry,Display issue,Critical,Phone,1
+70,Canon DSLR Camera,Refund request,Cancellation request,Low,Email,0
+27,Microsoft Xbox Controller,Billing inquiry,Installation support,High,Phone,0
+57,Sony Xperia,Billing inquiry,Display issue,High,Social media,0
+59,Roomba Robot Vacuum,Billing inquiry,Product setup,Low,Social media,0
+59,Microsoft Surface,Billing inquiry,Battery life,Medium,Phone,0
+19,Nintendo Switch Pro Controller,Cancellation request,Product setup,Low,Email,0
+62,iPhone,Billing inquiry,Network problem,Critical,Phone,1
+20,Nikon D,Cancellation request,Payment issue,Low,Social media,0
+37,Samsung Soundbar,Refund request,Installation support,Critical,Social media,1
+38,Sony PlayStation,Refund request,Product setup,High,Email,0
+47,Philips Hue Lights,Cancellation request,Delivery problem,Low,Social media,0
+53,GoPro Action Camera,Refund request,Product setup,Critical,Chat,1
+26,Roomba Robot Vacuum,Product inquiry,Refund request,High,Email,1
+42,Microsoft Surface,Product inquiry,Battery life,Medium,Chat,1
+48,Microsoft Surface,Billing inquiry,Product recommendation,High,Email,0
+44,Roomba Robot Vacuum,Product inquiry,Refund request,Critical,Chat,1
+30,LG Washing Machine,Product inquiry,Battery life,High,Email,1
+29,Bose SoundLink Speaker,Cancellation request,Installation support,High,Email,0
+56,Apple AirPods,Refund request,Payment issue,Critical,Email,1
+68,LG OLED,Billing inquiry,Installation support,Low,Chat,0
+41,Amazon Echo,Technical issue,Data loss,Critical,Email,1
+57,Microsoft Surface,Cancellation request,Payment issue,High,Chat,0
+41,Microsoft Surface,Cancellation request,Product setup,High,Email,1
+21,Nintendo Switch,Cancellation request,Product compatibility,Critical,Phone,0
+25,Nikon D,Refund request,Battery life,High,Email,1
+51,Dell XPS,Cancellation request,Product setup,High,Phone,0
+52,Amazon Kindle,Refund request,Account access,Critical,Chat,1
+40,Google Pixel,Product inquiry,Network problem,Medium,Social media,0
+53,Philips Hue Lights,Refund request,Delivery problem,Medium,Email,1
+64,LG OLED,Billing inquiry,Data loss,Low,Email,0
+46,GoPro Action Camera,Cancellation request,Payment issue,Critical,Email,0
+51,LG Smart TV,Cancellation request,Network problem,Low,Chat,0
+26,Canon EOS,Technical issue,Display issue,High,Chat,1
+53,Xbox,Refund request,Hardware issue,Low,Chat,0
+58,Samsung Soundbar,Technical issue,Delivery problem,High,Social media,0
+65,LG Smart TV,Product inquiry,Hardware issue,Medium,Phone,0
+24,Google Pixel,Billing inquiry,Product setup,Low,Email,0
+45,Fitbit Versa Smartwatch,Technical issue,Product recommendation,Low,Email,0
+35,Lenovo ThinkPad,Billing inquiry,Peripheral compatibility,Low,Social media,0
+38,Sony 4K HDR TV,Product inquiry,Delivery problem,High,Phone,1
+46,PlayStation,Billing inquiry,Data loss,Low,Email,0
+45,Nintendo Switch Pro Controller,Billing inquiry,Product recommendation,Medium,Phone,0
+20,Bose QuietComfort,Product inquiry,Installation support,Critical,Phone,1
+26,MacBook Pro,Technical issue,Cancellation request,Critical,Email,0
+30,MacBook Pro,Refund request,Display issue,Critical,Chat,1
+28,LG Washing Machine,Refund request,Refund request,Medium,Phone,0
+69,Nintendo Switch Pro Controller,Cancellation request,Data loss,Medium,Chat,1
+33,Samsung Galaxy,Refund request,Product setup,High,Social media,1
+59,PlayStation,Billing inquiry,Account access,Critical,Chat,0
+68,Sony PlayStation,Billing inquiry,Account access,Low,Email,0
+51,Canon DSLR Camera,Technical issue,Software bug,High,Phone,0
+63,Nintendo Switch,Cancellation request,Software bug,High,Chat,1
+44,Canon DSLR Camera,Product inquiry,Software bug,Low,Chat,0
+37,Sony Xperia,Billing inquiry,Peripheral compatibility,High,Social media,1
+59,Xbox,Technical issue,Battery life,Critical,Phone,1
+68,Amazon Echo,Refund request,Installation support,High,Chat,1
+40,Philips Hue Lights,Cancellation request,Product recommendation,Medium,Email,0
+50,Bose SoundLink Speaker,Technical issue,Product compatibility,Low,Chat,0
+60,Microsoft Xbox Controller,Technical issue,Product setup,Low,Phone,0
+23,Lenovo ThinkPad,Technical issue,Data loss,Low,Email,0
+19,Canon EOS,Cancellation request,Peripheral compatibility,Critical,Email,0
+67,Asus ROG,Technical issue,Product setup,Low,Chat,0
+19,GoPro Hero,Refund request,Peripheral compatibility,Critical,Phone,0
+64,LG Smart TV,Cancellation request,Product recommendation,Low,Social media,0
+56,Garmin Forerunner,Billing inquiry,Network problem,High,Email,1
+43,GoPro Hero,Technical issue,Data loss,Medium,Email,0
+42,Bose QuietComfort,Technical issue,Hardware issue,High,Chat,0
+26,LG Smart TV,Cancellation request,Hardware issue,High,Email,1
+38,Dyson Vacuum Cleaner,Technical issue,Data loss,Medium,Social media,0
+46,Nest Thermostat,Cancellation request,Display issue,High,Phone,0
+42,Google Pixel,Product inquiry,Refund request,Medium,Email,0
+68,HP Pavilion,Refund request,Delivery problem,Critical,Chat,0
+52,Apple AirPods,Refund request,Product recommendation,High,Email,1
+28,Xbox,Cancellation request,Refund request,Medium,Social media,0
+68,iPhone,Technical issue,Account access,High,Social media,1
+18,Philips Hue Lights,Refund request,Peripheral compatibility,High,Social media,1
+44,Fitbit Versa Smartwatch,Technical issue,Hardware issue,Critical,Email,1
+51,Autodesk AutoCAD,Refund request,Data loss,Low,Chat,0
+62,Samsung Galaxy,Technical issue,Peripheral compatibility,High,Email,1
+45,Google Nest,Product inquiry,Delivery problem,Medium,Phone,0
+40,Adobe Photoshop,Cancellation request,Refund request,High,Chat,0
+46,Nintendo Switch,Cancellation request,Refund request,Medium,Chat,0
+54,Garmin Forerunner,Cancellation request,Data loss,High,Email,1
+64,Autodesk AutoCAD,Billing inquiry,Network problem,Critical,Email,1
+37,GoPro Action Camera,Refund request,Battery life,Low,Chat,0
+68,iPhone,Technical issue,Refund request,High,Email,0
+45,Dell XPS,Refund request,Display issue,Critical,Chat,1
+34,LG Washing Machine,Refund request,Hardware issue,High,Phone,1
+69,Google Pixel,Cancellation request,Cancellation request,Critical,Email,1
+40,Microsoft Xbox Controller,Cancellation request,Product setup,High,Phone,1
+23,Bose SoundLink Speaker,Billing inquiry,Software bug,Critical,Phone,1
+69,Sony Xperia,Cancellation request,Cancellation request,High,Email,0
+22,Nest Thermostat,Billing inquiry,Product compatibility,Medium,Email,0
+60,Microsoft Office,Refund request,Installation support,Low,Chat,0
+20,Google Pixel,Product inquiry,Product compatibility,High,Social media,0
+27,Sony PlayStation,Refund request,Account access,Critical,Chat,1
+63,Nikon D,Product inquiry,Display issue,Medium,Social media,0
+23,Nikon D,Technical issue,Display issue,Medium,Social media,1
+38,Nest Thermostat,Product inquiry,Display issue,Critical,Email,0
+27,Fitbit Charge,Billing inquiry,Product compatibility,Medium,Phone,0
+36,Xbox,Technical issue,Product compatibility,High,Phone,1
+61,Philips Hue Lights,Refund request,Installation support,Low,Social media,0
+25,MacBook Pro,Billing inquiry,Data loss,Medium,Phone,0
+53,MacBook Pro,Refund request,Product compatibility,Medium,Chat,0
+31,Lenovo ThinkPad,Technical issue,Delivery problem,Low,Email,0
+48,Canon DSLR Camera,Cancellation request,Software bug,Medium,Email,1
+20,Amazon Kindle,Cancellation request,Refund request,Critical,Social media,0
+60,Fitbit Charge,Technical issue,Product recommendation,Critical,Social media,1
+27,Canon DSLR Camera,Billing inquiry,Hardware issue,High,Phone,0
+50,iPhone,Technical issue,Cancellation request,High,Social media,1
+24,Autodesk AutoCAD,Refund request,Network problem,High,Email,0
+24,iPhone,Technical issue,Account access,Low,Chat,0
+54,Apple AirPods,Refund request,Peripheral compatibility,Low,Social media,0
+22,Xbox,Cancellation request,Product recommendation,Medium,Email,1
+35,Autodesk AutoCAD,Technical issue,Battery life,Medium,Chat,0
+23,Sony Xperia,Technical issue,Product compatibility,High,Phone,0
+50,Amazon Echo,Product inquiry,Product setup,Low,Social media,0
+56,Lenovo ThinkPad,Refund request,Delivery problem,Critical,Phone,0
+60,Amazon Echo,Refund request,Network problem,Critical,Social media,1
+39,Sony 4K HDR TV,Refund request,Peripheral compatibility,Low,Chat,0
+45,Roomba Robot Vacuum,Billing inquiry,Installation support,High,Social media,1
+29,Sony PlayStation,Cancellation request,Software bug,Medium,Social media,1
+51,Fitbit Charge,Refund request,Display issue,Critical,Social media,1
+34,Dell XPS,Cancellation request,Cancellation request,Low,Email,0
+59,Amazon Echo,Cancellation request,Account access,High,Chat,1
+65,Sony 4K HDR TV,Cancellation request,Account access,High,Phone,1
+57,LG Smart TV,Billing inquiry,Display issue,Medium,Social media,0
+38,Google Nest,Refund request,Product setup,Critical,Email,1
+33,Nest Thermostat,Billing inquiry,Battery life,Medium,Email,0
+63,Nest Thermostat,Product inquiry,Product recommendation,Critical,Social media,1
+69,Nest Thermostat,Technical issue,Display issue,Critical,Email,1
+55,GoPro Action Camera,Refund request,Delivery problem,Medium,Chat,0
+57,Google Nest,Refund request,Product recommendation,Medium,Phone,0
+32,Xbox,Product inquiry,Software bug,Low,Email,0
+22,MacBook Pro,Technical issue,Product setup,Medium,Email,0
+44,Google Pixel,Billing inquiry,Network problem,Critical,Email,1
+53,Amazon Kindle,Product inquiry,Network problem,Medium,Email,1
+19,MacBook Pro,Technical issue,Battery life,Medium,Email,0
+52,Google Pixel,Refund request,Product compatibility,High,Social media,1
+50,Asus ROG,Refund request,Payment issue,Medium,Phone,0
+55,LG Washing Machine,Cancellation request,Product setup,Medium,Social media,0
+41,Microsoft Surface,Refund request,Data loss,Low,Chat,0
+58,Fitbit Versa Smartwatch,Cancellation request,Account access,High,Email,0
+25,GoPro Action Camera,Product inquiry,Payment issue,Critical,Social media,1
+30,Samsung Soundbar,Technical issue,Product setup,Low,Email,0
+45,Microsoft Office,Technical issue,Hardware issue,Critical,Chat,1
+28,Amazon Echo,Technical issue,Software bug,Critical,Email,1
+36,GoPro Action Camera,Product inquiry,Installation support,Medium,Social media,0
+49,Roomba Robot Vacuum,Billing inquiry,Product compatibility,Critical,Social media,1
+65,HP Pavilion,Cancellation request,Refund request,Critical,Email,1
+60,Garmin Forerunner,Cancellation request,Product setup,Low,Chat,0
+18,Adobe Photoshop,Technical issue,Product compatibility,High,Chat,0
+49,Microsoft Surface,Technical issue,Software bug,Low,Social media,0
+29,HP Pavilion,Refund request,Account access,High,Social media,1
+26,Autodesk AutoCAD,Billing inquiry,Product recommendation,Low,Email,0
+27,Xbox,Cancellation request,Refund request,Low,Social media,0
+49,Nest Thermostat,Technical issue,Network problem,Low,Social media,0
+66,Canon EOS,Technical issue,Installation support,Medium,Email,1
+29,iPhone,Refund request,Display issue,Critical,Phone,0
+63,Lenovo ThinkPad,Cancellation request,Refund request,Medium,Chat,0
+68,Fitbit Versa Smartwatch,Refund request,Data loss,Low,Chat,0
+39,Sony 4K HDR TV,Technical issue,Hardware issue,Critical,Social media,1
+59,Amazon Kindle,Billing inquiry,Product compatibility,Critical,Social media,0
+33,Amazon Kindle,Refund request,Software bug,Low,Phone,0
+39,Bose SoundLink Speaker,Cancellation request,Cancellation request,High,Chat,1
+19,Amazon Kindle,Refund request,Hardware issue,Low,Social media,0
+43,Sony 4K HDR TV,Technical issue,Refund request,Low,Phone,0
+37,Microsoft Office,Cancellation request,Product recommendation,Medium,Phone,0
+65,Google Nest,Technical issue,Delivery problem,Medium,Chat,0
+61,Sony Xperia,Technical issue,Payment issue,Medium,Phone,0
+55,Google Nest,Product inquiry,Network problem,High,Social media,0
+18,Nintendo Switch Pro Controller,Product inquiry,Cancellation request,Critical,Phone,1
+34,Nintendo Switch,Refund request,Account access,Medium,Phone,0
+39,Samsung Soundbar,Cancellation request,Cancellation request,Critical,Phone,1
+23,Fitbit Charge,Refund request,Data loss,Medium,Email,0
+48,Roomba Robot Vacuum,Technical issue,Software bug,Medium,Chat,0
+51,Amazon Kindle,Refund request,Product setup,Critical,Chat,0
+41,Xbox,Refund request,Data loss,Critical,Phone,1
+51,Sony 4K HDR TV,Technical issue,Installation support,Medium,Email,0
+54,LG OLED,Refund request,Cancellation request,Medium,Social media,0
+61,Sony 4K HDR TV,Technical issue,Refund request,Low,Chat,0
+52,Lenovo ThinkPad,Product inquiry,Account access,Medium,Email,0
+60,Autodesk AutoCAD,Technical issue,Software bug,Low,Email,0
+21,MacBook Pro,Technical issue,Product recommendation,Critical,Chat,1
+25,PlayStation,Cancellation request,Delivery problem,Low,Email,0
+42,Fitbit Versa Smartwatch,Cancellation request,Display issue,High,Email,1
+67,Canon EOS,Cancellation request,Payment issue,Low,Email,0
+62,LG Washing Machine,Technical issue,Product setup,Low,Phone,0
+33,Google Pixel,Cancellation request,Hardware issue,Critical,Email,1
+60,iPhone,Technical issue,Software bug,Low,Social media,0
+22,Amazon Echo,Billing inquiry,Software bug,Critical,Social media,1
+53,Sony PlayStation,Refund request,Data loss,Medium,Email,1
+24,Microsoft Surface,Cancellation request,Refund request,Medium,Phone,1
+42,Bose SoundLink Speaker,Refund request,Account access,Critical,Phone,1
+66,Microsoft Office,Refund request,Refund request,Medium,Phone,0
+53,Sony Xperia,Billing inquiry,Network problem,Low,Chat,0
+22,Roomba Robot Vacuum,Technical issue,Data loss,High,Phone,0
+65,Canon DSLR Camera,Refund request,Software bug,Low,Chat,0
+27,Canon EOS,Technical issue,Product compatibility,High,Email,0
+33,Microsoft Office,Product inquiry,Account access,Critical,Phone,1
+41,Roomba Robot Vacuum,Refund request,Battery life,Critical,Phone,1
+32,Adobe Photoshop,Billing inquiry,Payment issue,Critical,Phone,1
+60,Bose QuietComfort,Billing inquiry,Payment issue,High,Social media,1
+25,Microsoft Xbox Controller,Technical issue,Display issue,Low,Chat,0
+37,Asus ROG,Product inquiry,Product setup,High,Chat,1
+38,Sony Xperia,Cancellation request,Peripheral compatibility,Critical,Email,0
+57,Microsoft Xbox Controller,Cancellation request,Payment issue,Medium,Phone,0
+49,Google Nest,Cancellation request,Payment issue,Medium,Chat,0
+21,LG Washing Machine,Cancellation request,Product recommendation,Medium,Social media,0
+18,Apple AirPods,Technical issue,Data loss,High,Email,1
+24,Canon DSLR Camera,Refund request,Product compatibility,Low,Email,0
+43,HP Pavilion,Technical issue,Network problem,Low,Email,0
+63,Canon EOS,Technical issue,Battery life,Medium,Chat,0
+39,Roomba Robot Vacuum,Technical issue,Delivery problem,High,Social media,1
+35,HP Pavilion,Billing inquiry,Product recommendation,Medium,Chat,1
+27,Samsung Galaxy,Technical issue,Display issue,Medium,Email,0
+51,Microsoft Surface,Product inquiry,Battery life,Low,Phone,0
+27,Nikon D,Product inquiry,Peripheral compatibility,Medium,Phone,0
+56,Asus ROG,Billing inquiry,Battery life,High,Social media,1
+49,Microsoft Office,Product inquiry,Delivery problem,Low,Chat,0
+40,Canon DSLR Camera,Product inquiry,Refund request,High,Email,1
+63,Dyson Vacuum Cleaner,Refund request,Account access,Critical,Chat,1
+39,Samsung Galaxy,Product inquiry,Product recommendation,Critical,Phone,1
+60,PlayStation,Billing inquiry,Display issue,Low,Social media,0
+65,Canon EOS,Cancellation request,Product recommendation,Critical,Email,0
+26,Autodesk AutoCAD,Product inquiry,Delivery problem,High,Chat,1
+45,Google Nest,Refund request,Peripheral compatibility,High,Chat,0
+24,Lenovo ThinkPad,Technical issue,Cancellation request,Medium,Phone,0
+35,Asus ROG,Refund request,Payment issue,Low,Phone,0
+57,HP Pavilion,Billing inquiry,Display issue,Low,Phone,0
+61,Microsoft Surface,Billing inquiry,Data loss,Low,Chat,0
+55,LG OLED,Billing inquiry,Display issue,Critical,Chat,0
+70,Nintendo Switch,Billing inquiry,Installation support,Low,Email,0
+38,LG Smart TV,Billing inquiry,Delivery problem,Low,Chat,0
+29,MacBook Pro,Refund request,Software bug,Critical,Phone,1
+48,Google Pixel,Technical issue,Battery life,Medium,Social media,0
+63,Samsung Galaxy,Technical issue,Display issue,Medium,Social media,0
+68,Microsoft Surface,Billing inquiry,Hardware issue,Medium,Email,0
+48,LG Smart TV,Cancellation request,Refund request,Low,Phone,0
+57,Xbox,Technical issue,Delivery problem,High,Social media,1
+70,Nest Thermostat,Technical issue,Software bug,High,Email,0
+67,Canon EOS,Technical issue,Product setup,High,Email,0
+29,LG OLED,Cancellation request,Hardware issue,Low,Phone,0
+33,LG OLED,Technical issue,Product setup,Critical,Email,1
+48,Adobe Photoshop,Billing inquiry,Network problem,High,Social media,0
+61,Nest Thermostat,Refund request,Data loss,Low,Email,0
+46,PlayStation,Technical issue,Account access,Medium,Email,0
+38,Philips Hue Lights,Product inquiry,Refund request,High,Phone,1
+39,Autodesk AutoCAD,Refund request,Product compatibility,Critical,Social media,1
+67,PlayStation,Billing inquiry,Software bug,Medium,Chat,0
+39,Dyson Vacuum Cleaner,Cancellation request,Product recommendation,Low,Email,0
+58,Google Pixel,Refund request,Installation support,Critical,Phone,0
+19,Apple AirPods,Cancellation request,Payment issue,Low,Email,0
+69,Nintendo Switch,Billing inquiry,Delivery problem,Critical,Phone,1
+22,LG Washing Machine,Refund request,Cancellation request,Medium,Social media,0
+45,LG OLED,Technical issue,Payment issue,High,Chat,1
+45,Microsoft Xbox Controller,Billing inquiry,Product recommendation,High,Email,1
+54,HP Pavilion,Refund request,Hardware issue,High,Email,0
+31,Amazon Echo,Billing inquiry,Data loss,High,Phone,0
+38,Sony PlayStation,Cancellation request,Battery life,Medium,Phone,0
+47,Amazon Kindle,Product inquiry,Peripheral compatibility,Critical,Social media,1
+45,LG Smart TV,Billing inquiry,Network problem,Medium,Phone,0
+43,Fitbit Charge,Cancellation request,Payment issue,Medium,Chat,0
+65,Google Nest,Refund request,Software bug,High,Phone,1
+23,Roomba Robot Vacuum,Cancellation request,Product setup,High,Chat,1
+65,LG Washing Machine,Cancellation request,Product compatibility,Medium,Email,0
+35,Fitbit Charge,Product inquiry,Product setup,High,Phone,1
+52,Canon DSLR Camera,Billing inquiry,Data loss,Medium,Social media,0
+20,LG Smart TV,Cancellation request,Battery life,High,Social media,0
+63,LG Washing Machine,Technical issue,Display issue,High,Phone,0
+36,Google Pixel,Refund request,Product recommendation,Medium,Chat,0
+33,Xbox,Cancellation request,Installation support,Critical,Chat,1
+37,Canon DSLR Camera,Product inquiry,Display issue,Medium,Chat,0
+52,Nest Thermostat,Billing inquiry,Battery life,High,Chat,0
+52,Roomba Robot Vacuum,Billing inquiry,Battery life,Critical,Social media,1
+35,iPhone,Refund request,Account access,High,Chat,1
+61,Adobe Photoshop,Technical issue,Cancellation request,Low,Social media,0
+45,PlayStation,Product inquiry,Refund request,Medium,Chat,0
+25,Roomba Robot Vacuum,Billing inquiry,Product setup,Critical,Email,0
+50,Apple AirPods,Refund request,Peripheral compatibility,High,Chat,1
+33,Xbox,Technical issue,Installation support,High,Chat,0
+24,PlayStation,Technical issue,Account access,Critical,Phone,1
+24,Sony PlayStation,Billing inquiry,Software bug,High,Email,0
+38,Lenovo ThinkPad,Billing inquiry,Refund request,Low,Phone,0
+50,Xbox,Product inquiry,Product compatibility,Medium,Social media,0
+65,Garmin Forerunner,Refund request,Refund request,Low,Email,0
+53,GoPro Hero,Product inquiry,Hardware issue,Medium,Phone,0
+69,Autodesk AutoCAD,Billing inquiry,Battery life,Medium,Chat,0
+48,Microsoft Office,Cancellation request,Network problem,Medium,Phone,0
+48,Samsung Soundbar,Product inquiry,Cancellation request,High,Social media,0
+66,HP Pavilion,Cancellation request,Installation support,Medium,Email,0
+23,MacBook Pro,Technical issue,Product setup,Medium,Chat,0
+69,Amazon Echo,Technical issue,Peripheral compatibility,Critical,Chat,0
+62,Microsoft Surface,Refund request,Software bug,High,Chat,0
+68,MacBook Pro,Cancellation request,Product recommendation,Critical,Phone,0
+18,Bose QuietComfort,Product inquiry,Software bug,Low,Social media,0
+68,Nintendo Switch,Cancellation request,Account access,High,Social media,0
+21,Microsoft Surface,Billing inquiry,Display issue,Critical,Chat,1
+58,Adobe Photoshop,Refund request,Account access,Medium,Chat,0
+44,Nintendo Switch,Refund request,Network problem,High,Chat,1
+29,PlayStation,Product inquiry,Hardware issue,Critical,Phone,1
+29,Google Nest,Refund request,Network problem,Medium,Email,0
+38,Sony 4K HDR TV,Product inquiry,Network problem,Medium,Chat,0
+66,Nikon D,Technical issue,Account access,Medium,Email,0
+69,Asus ROG,Technical issue,Data loss,Critical,Social media,1
+67,Apple AirPods,Product inquiry,Software bug,Critical,Chat,0
+65,Lenovo ThinkPad,Product inquiry,Network problem,Low,Chat,0
+39,Philips Hue Lights,Cancellation request,Product recommendation,Critical,Email,1
+52,LG Washing Machine,Cancellation request,Cancellation request,Low,Email,0
+44,GoPro Action Camera,Product inquiry,Refund request,Low,Email,0
+51,Philips Hue Lights,Product inquiry,Product recommendation,Low,Chat,0
+30,Dyson Vacuum Cleaner,Product inquiry,Account access,Low,Social media,0
+24,Dell XPS,Technical issue,Product compatibility,Low,Email,0
+18,Samsung Galaxy,Billing inquiry,Cancellation request,Low,Social media,0
+50,Sony PlayStation,Product inquiry,Peripheral compatibility,High,Social media,0
+37,Sony 4K HDR TV,Product inquiry,Delivery problem,Low,Email,0
+33,LG Smart TV,Product inquiry,Cancellation request,Medium,Social media,1
+20,Fitbit Charge,Technical issue,Payment issue,Medium,Phone,1
+30,iPhone,Refund request,Product setup,Critical,Phone,1
+48,Adobe Photoshop,Billing inquiry,Refund request,Medium,Social media,0
+47,Canon EOS,Billing inquiry,Delivery problem,High,Email,1
+18,Roomba Robot Vacuum,Billing inquiry,Hardware issue,Low,Social media,0
+49,PlayStation,Cancellation request,Cancellation request,Critical,Social media,0
+63,MacBook Pro,Product inquiry,Product setup,Critical,Phone,0
+40,LG OLED,Product inquiry,Product compatibility,Medium,Email,0
+58,Canon DSLR Camera,Billing inquiry,Cancellation request,Critical,Email,0
+39,Bose SoundLink Speaker,Cancellation request,Product setup,Medium,Email,0
+46,Bose SoundLink Speaker,Billing inquiry,Network problem,Critical,Phone,1
+45,Amazon Echo,Refund request,Delivery problem,Critical,Social media,0
+44,Bose SoundLink Speaker,Cancellation request,Display issue,Medium,Phone,1
+26,Apple AirPods,Cancellation request,Display issue,High,Social media,0
+34,Asus ROG,Technical issue,Data loss,Critical,Chat,1
+39,GoPro Hero,Billing inquiry,Hardware issue,Medium,Phone,0
+32,LG Smart TV,Technical issue,Peripheral compatibility,Low,Email,0
+48,Lenovo ThinkPad,Billing inquiry,Software bug,Low,Chat,0
+33,Garmin Forerunner,Refund request,Account access,Low,Phone,0
+23,Sony Xperia,Cancellation request,Payment issue,Critical,Email,0
+69,GoPro Hero,Refund request,Peripheral compatibility,Low,Phone,0
+43,Philips Hue Lights,Refund request,Payment issue,Critical,Email,1
+21,Fitbit Charge,Product inquiry,Installation support,Critical,Social media,1
+59,Dell XPS,Cancellation request,Cancellation request,Medium,Email,0
+50,Nintendo Switch Pro Controller,Refund request,Data loss,Low,Chat,0
+68,Fitbit Versa Smartwatch,Cancellation request,Network problem,Critical,Email,1
+67,Roomba Robot Vacuum,Refund request,Hardware issue,High,Phone,0
+29,Microsoft Office,Cancellation request,Delivery problem,High,Email,0
+29,Autodesk AutoCAD,Product inquiry,Refund request,Medium,Chat,0
+41,Xbox,Technical issue,Installation support,Medium,Phone,1
+36,Microsoft Surface,Billing inquiry,Payment issue,Medium,Phone,0
+60,Roomba Robot Vacuum,Refund request,Data loss,Critical,Phone,1
+24,Amazon Echo,Refund request,Refund request,Medium,Email,0
+63,Google Pixel,Billing inquiry,Software bug,Low,Chat,0
+70,Nintendo Switch,Billing inquiry,Network problem,Critical,Chat,1
+50,GoPro Hero,Technical issue,Installation support,Critical,Email,1
+69,Sony 4K HDR TV,Refund request,Display issue,High,Chat,0
+43,Autodesk AutoCAD,Refund request,Product compatibility,Low,Chat,0
+48,Samsung Galaxy,Billing inquiry,Delivery problem,High,Social media,1
+37,Sony Xperia,Cancellation request,Hardware issue,Medium,Chat,0
+34,LG Washing Machine,Billing inquiry,Product setup,Low,Chat,0
+62,MacBook Pro,Refund request,Display issue,Critical,Phone,1
+61,iPhone,Billing inquiry,Peripheral compatibility,High,Chat,1
+54,Dyson Vacuum Cleaner,Billing inquiry,Refund request,High,Email,1
+57,GoPro Action Camera,Technical issue,Account access,High,Social media,1
+54,PlayStation,Product inquiry,Payment issue,Medium,Email,0
